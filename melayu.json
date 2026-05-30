@@ -1,0 +1,922 @@
+[
+  {
+    "id": 935,
+    "nama": "Tengku",
+    "arab": "",
+    "arti": "Gelar bangsawan Melayu yang mulia dan terhormat",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 936,
+    "nama": "Razif",
+    "arab": "",
+    "arti": "Mulia dan terhormat dalam setiap tindakan",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 937,
+    "nama": "Hafizuddin",
+    "arab": "حافظ الدين",
+    "arti": "Penjaga agama yang kuat dan teguh",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 938,
+    "nama": "Badrul",
+    "arab": "بدر",
+    "arti": "Bulan purnama yang terang benderang",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 939,
+    "nama": "Fadzlan",
+    "arab": "فضلان",
+    "arti": "Keutamaan dan kelebihan yang dianugerahkan",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 940,
+    "nama": "Ghazali",
+    "arab": "غزالي",
+    "arti": "Rusa yang lincah, jiwa yang bebas dan murni",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 941,
+    "nama": "Hafizan",
+    "arab": "حافظان",
+    "arti": "Penghafal yang tekun dan istiqomah",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 942,
+    "nama": "Iskandar",
+    "arab": "إسكندر",
+    "arti": "Penakluk besar seperti Iskandar Agung",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 943,
+    "nama": "Johari",
+    "arab": "جوهري",
+    "arti": "Permata berharga yang bernilai tinggi",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 944,
+    "nama": "Khairul",
+    "arab": "خيرل",
+    "arti": "Kebaikan yang terbaik dan paling utama",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 945,
+    "nama": "Luqmanul",
+    "arab": "لقمانل",
+    "arti": "Kebijaksanaan Luqman yang terkenal abadi",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 946,
+    "nama": "Muzaffar",
+    "arab": "مظفر",
+    "arti": "Pemenang dan orang yang selalu berjaya",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 947,
+    "nama": "Nazirul",
+    "arab": "نذيرل",
+    "arti": "Pemberi peringatan yang adil dan bijak",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 948,
+    "nama": "Othman",
+    "arab": "عثمان",
+    "arti": "Anak bustard, gagah dan kuat berwibawa",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 949,
+    "nama": "Pahrol",
+    "arab": "",
+    "arti": "Pemuda yang penuh semangat dan teguh",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 950,
+    "nama": "Qushairi",
+    "arab": "قشيري",
+    "arti": "Nisbah pada ulama Melayu yang termasyhur",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 951,
+    "nama": "Ramli",
+    "arab": "رملي",
+    "arti": "Pasir halus yang lembut dan bersih",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 952,
+    "nama": "Syahrul",
+    "arab": "شهرل",
+    "arti": "Kemuliaan dan kemasyhuran yang abadi",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 953,
+    "nama": "Tarmizi",
+    "arab": "ترمذي",
+    "arti": "Nisbah ulama hadis yang termasyhur",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 954,
+    "nama": "Varian",
+    "arab": "",
+    "arti": "Pemuda modern yang dinamis dan berwawasan luas",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 955,
+    "nama": "Wan",
+    "arab": "",
+    "arti": "Gelar kebangsawanan Melayu yang terhormat",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 956,
+    "nama": "Yazid",
+    "arab": "يزيد",
+    "arti": "Bertambah baik dalam segala kebaikan",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 957,
+    "nama": "Zulkifli",
+    "arab": "ذو الكفل",
+    "arti": "Nabi yang penuh tanggung jawab dan mulia",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 958,
+    "nama": "Aidil",
+    "arab": "عيدل",
+    "arti": "Kemuliaan di hari raya yang penuh berkah",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 959,
+    "nama": "Bukhari",
+    "arab": "بخاري",
+    "arti": "Nisbah imam hadis yang agung dan termasyhur",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 960,
+    "nama": "Danial",
+    "arab": "دانيال",
+    "arti": "Hakim yang adil dan bijaksana",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 961,
+    "nama": "Ezwan",
+    "arab": "",
+    "arti": "Pemuda yang tampan dan berwibawa",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 962,
+    "nama": "Fadhli",
+    "arab": "فضلي",
+    "arti": "Keutamaan dan keistimewaan yang diberikan",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 963,
+    "nama": "Hafiz",
+    "arab": "حافظ",
+    "arti": "Penghafal Al-Quran yang mulia dan taqwa",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 964,
+    "nama": "Jasni",
+    "arab": "",
+    "arti": "Pemuda yang baik dan disukai banyak orang",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 965,
+    "nama": "Kamarul",
+    "arab": "قمرل",
+    "arti": "Cahaya bulan yang terang dan menawan",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 966,
+    "nama": "Mahathir",
+    "arab": "ماهر",
+    "arti": "Sangat mahir dan terampil dalam segala hal",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 967,
+    "nama": "Osman",
+    "arab": "عثمان",
+    "arti": "Pejuang yang gagah berani dan mulia",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 968,
+    "nama": "Pauzi",
+    "arab": "",
+    "arti": "Orang yang berjaya dan sukses",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 969,
+    "nama": "Rasyid",
+    "arab": "رشيد",
+    "arti": "Bijaksana dan selalu di jalan yang lurus",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 970,
+    "nama": "Syafiq",
+    "arab": "شفيق",
+    "arti": "Penyayang dan penuh belas kasihan",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 971,
+    "nama": "Tajuddin",
+    "arab": "تاج الدين",
+    "arti": "Mahkota agama yang mulia dan terpuji",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 972,
+    "nama": "Usamah",
+    "arab": "أسامة",
+    "arti": "Singa yang gagah pemberani dan disegani",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 973,
+    "nama": "Wahid",
+    "arab": "واحد",
+    "arti": "Yang satu, unik dan tiada tandingannya",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 974,
+    "nama": "Zafri",
+    "arab": "ظفري",
+    "arti": "Kemenangan yang gemilang dan membanggakan",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 975,
+    "nama": "Adzfar",
+    "arab": "أظفر",
+    "arti": "Pemenang yang selalu unggul dan berjaya",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 976,
+    "nama": "Baharudin",
+    "arab": "بهاء الدين",
+    "arti": "Keindahan agama yang memancar dan bercahaya",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 977,
+    "nama": "Dzulhijjah",
+    "arab": "ذو الحجة",
+    "arti": "Pemilik haji, lahir di bulan suci",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 978,
+    "nama": "Effendy",
+    "arab": "أفندي",
+    "arti": "Tuan yang terhormat dan berwibawa",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 979,
+    "nama": "Firdaus",
+    "arab": "فردوس",
+    "arti": "Surga tertinggi yang penuh kenikmatan",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 980,
+    "nama": "Hamdan",
+    "arab": "حمدان",
+    "arti": "Orang yang banyak memuji dan bersyukur",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 981,
+    "nama": "Ikmal",
+    "arab": "إكمال",
+    "arti": "Sempurna dan lengkap dalam setiap hal",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 982,
+    "nama": "Jauhari",
+    "arab": "جوهري",
+    "arti": "Permata bernilai tinggi yang tak ternilai",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 983,
+    "nama": "Kamaludin",
+    "arab": "كمال الدين",
+    "arti": "Kesempurnaan agama yang abadi dan mulia",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 984,
+    "nama": "Mahfuz",
+    "arab": "محفوظ",
+    "arti": "Terpelihara dan terjaga dengan baik",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 985,
+    "nama": "Naufal",
+    "arab": "نوفل",
+    "arti": "Dermawan yang suka memberi dan ringan tangan",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 986,
+    "nama": "Ridhwan",
+    "arab": "رضوان",
+    "arti": "Keredhaan Allah yang menjadi tujuan hidup",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 987,
+    "nama": "Termizi",
+    "arab": "ترمذي",
+    "arti": "Nisbah ulama hadis, penuh ilmu pengetahuan",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 988,
+    "nama": "Uwais",
+    "arab": "أويس",
+    "arti": "Nama sahabat nabi yang mulia dan taat",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 989,
+    "nama": "Zamri",
+    "arab": "زمري",
+    "arti": "Pemuda yang penuh semangat dan dinamis",
+    "asalBahasa": "Melayu",
+    "gender": "L"
+  },
+  {
+    "id": 990,
+    "nama": "Puteri",
+    "arab": "",
+    "arti": "Putri bangsawan yang cantik dan anggun",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 991,
+    "nama": "Aishah",
+    "arab": "عائشة",
+    "arti": "Yang hidup, penuh kehidupan dan semangat",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 992,
+    "nama": "Hasnah",
+    "arab": "حسناء",
+    "arti": "Cantik jelita dan penuh keindahan",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 993,
+    "nama": "Halimah",
+    "arab": "حليمة",
+    "arti": "Wanita yang sabar dan lemah lembut hatinya",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 994,
+    "nama": "Juliana",
+    "arab": "",
+    "arti": "Gadis yang muda dan penuh kecantikan",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 995,
+    "nama": "Lailatul",
+    "arab": "ليلة",
+    "arti": "Malam yang istimewa penuh kemuliaan",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 996,
+    "nama": "Mariam",
+    "arab": "مريم",
+    "arti": "Wanita suci yang terpilih dan mulia",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 997,
+    "nama": "Oanisah",
+    "arab": "",
+    "arti": "Wanita yang jinak dan penuh ketenangan",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 998,
+    "nama": "Ramlah",
+    "arab": "رملة",
+    "arti": "Pasir halus, wanita yang lemah lembut",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 999,
+    "nama": "Sofiah",
+    "arab": "صفية",
+    "arti": "Bersih, suci dan terpilih yang mulia",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1000,
+    "nama": "Tasnim",
+    "arab": "تسنيم",
+    "arti": "Mata air surga yang segar dan bersih",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1001,
+    "nama": "Ummi",
+    "arab": "أمي",
+    "arti": "Ibu yang penyayang dan penuh kasih",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1002,
+    "nama": "Zulaikha",
+    "arab": "زليخا",
+    "arti": "Cantik dan mempesona, penuh pesona hati",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1003,
+    "nama": "Bahiyah",
+    "arab": "بهية",
+    "arti": "Bersinar indah, wanita yang bercahaya",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1004,
+    "nama": "Dayang",
+    "arab": "",
+    "arti": "Gelar wanita bangsawan Melayu yang dihormati",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1005,
+    "nama": "Ellyza",
+    "arab": "",
+    "arti": "Gadis modern yang anggun dan berwibawa",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1006,
+    "nama": "Farhana",
+    "arab": "فرحانة",
+    "arti": "Gembira dan bahagia, hati yang riang",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1007,
+    "nama": "Habibah",
+    "arab": "حبيبة",
+    "arti": "Kekasih yang amat disayangi dan dicintai",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1008,
+    "nama": "Jamilah",
+    "arab": "جميلة",
+    "arti": "Cantik jelita luar dan dalam sepenuhnya",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1009,
+    "nama": "Latifah",
+    "arab": "لطيفة",
+    "arti": "Lembut hati dan penuh kebaikan",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1010,
+    "nama": "Maherah",
+    "arab": "ماهرة",
+    "arti": "Perempuan yang mahir dan terampil",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1011,
+    "nama": "Nazirah",
+    "arab": "نظيرة",
+    "arti": "Setara dan tiada bandingnya, sederajat",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1012,
+    "nama": "Qistina",
+    "arab": "قسطينا",
+    "arti": "Adil dan saksama dalam segala hal",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1013,
+    "nama": "Rabiah",
+    "arab": "رابعة",
+    "arti": "Musim semi yang indah dan menyejukkan",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1014,
+    "nama": "Tengku Alia",
+    "arab": "",
+    "arti": "Bangsawan Melayu yang mulia dan tinggi derajat",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1015,
+    "nama": "Umaira",
+    "arab": "عميرة",
+    "arti": "Pemilik umur panjang dan keberkahan hidup",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1016,
+    "nama": "Wahidah",
+    "arab": "واحدة",
+    "arti": "Satu-satunya yang unik dan tiada tandingan",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1017,
+    "nama": "Zahirah",
+    "arab": "ظاهرة",
+    "arti": "Bersinar terang dan jelas kemuliaannya",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1018,
+    "nama": "Durriyah",
+    "arab": "درية",
+    "arti": "Mutiara yang bersinar dan bernilai tinggi",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1019,
+    "nama": "Erma",
+    "arab": "",
+    "arti": "Gadis yang tabah dan penuh keteguhan hati",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1020,
+    "nama": "Farhanah",
+    "arab": "فرحانة",
+    "arti": "Penuh kegembiraan dan keceriaan hati",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1021,
+    "nama": "Hamidah",
+    "arab": "حميدة",
+    "arti": "Terpuji dan layak mendapat pujian",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1022,
+    "nama": "Insyirah",
+    "arab": "انشراح",
+    "arti": "Kelapangan dan ketenteraman jiwa yang damai",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1023,
+    "nama": "Junaidah",
+    "arab": "جنيدة",
+    "arti": "Nisbah pada ulama sufi yang mulia dan arif",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1024,
+    "nama": "Khairunnisa",
+    "arab": "خير النساء",
+    "arti": "Sebaik-baik wanita yang mulia dan terpuji",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1025,
+    "nama": "Maisarah",
+    "arab": "ميسرة",
+    "arti": "Kemudahan dan kelapangan dalam kehidupan",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1026,
+    "nama": "Nabihah",
+    "arab": "نبيهة",
+    "arti": "Cerdas dan pandai, berakal tinggi",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1027,
+    "nama": "Raudah",
+    "arab": "روضة",
+    "arti": "Taman bunga yang indah dan subur",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1028,
+    "nama": "Saadiah",
+    "arab": "سعدية",
+    "arti": "Kebahagiaan dan keberuntungan yang abadi",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1029,
+    "nama": "Thuwaibah",
+    "arab": "ثويبة",
+    "arti": "Penuh pahala kebaikan yang berlimpah",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1030,
+    "nama": "Umi Kalsum",
+    "arab": "أم كلثوم",
+    "arti": "Ibu yang berwajah bulat penuh kecantikan",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1031,
+    "nama": "Wafiyah",
+    "arab": "وافية",
+    "arti": "Setia dan memenuhi janji dengan tulus",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1032,
+    "nama": "Yusnita",
+    "arab": "",
+    "arti": "Perempuan cantik yang membawa kebaikan",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1033,
+    "nama": "Zarith",
+    "arab": "",
+    "arti": "Gadis Melayu modern yang bersinar dan istimewa",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1034,
+    "nama": "Azzahra",
+    "arab": "الزهراء",
+    "arti": "Bunga bersinar, gelar Siti Fatimah yang mulia",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1035,
+    "nama": "Bathiah",
+    "arab": "بتاء",
+    "arti": "Wanita yang periang dan membawa kesenangan",
+    "asalBahasa": "Melayu",
+    "gender": "P"
+  },
+  {
+    "id": 1036,
+    "nama": "Aman",
+    "arab": "أمان",
+    "arti": "Aman, damai dan tenteram dalam kehidupan",
+    "asalBahasa": "Melayu",
+    "gender": "U"
+  },
+  {
+    "id": 1037,
+    "nama": "Barakah",
+    "arab": "بركة",
+    "arti": "Penuh berkah dan keberuntungan dari Allah",
+    "asalBahasa": "Melayu",
+    "gender": "U"
+  },
+  {
+    "id": 1038,
+    "nama": "Cahaya",
+    "arab": "",
+    "arti": "Cahaya terang yang menerangi kegelapan",
+    "asalBahasa": "Melayu",
+    "gender": "U"
+  },
+  {
+    "id": 1039,
+    "nama": "Damai",
+    "arab": "",
+    "arti": "Kedamaian dan ketenangan jiwa sejati",
+    "asalBahasa": "Melayu",
+    "gender": "U"
+  },
+  {
+    "id": 1040,
+    "nama": "Eriqa",
+    "arab": "",
+    "arti": "Pemuda atau gadis yang selalu ceria",
+    "asalBahasa": "Melayu",
+    "gender": "U"
+  },
+  {
+    "id": 1041,
+    "nama": "Haikal",
+    "arab": "هيكل",
+    "arti": "Badan yang tegap kuat dan berwibawa",
+    "asalBahasa": "Melayu",
+    "gender": "U"
+  },
+  {
+    "id": 1042,
+    "nama": "Ilyana",
+    "arab": "",
+    "arti": "Anak yang tulus dan dekat hatinya",
+    "asalBahasa": "Melayu",
+    "gender": "U"
+  },
+  {
+    "id": 1043,
+    "nama": "Jauza",
+    "arab": "جوزاء",
+    "arti": "Bintang kembar yang bersinar di langit malam",
+    "asalBahasa": "Melayu",
+    "gender": "U"
+  },
+  {
+    "id": 1044,
+    "nama": "Khalish",
+    "arab": "خالص",
+    "arti": "Murni dan ikhlas tanpa campuran apapun",
+    "asalBahasa": "Melayu",
+    "gender": "U"
+  },
+  {
+    "id": 1045,
+    "nama": "Lembayung",
+    "arab": "",
+    "arti": "Sinar lembayung yang indah di kaki langit",
+    "asalBahasa": "Melayu",
+    "gender": "U"
+  },
+  {
+    "id": 1046,
+    "nama": "Mulia",
+    "arab": "",
+    "arti": "Mulia dan terhormat dalam segala hal",
+    "asalBahasa": "Melayu",
+    "gender": "U"
+  },
+  {
+    "id": 1047,
+    "nama": "Rezeki",
+    "arab": "",
+    "arti": "Rezeki berlimpah dari Allah yang Maha Pemberi",
+    "asalBahasa": "Melayu",
+    "gender": "U"
+  },
+  {
+    "id": 1048,
+    "nama": "Sayang",
+    "arab": "",
+    "arti": "Kasih sayang yang tulus dan tak terhingga",
+    "asalBahasa": "Melayu",
+    "gender": "U"
+  },
+  {
+    "id": 1049,
+    "nama": "Taqwa",
+    "arab": "تقوى",
+    "arti": "Bertakwa kepada Allah dengan sepenuh hati",
+    "asalBahasa": "Melayu",
+    "gender": "U"
+  }
+]
