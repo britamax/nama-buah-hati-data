@@ -1,0 +1,586 @@
+[
+  {
+    "id": 201,
+    "nama": "Andi",
+    "arab": "",
+    "arti": "Gagah berani, ksatria",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 202,
+    "nama": "Budi",
+    "arab": "",
+    "arti": "Berbudi pekerti, baik hati",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 203,
+    "nama": "Cahya",
+    "arab": "",
+    "arti": "Cahaya, sinar",
+    "asalBahasa": "Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 204,
+    "nama": "Darma",
+    "arab": "",
+    "arti": "Kebajikan, kebaikan",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 205,
+    "nama": "Eka",
+    "arab": "",
+    "arti": "Pertama, satu, tunggal",
+    "asalBahasa": "Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 206,
+    "nama": "Fitri",
+    "arab": "",
+    "arti": "Fitrah, suci, bersih",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 207,
+    "nama": "Guna",
+    "arab": "",
+    "arti": "Berguna, bermanfaat",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 208,
+    "nama": "Harapan",
+    "arab": "",
+    "arti": "Harapan, cita-cita",
+    "asalBahasa": "Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 209,
+    "nama": "Indah",
+    "arab": "",
+    "arti": "Indah, cantik, elok",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 210,
+    "nama": "Jaya",
+    "arab": "",
+    "arti": "Jaya, sukses, menang",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 211,
+    "nama": "Kasih",
+    "arab": "",
+    "arti": "Kasih sayang, cinta",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 212,
+    "nama": "Luhur",
+    "arab": "",
+    "arti": "Mulia, luhur budi",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 213,
+    "nama": "Murni",
+    "arab": "",
+    "arti": "Murni, bersih, suci",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 214,
+    "nama": "Nugroho",
+    "arab": "",
+    "arti": "Anugerah, karunia",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 215,
+    "nama": "Permata",
+    "arab": "",
+    "arti": "Permata, berharga",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 216,
+    "nama": "Putra",
+    "arab": "",
+    "arti": "Putra, anak laki-laki",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 217,
+    "nama": "Putri",
+    "arab": "",
+    "arti": "Putri, anak perempuan mulia",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 218,
+    "nama": "Rahmat",
+    "arab": "",
+    "arti": "Rahmat, berkah Tuhan",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 219,
+    "nama": "Setia",
+    "arab": "",
+    "arti": "Setia, loyal, dapat dipercaya",
+    "asalBahasa": "Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 220,
+    "nama": "Tulus",
+    "arab": "",
+    "arti": "Tulus, ikhlas, jujur",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 221,
+    "nama": "Utama",
+    "arab": "",
+    "arti": "Utama, terbaik, unggul",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 222,
+    "nama": "Widya",
+    "arab": "",
+    "arti": "Ilmu, pengetahuan",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 223,
+    "nama": "Zulkarnaen",
+    "arab": "",
+    "arti": "Pemilik dua tanduk, penakluk timur barat",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1268,
+    "nama": "Farel",
+    "arab": "",
+    "arti": "Pahlawan pemberani",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1276,
+    "nama": "Kenzie",
+    "arab": "",
+    "arti": "Pemimpin yang bijak",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1280,
+    "nama": "Bram",
+    "arab": "",
+    "arti": "Pemberani, kuat bertekad",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1284,
+    "nama": "Ega",
+    "arab": "",
+    "arti": "Teguh dan kuat",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1287,
+    "nama": "Galang",
+    "arab": "",
+    "arti": "Kuat dan kokoh",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1292,
+    "nama": "Kaisar",
+    "arab": "",
+    "arti": "Pemimpin berwibawa",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1300,
+    "nama": "Raka",
+    "arab": "",
+    "arti": "Pemuda tangguh pemberani",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1301,
+    "nama": "Revan",
+    "arab": "",
+    "arti": "Pemuda bersemangat tinggi",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1304,
+    "nama": "Rivan",
+    "arab": "",
+    "arti": "Muda dan penuh semangat juang",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1307,
+    "nama": "Syahdan",
+    "arab": "",
+    "arti": "Terkenal dan berpengaruh",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1309,
+    "nama": "Wikan",
+    "arab": "",
+    "arti": "Bijak dan berpengetahuan luas",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1315,
+    "nama": "Khanaya",
+    "arab": "",
+    "arti": "Anugerah terindah penuh bahagia",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1316,
+    "nama": "Keysha",
+    "arab": "",
+    "arti": "Hidup penuh kebahagiaan",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1317,
+    "nama": "Keisha",
+    "arab": "",
+    "arti": "Wanita yang beruntung mulia",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1318,
+    "nama": "Azalea",
+    "arab": "",
+    "arti": "Bunga azalea yang indah mekar",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1321,
+    "nama": "Anindya",
+    "arab": "",
+    "arti": "Cantik tak ternoda, sempurna",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1323,
+    "nama": "Aretha",
+    "arab": "",
+    "arti": "Elegan dan berbudi pekerti luhur",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1324,
+    "nama": "Arini",
+    "arab": "",
+    "arti": "Cantik dan anggun lembut",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1327,
+    "nama": "Dara",
+    "arab": "",
+    "arti": "Gadis cantik, perawan muda",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1328,
+    "nama": "Dhea",
+    "arab": "",
+    "arti": "Bersinar bagaikan mentari",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1329,
+    "nama": "Dinda",
+    "arab": "",
+    "arti": "Adik cantik tersayang",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1331,
+    "nama": "Fitriani",
+    "arab": "",
+    "arti": "Fitrah yang suci bersih",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1338,
+    "nama": "Maheswari",
+    "arab": "",
+    "arti": "Penguasa agung yang mulia",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1341,
+    "nama": "Puan",
+    "arab": "",
+    "arti": "Wanita terhormat ningrat mulia",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1343,
+    "nama": "Rara",
+    "arab": "",
+    "arti": "Gadis cantik jelita",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1344,
+    "nama": "Ratu",
+    "arab": "",
+    "arti": "Ratu, pemimpin wanita tertinggi",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1345,
+    "nama": "Reva",
+    "arab": "",
+    "arti": "Penuh semangat dan ceria",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1346,
+    "nama": "Riana",
+    "arab": "",
+    "arti": "Senyum ceria menyenangkan hati",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1353,
+    "nama": "Shania",
+    "arab": "",
+    "arti": "Cantik dan menawan hati",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1355,
+    "nama": "Tasya",
+    "arab": "",
+    "arti": "Bahagia dan penuh suka cita",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1356,
+    "nama": "Tiara",
+    "arab": "",
+    "arti": "Mahkota keanggunan wanita mulia",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1358,
+    "nama": "Zaskia",
+    "arab": "",
+    "arti": "Suci bersih dan cantik",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1361,
+    "nama": "Alisa",
+    "arab": "",
+    "arti": "Bahagia dan mulia",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1362,
+    "nama": "Elisa",
+    "arab": "",
+    "arti": "Cantik dan berbudi mulia",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1363,
+    "nama": "Arya",
+    "arab": "",
+    "arti": "Mulia, terpuji, terhormat",
+    "asalBahasa": "Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1364,
+    "nama": "Naya",
+    "arab": "",
+    "arti": "Segar, baru, penuh harapan",
+    "asalBahasa": "Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1366,
+    "nama": "Dira",
+    "arab": "",
+    "arti": "Teguh, kukuh, pantang mundur",
+    "asalBahasa": "Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1367,
+    "nama": "Dana",
+    "arab": "",
+    "arti": "Bijak dan dermawan",
+    "asalBahasa": "Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1369,
+    "nama": "Cinta",
+    "arab": "",
+    "arti": "Cinta kasih sayang tulus",
+    "asalBahasa": "Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1372,
+    "nama": "Genta",
+    "arab": "",
+    "arti": "Genta, suara indah bergema",
+    "asalBahasa": "Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1378,
+    "nama": "Nova",
+    "arab": "",
+    "arti": "Baru, segar, penuh harapan",
+    "asalBahasa": "Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1379,
+    "nama": "Saka",
+    "arab": "",
+    "arti": "Saksi dan penjaga kebenaran",
+    "asalBahasa": "Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1380,
+    "nama": "Sani",
+    "arab": "",
+    "arti": "Mulia dan terhormat",
+    "asalBahasa": "Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1381,
+    "nama": "Senja",
+    "arab": "",
+    "arti": "Keindahan senja penuh warna",
+    "asalBahasa": "Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1382,
+    "nama": "Tegar",
+    "arab": "",
+    "arti": "Teguh, kuat, tidak goyah",
+    "asalBahasa": "Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1385,
+    "nama": "Arka",
+    "arab": "",
+    "arti": "Matahari, sumber cahaya hidup",
+    "asalBahasa": "Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1390,
+    "nama": "Sila",
+    "arab": "",
+    "arti": "Jembatan penghubung kebaikan",
+    "asalBahasa": "Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1391,
+    "nama": "Lara",
+    "arab": "",
+    "arti": "Cantik, ceria, penuh kehidupan",
+    "asalBahasa": "Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1392,
+    "nama": "Nira",
+    "arab": "",
+    "arti": "Sari pati kehidupan yang manis",
+    "asalBahasa": "Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1393,
+    "nama": "Rani",
+    "arab": "",
+    "arti": "Ratu muda yang cantik mulia",
+    "asalBahasa": "Indonesia",
+    "gender": "U"
+  }
+]
