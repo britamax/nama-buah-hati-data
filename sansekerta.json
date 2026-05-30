@@ -1,0 +1,282 @@
+[
+  {
+    "id": 166,
+    "nama": "Ananda",
+    "arab": "",
+    "arti": "Kebahagiaan, suka cita",
+    "asalBahasa": "Sansekerta",
+    "gender": "L"
+  },
+  {
+    "id": 167,
+    "nama": "Brahmana",
+    "arab": "",
+    "arti": "Yang berilmu, golongan pendeta",
+    "asalBahasa": "Sansekerta",
+    "gender": "L"
+  },
+  {
+    "id": 168,
+    "nama": "Chandra",
+    "arab": "",
+    "arti": "Bulan, bercahaya",
+    "asalBahasa": "Sansekerta",
+    "gender": "L"
+  },
+  {
+    "id": 169,
+    "nama": "Dewa",
+    "arab": "",
+    "arti": "Dewa, makhluk ilahi",
+    "asalBahasa": "Sansekerta",
+    "gender": "L"
+  },
+  {
+    "id": 170,
+    "nama": "Indra",
+    "arab": "",
+    "arti": "Raja para dewa, petir",
+    "asalBahasa": "Sansekerta",
+    "gender": "L"
+  },
+  {
+    "id": 171,
+    "nama": "Jaya",
+    "arab": "",
+    "arti": "Kemenangan, sukses",
+    "asalBahasa": "Sansekerta",
+    "gender": "L"
+  },
+  {
+    "id": 172,
+    "nama": "Karma",
+    "arab": "",
+    "arti": "Perbuatan baik, takdir",
+    "asalBahasa": "Sansekerta",
+    "gender": "L"
+  },
+  {
+    "id": 173,
+    "nama": "Laksana",
+    "arab": "",
+    "arti": "Tanda keberuntungan, mulia",
+    "asalBahasa": "Sansekerta",
+    "gender": "L"
+  },
+  {
+    "id": 174,
+    "nama": "Mantra",
+    "arab": "",
+    "arti": "Doa sakral, ucapan suci",
+    "asalBahasa": "Sansekerta",
+    "gender": "L"
+  },
+  {
+    "id": 175,
+    "nama": "Narendra",
+    "arab": "",
+    "arti": "Raja manusia, pemimpin",
+    "asalBahasa": "Sansekerta",
+    "gender": "L"
+  },
+  {
+    "id": 176,
+    "nama": "Okarendra",
+    "arab": "",
+    "arti": "Raja yang gagah",
+    "asalBahasa": "Sansekerta",
+    "gender": "L"
+  },
+  {
+    "id": 177,
+    "nama": "Pranata",
+    "arab": "",
+    "arti": "Tata aturan, bijaksana",
+    "asalBahasa": "Sansekerta",
+    "gender": "L"
+  },
+  {
+    "id": 178,
+    "nama": "Rama",
+    "arab": "",
+    "arti": "Menyenangkan, damai",
+    "asalBahasa": "Sansekerta",
+    "gender": "L"
+  },
+  {
+    "id": 179,
+    "nama": "Surya",
+    "arab": "",
+    "arti": "Matahari, bersinar",
+    "asalBahasa": "Sansekerta",
+    "gender": "L"
+  },
+  {
+    "id": 180,
+    "nama": "Tara",
+    "arab": "",
+    "arti": "Bintang, cahaya",
+    "asalBahasa": "Sansekerta",
+    "gender": "U"
+  },
+  {
+    "id": 181,
+    "nama": "Veda",
+    "arab": "",
+    "arti": "Pengetahuan suci, ilmu",
+    "asalBahasa": "Sansekerta",
+    "gender": "U"
+  },
+  {
+    "id": 182,
+    "nama": "Wijaya",
+    "arab": "",
+    "arti": "Kemenangan, jaya",
+    "asalBahasa": "Sansekerta",
+    "gender": "L"
+  },
+  {
+    "id": 183,
+    "nama": "Yoga",
+    "arab": "",
+    "arti": "Penyatuan, kesempurnaan",
+    "asalBahasa": "Sansekerta",
+    "gender": "L"
+  },
+  {
+    "id": 184,
+    "nama": "Anggita",
+    "arab": "",
+    "arti": "Penuh rahmat, berkah",
+    "asalBahasa": "Sansekerta",
+    "gender": "P"
+  },
+  {
+    "id": 185,
+    "nama": "Citra",
+    "arab": "",
+    "arti": "Gambar, indah, cemerlang",
+    "asalBahasa": "Sansekerta",
+    "gender": "P"
+  },
+  {
+    "id": 186,
+    "nama": "Devi",
+    "arab": "",
+    "arti": "Dewi, bidadari",
+    "asalBahasa": "Sansekerta",
+    "gender": "P"
+  },
+  {
+    "id": 187,
+    "nama": "Gita",
+    "arab": "",
+    "arti": "Lagu, nyanyian suci",
+    "asalBahasa": "Sansekerta",
+    "gender": "P"
+  },
+  {
+    "id": 188,
+    "nama": "Indira",
+    "arab": "",
+    "arti": "Kemegahan, kecantikan",
+    "asalBahasa": "Sansekerta",
+    "gender": "P"
+  },
+  {
+    "id": 189,
+    "nama": "Kamala",
+    "arab": "",
+    "arti": "Bunga teratai, sempurna",
+    "asalBahasa": "Sansekerta",
+    "gender": "P"
+  },
+  {
+    "id": 190,
+    "nama": "Laksmi",
+    "arab": "",
+    "arti": "Dewi keberuntungan, cantik",
+    "asalBahasa": "Sansekerta",
+    "gender": "P"
+  },
+  {
+    "id": 191,
+    "nama": "Maya",
+    "arab": "",
+    "arti": "Ilusi indah, pesona",
+    "asalBahasa": "Sansekerta",
+    "gender": "P"
+  },
+  {
+    "id": 192,
+    "nama": "Naluri",
+    "arab": "",
+    "arti": "Instinct suci, fitrah",
+    "asalBahasa": "Sansekerta",
+    "gender": "P"
+  },
+  {
+    "id": 193,
+    "nama": "Padma",
+    "arab": "",
+    "arti": "Bunga teratai, suci",
+    "asalBahasa": "Sansekerta",
+    "gender": "P"
+  },
+  {
+    "id": 194,
+    "nama": "Pramesti",
+    "arab": "",
+    "arti": "Putri tertinggi, mulia",
+    "asalBahasa": "Sansekerta",
+    "gender": "P"
+  },
+  {
+    "id": 195,
+    "nama": "Ratna",
+    "arab": "",
+    "arti": "Permata, berharga",
+    "asalBahasa": "Sansekerta",
+    "gender": "P"
+  },
+  {
+    "id": 196,
+    "nama": "Shinta",
+    "arab": "",
+    "arti": "Setia, suci, cantik",
+    "asalBahasa": "Sansekerta",
+    "gender": "P"
+  },
+  {
+    "id": 197,
+    "nama": "Saraswati",
+    "arab": "",
+    "arti": "Dewi ilmu, kebijaksanaan",
+    "asalBahasa": "Sansekerta",
+    "gender": "P"
+  },
+  {
+    "id": 198,
+    "nama": "Kartika",
+    "arab": "",
+    "arti": "Bintang, bercahaya",
+    "asalBahasa": "Sansekerta",
+    "gender": "P"
+  },
+  {
+    "id": 199,
+    "nama": "Nilam",
+    "arab": "",
+    "arti": "Batu safir biru, berharga",
+    "asalBahasa": "Sansekerta",
+    "gender": "P"
+  },
+  {
+    "id": 200,
+    "nama": "Resmi",
+    "arab": "",
+    "arti": "Formal, mulia, terhormat",
+    "asalBahasa": "Sansekerta",
+    "gender": "P"
+  }
+]
