@@ -1,0 +1,642 @@
+[
+  {
+    "id": 1264,
+    "nama": "Raihan",
+    "arab": "ريحان",
+    "arti": "Harum semerbak, bunga surga",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1265,
+    "nama": "Rizki",
+    "arab": "رزق",
+    "arti": "Rezeki melimpah dari Allah",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1266,
+    "nama": "Rafif",
+    "arab": "رفيف",
+    "arti": "Berkilau, bersinar indah",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1267,
+    "nama": "Fadhil",
+    "arab": "فاضل",
+    "arti": "Utama, mulia, dermawan",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1269,
+    "nama": "Nadhif",
+    "arab": "نظيف",
+    "arti": "Bersih, suci, rapih",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1270,
+    "nama": "Nazril",
+    "arab": "نزل",
+    "arti": "Turun membawa berkah",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1271,
+    "nama": "Zafran",
+    "arab": "زعفران",
+    "arti": "Bunga safron, harum dan berharga",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1272,
+    "nama": "Zaky",
+    "arab": "ذكي",
+    "arti": "Cerdas, pintar, tajam pikiran",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1273,
+    "nama": "Zahran",
+    "arab": "زهران",
+    "arti": "Bersinar, berkilauan",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1274,
+    "nama": "Zidan",
+    "arab": "زيدان",
+    "arti": "Pertambahan kebaikan",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1275,
+    "nama": "Zhafir",
+    "arab": "ظافر",
+    "arti": "Berhasil, menang, sukses",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1277,
+    "nama": "Kenan",
+    "arab": "كنان",
+    "arti": "Kuat bagai perisai",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1278,
+    "nama": "Khairan",
+    "arab": "خيران",
+    "arti": "Penuh kebaikan",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1279,
+    "nama": "Hilmi",
+    "arab": "حلمي",
+    "arti": "Sabar, penyantun, lemah lembut",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1281,
+    "nama": "Dafa",
+    "arab": "دافع",
+    "arti": "Penghalau kesulitan, pelindung",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1282,
+    "nama": "Daffa",
+    "arab": "دافع",
+    "arti": "Pelindung yang kuat",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1283,
+    "nama": "Dzaky",
+    "arab": "ذكي",
+    "arti": "Cerdas dan berpengetahuan",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1285,
+    "nama": "Fadlan",
+    "arab": "فضلان",
+    "arti": "Keutamaan dan kemuliaan",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1286,
+    "nama": "Falah",
+    "arab": "فلاح",
+    "arti": "Kejayaan dan keberhasilan",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1288,
+    "nama": "Hafidz",
+    "arab": "حافظ",
+    "arti": "Penghafal, penjaga dengan baik",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1289,
+    "nama": "Ikhsan",
+    "arab": "إحسان",
+    "arti": "Berbuat baik dengan sempurna",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1290,
+    "nama": "Ihsan",
+    "arab": "إحسان",
+    "arti": "Berbuat kebaikan dengan sempurna",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1291,
+    "nama": "Jauhar",
+    "arab": "جوهر",
+    "arti": "Mutiara, inti sari terbaik",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1293,
+    "nama": "Khoirul",
+    "arab": "خيرل",
+    "arti": "Paling baik diantara semua",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1294,
+    "nama": "Mahfud",
+    "arab": "محفوظ",
+    "arti": "Terpelihara, terjaga oleh Allah",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1295,
+    "nama": "Malik",
+    "arab": "مالك",
+    "arti": "Raja, pemimpin, pemilik",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1296,
+    "nama": "Marwan",
+    "arab": "مروان",
+    "arti": "Batu keras yang kuat",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1297,
+    "nama": "Mukhlis",
+    "arab": "مخلص",
+    "arti": "Yang ikhlas dan tulus",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1298,
+    "nama": "Mumtaz",
+    "arab": "ممتاز",
+    "arti": "Istimewa, unggul, cemerlang",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1299,
+    "nama": "Nafis",
+    "arab": "نفيس",
+    "arti": "Berharga, bernilai tinggi",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1302,
+    "nama": "Ridho",
+    "arab": "رضا",
+    "arti": "Ridha Allah, keridhaan",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1303,
+    "nama": "Rifki",
+    "arab": "رفق",
+    "arti": "Lemah lembut dan penuh kasih",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1305,
+    "nama": "Rofi",
+    "arab": "رافع",
+    "arti": "Mengangkat derajat, mulia",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1306,
+    "nama": "Sabri",
+    "arab": "صبري",
+    "arti": "Sabarku, penuh kesabaran",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1308,
+    "nama": "Thoriq",
+    "arab": "طارق",
+    "arti": "Bintang pagi, pendobrak",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1310,
+    "nama": "Wildan",
+    "arab": "ولدان",
+    "arti": "Anak-anak surga yang melayani",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1311,
+    "nama": "Zainul",
+    "arab": "زين العابدين",
+    "arti": "Perhiasan para ahli ibadah",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1312,
+    "nama": "Zubair",
+    "arab": "زبير",
+    "arti": "Kuat dan cerdik",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "L"
+  },
+  {
+    "id": 1313,
+    "nama": "Nayra",
+    "arab": "نيرة",
+    "arti": "Bercahaya, bersinar terang",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1314,
+    "nama": "Khanza",
+    "arab": "خنساء",
+    "arti": "Rusa betina, cantik dan anggun",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1319,
+    "nama": "Azwa",
+    "arab": "أضواء",
+    "arti": "Cahaya-cahaya yang bersinar",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1320,
+    "nama": "Alya",
+    "arab": "علياء",
+    "arti": "Tinggi derajatnya, mulia",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1322,
+    "nama": "Annisa",
+    "arab": "أنيسة",
+    "arti": "Wanita yang menyenangkan",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1325,
+    "nama": "Athiya",
+    "arab": "عطية",
+    "arti": "Pemberian Allah yang berharga",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1326,
+    "nama": "Aulia",
+    "arab": "أولياء",
+    "arti": "Kekasih Allah, wali",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1330,
+    "nama": "Fazira",
+    "arab": "فائزة",
+    "arti": "Yang beruntung dan berhasil",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1332,
+    "nama": "Ghania",
+    "arab": "غنية",
+    "arti": "Kaya hati, berkecukupan",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1333,
+    "nama": "Humaira",
+    "arab": "حميراء",
+    "arti": "Yang kemerah-merahan bersemu",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1334,
+    "nama": "Jasmine",
+    "arab": "ياسمين",
+    "arti": "Bunga melati yang harum",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1335,
+    "nama": "Kamilah",
+    "arab": "كاملة",
+    "arti": "Sempurna dan lengkap",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1336,
+    "nama": "Laily",
+    "arab": "ليلى",
+    "arti": "Malam yang indah dan tenang",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1337,
+    "nama": "Maisyah",
+    "arab": "معيشة",
+    "arti": "Kehidupan yang nyaman bahagia",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1339,
+    "nama": "Mutia",
+    "arab": "مطية",
+    "arti": "Mutiara berharga, permata",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1340,
+    "nama": "Nazwa",
+    "arab": "نزوى",
+    "arti": "Dorongan jiwa menuju kebaikan",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1342,
+    "nama": "Raisa",
+    "arab": "رئيسة",
+    "arti": "Pemimpin wanita yang bijak",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1347,
+    "nama": "Salma",
+    "arab": "سلمى",
+    "arti": "Damai sejahtera penuh selamat",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1348,
+    "nama": "Salsabila",
+    "arab": "سلسبيل",
+    "arti": "Mata air surga yang sejuk",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1349,
+    "nama": "Sarah",
+    "arab": "سارة",
+    "arti": "Putri yang mulia dan bahagia",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1350,
+    "nama": "Selma",
+    "arab": "سلمى",
+    "arti": "Damai dan selamat sentosa",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1351,
+    "nama": "Shafira",
+    "arab": "سفيرة",
+    "arti": "Duta yang mulia, utusan terpilih",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1352,
+    "nama": "Shakila",
+    "arab": "شكيلة",
+    "arti": "Cantik jelita, indah wajahnya",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1354,
+    "nama": "Syakira",
+    "arab": "شاكرة",
+    "arti": "Yang bersyukur atas nikmat",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1357,
+    "nama": "Zahwa",
+    "arab": "زهوة",
+    "arti": "Cantik, berseri, membahagiakan",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1359,
+    "nama": "Ziyan",
+    "arab": "زيان",
+    "arti": "Cantik, indah, menawan",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1360,
+    "nama": "Zulfa",
+    "arab": "زلفى",
+    "arti": "Dekat dengan Allah, kedudukan mulia",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "P"
+  },
+  {
+    "id": 1365,
+    "nama": "Raya",
+    "arab": "راية",
+    "arti": "Bendera, panji kemenangan",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1368,
+    "nama": "Alam",
+    "arab": "عالم",
+    "arti": "Dunia semesta, berpengetahuan luas",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1370,
+    "nama": "Faza",
+    "arab": "فائزة",
+    "arti": "Yang menang dan berhasil",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1371,
+    "nama": "Fikri",
+    "arab": "فكري",
+    "arti": "Pikiran cerdas, intelektual",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1373,
+    "nama": "Kenzi",
+    "arab": "كنز",
+    "arti": "Harta berharga yang tersimpan",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1374,
+    "nama": "Lana",
+    "arab": "لانا",
+    "arti": "Lembut dan tenteram",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1375,
+    "nama": "Lena",
+    "arab": "لينة",
+    "arti": "Lembut, halus, penuh kasih",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1376,
+    "nama": "Nada",
+    "arab": "ندى",
+    "arti": "Embun pagi, kesegaran jiwa",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1377,
+    "nama": "Nara",
+    "arab": "نارة",
+    "arti": "Cahaya yang bersinar terang",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1383,
+    "nama": "Yara",
+    "arab": "يارا",
+    "arti": "Kawan setia, teman sejati",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1384,
+    "nama": "Alif",
+    "arab": "ألف",
+    "arti": "Huruf pertama, awal kebaikan",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1386,
+    "nama": "Adel",
+    "arab": "عادل",
+    "arti": "Adil, jujur, lurus hati",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1387,
+    "nama": "Eza",
+    "arab": "عزة",
+    "arti": "Mulia, kebanggaan, kehormatan",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1388,
+    "nama": "Kana",
+    "arab": "كانة",
+    "arti": "Tempat yang nyaman damai",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "U"
+  },
+  {
+    "id": 1389,
+    "nama": "Kayla",
+    "arab": "كيلة",
+    "arti": "Mahkota kemenangan mulia",
+    "asalBahasa": "Arab-Indonesia",
+    "gender": "U"
+  }
+]
