@@ -1,0 +1,738 @@
+[
+  {
+    "id": 1172,
+    "nama": "Orhan",
+    "arab": "أورخان",
+    "arti": "Pemimpin Terkemuka",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1173,
+    "nama": "Selim",
+    "arab": "سليم",
+    "arti": "Selamat, Damai Sejahtera",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1174,
+    "nama": "Suleiman",
+    "arab": "سليمان",
+    "arti": "Nabi Sulaiman, Raja Bijak",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1175,
+    "nama": "Fatih",
+    "arab": "فاتح",
+    "arti": "Sang Penakluk, Pembuka",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1176,
+    "nama": "Ertugrul",
+    "arab": "ارطغرل",
+    "arti": "Elang yang Matang",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1177,
+    "nama": "Bayezid",
+    "arab": "بايزيد",
+    "arti": "Penuh Kemuliaan",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1178,
+    "nama": "Mehmed",
+    "arab": "محمد",
+    "arti": "Terpuji, Bentuk Turki dari Muhammad",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1179,
+    "nama": "Yildirim",
+    "arab": "يلدرم",
+    "arti": "Petir, Cepat dan Kuat",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1180,
+    "nama": "Timur",
+    "arab": "تيمور",
+    "arti": "Besi, Keras dan Kuat",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1181,
+    "nama": "Alp",
+    "arab": "آلپ",
+    "arti": "Prajurit Pemberani",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1182,
+    "nama": "Alparslan",
+    "arab": "آلپ أرسلان",
+    "arti": "Singa Pemberani, Pahlawan",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1183,
+    "nama": "Arslan",
+    "arab": "أرسلان",
+    "arti": "Singa, Kuat Berwibawa",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1184,
+    "nama": "Husain",
+    "arab": "حسين",
+    "arti": "Tampan, Cucu Nabi Mulia",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1185,
+    "nama": "Kemal",
+    "arab": "كمال",
+    "arti": "Kesempurnaan, Kematangan",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1186,
+    "nama": "Turgut",
+    "arab": "طورغوت",
+    "arti": "Kuat, Teguh Pendirian",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1187,
+    "nama": "Bamsi",
+    "arab": "بامسي",
+    "arti": "Perkasa, Kuat dan Setia",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1188,
+    "nama": "Dundar",
+    "arab": "دوندار",
+    "arti": "Berani Tanpa Takut",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1189,
+    "nama": "Gunduz",
+    "arab": "گوندوز",
+    "arti": "Siang Hari, Terang",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1190,
+    "nama": "Savci",
+    "arab": "ساوجي",
+    "arti": "Juru Damai, Penengah",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1191,
+    "nama": "Togrul",
+    "arab": "طغرل",
+    "arti": "Elang Kuat, Pemimpin",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1192,
+    "nama": "Abdurrahman",
+    "arab": "عبدالرحمن",
+    "arti": "Hamba Yang Maha Penyayang",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1193,
+    "nama": "Cengiz",
+    "arab": "جنكيز",
+    "arti": "Kuat, Penguasa Besar",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1194,
+    "nama": "Davut",
+    "arab": "داوود",
+    "arti": "Nabi Daud, Kekasih Allah",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1195,
+    "nama": "Erkan",
+    "arab": "أركان",
+    "arti": "Tiang, Fondasi Kuat",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1196,
+    "nama": "Ferit",
+    "arab": "فريد",
+    "arti": "Unik, Tak Ada Duanya",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1197,
+    "nama": "Galip",
+    "arab": "غالب",
+    "arti": "Pemenang, Unggul",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1198,
+    "nama": "Ilhan",
+    "arab": "إيلخان",
+    "arti": "Pemimpin Suku, Raja",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1199,
+    "nama": "Kursat",
+    "arab": "قرشاد",
+    "arti": "Pandangan Tajam, Jeli",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1200,
+    "nama": "Murat",
+    "arab": "مراد",
+    "arti": "Harapan, Yang Dicita-citakan",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1201,
+    "nama": "Necati",
+    "arab": "نجاتي",
+    "arti": "Keselamatan, Kesuksesan",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1202,
+    "nama": "Omer",
+    "arab": "عمر",
+    "arti": "Panjang Umur, Makmur",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1203,
+    "nama": "Polat",
+    "arab": "بولاد",
+    "arti": "Baja, Keras dan Kuat",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1204,
+    "nama": "Recep",
+    "arab": "رجب",
+    "arti": "Bulan Rajab, Penghormatan",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1205,
+    "nama": "Serdar",
+    "arab": "سردار",
+    "arti": "Komandan, Panglima",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1206,
+    "nama": "Tugrul",
+    "arab": "طغرل",
+    "arti": "Elang Pemimpin",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1207,
+    "nama": "Umut",
+    "arab": "أمل",
+    "arti": "Harapan, Optimisme",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1208,
+    "nama": "Volkan",
+    "arab": "فولكان",
+    "arti": "Api Membara, Penuh Semangat",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1209,
+    "nama": "Zeki",
+    "arab": "ذكي",
+    "arti": "Cerdas, Pintar",
+    "asalBahasa": "Turki",
+    "gender": "L"
+  },
+  {
+    "id": 1210,
+    "nama": "Ayse",
+    "arab": "عائشة",
+    "arti": "Yang Hidup, Ceria",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1211,
+    "nama": "Hatice",
+    "arab": "خديجة",
+    "arti": "Putri Awal, Istri Nabi",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1212,
+    "nama": "Zeynep",
+    "arab": "زينب",
+    "arti": "Berhias Indah, Mulia",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1213,
+    "nama": "Merve",
+    "arab": "مروة",
+    "arti": "Bukit Marwa, Suci",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1214,
+    "nama": "Fatma",
+    "arab": "فاطمة",
+    "arti": "Putri Nabi, Suci Mulia",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1215,
+    "nama": "Esra",
+    "arab": "إسراء",
+    "arti": "Perjalanan Malam Isra",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1216,
+    "nama": "Selin",
+    "arab": "سيلين",
+    "arti": "Seperti Air Mengalir",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1217,
+    "nama": "Elif",
+    "arab": "أليف",
+    "arti": "Huruf Alif, Ramping Anggun",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1218,
+    "nama": "Naz",
+    "arab": "ناز",
+    "arti": "Manja, Lemah Lembut",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1219,
+    "nama": "Buse",
+    "arab": "بوسة",
+    "arti": "Ciuman, Penuh Kasih",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1220,
+    "nama": "Dilnoza",
+    "arab": "دلنواز",
+    "arti": "Penyejuk Hati, Lembut",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1221,
+    "nama": "Gulsum",
+    "arab": "گلسوم",
+    "arti": "Berwajah Bunga, Cantik",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1222,
+    "nama": "Hurrem",
+    "arab": "خُرم",
+    "arti": "Gembira, Bahagia Ceria",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1223,
+    "nama": "Ilknur",
+    "arab": "إلك نور",
+    "arti": "Cahaya Pertama, Fajar",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1224,
+    "nama": "Julide",
+    "arab": "جولايده",
+    "arti": "Embun Pagi, Segar",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1225,
+    "nama": "Kubra",
+    "arab": "كبرى",
+    "arti": "Agung, Besar Mulia",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1226,
+    "nama": "Latife",
+    "arab": "لطيفة",
+    "arti": "Lembut, Halus Budi",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1227,
+    "nama": "Meliha",
+    "arab": "مليحة",
+    "arti": "Cantik, Elok Rupawan",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1228,
+    "nama": "Nazan",
+    "arab": "نازان",
+    "arti": "Bermanja, Manja Manis",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1229,
+    "nama": "Ozge",
+    "arab": "أوزگه",
+    "arti": "Unik, Berbeda Istimewa",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1230,
+    "nama": "Pinar",
+    "arab": "پينار",
+    "arti": "Mata Air, Sumber Kehidupan",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1231,
+    "nama": "Rukiye",
+    "arab": "رقية",
+    "arti": "Naik Tinggi, Mulia",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1232,
+    "nama": "Safiye",
+    "arab": "صفية",
+    "arti": "Bersih, Pilihan Terbaik",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1233,
+    "nama": "Turkan",
+    "arab": "توركان",
+    "arti": "Putri Suku Turki Mulia",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1234,
+    "nama": "Ulviye",
+    "arab": "علوية",
+    "arti": "Tinggi Mulia, Agung",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1235,
+    "nama": "Vahide",
+    "arab": "واحدة",
+    "arti": "Tak Tertandingi, Tunggal",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1236,
+    "nama": "Yildiz",
+    "arab": "يلدز",
+    "arti": "Bintang, Bercahaya Terang",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1237,
+    "nama": "Zulal",
+    "arab": "زلال",
+    "arti": "Air Jernih, Murni Suci",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1238,
+    "nama": "Asli",
+    "arab": "أصلي",
+    "arti": "Asli, Tulen Sejati",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1239,
+    "nama": "Cemile",
+    "arab": "جميلة",
+    "arti": "Cantik, Indah Menawan",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1240,
+    "nama": "Derya",
+    "arab": "دريا",
+    "arti": "Lautan Luas, Bebas",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1241,
+    "nama": "Ece",
+    "arab": "إجه",
+    "arti": "Ratu, Penguasa Cantik",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1242,
+    "nama": "Gonul",
+    "arab": "گونول",
+    "arti": "Hati, Jiwa Nurani",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1243,
+    "nama": "Hafsa",
+    "arab": "حفصة",
+    "arti": "Singa Muda, Istri Nabi",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1244,
+    "nama": "Imren",
+    "arab": "إمران",
+    "arti": "Dikagumi, Diimpikan",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1245,
+    "nama": "Kevser",
+    "arab": "كوثر",
+    "arti": "Sungai Surga, Berlimpah",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1246,
+    "nama": "Leyla",
+    "arab": "ليلى",
+    "arti": "Malam, Keindahan Malam",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1247,
+    "nama": "Mihrimah",
+    "arab": "مهرماه",
+    "arti": "Matahari dan Bulan",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1248,
+    "nama": "Nihan",
+    "arab": "نهان",
+    "arti": "Tersembunyi, Misterius",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1249,
+    "nama": "Ozlem",
+    "arab": "أوزلم",
+    "arti": "Kerinduan, Hasrat Tulus",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1250,
+    "nama": "Rabia",
+    "arab": "رابعة",
+    "arti": "Keempat, Musim Semi",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1251,
+    "nama": "Sumeyye",
+    "arab": "سمية",
+    "arti": "Syahidah Pertama Islam",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1252,
+    "nama": "Tugce",
+    "arab": "طوغجه",
+    "arti": "Bendera Kemenangan",
+    "asalBahasa": "Turki",
+    "gender": "P"
+  },
+  {
+    "id": 1253,
+    "nama": "Deniz",
+    "arab": "دنيز",
+    "arti": "Laut, Luasnya Samudra",
+    "asalBahasa": "Turki",
+    "gender": "U"
+  },
+  {
+    "id": 1254,
+    "nama": "Dogan",
+    "arab": "دوغان",
+    "arti": "Elang, Terlahir Bebas",
+    "asalBahasa": "Turki",
+    "gender": "U"
+  },
+  {
+    "id": 1255,
+    "nama": "Caner",
+    "arab": "جانر",
+    "arti": "Jiwa Pemberani",
+    "asalBahasa": "Turki",
+    "gender": "U"
+  },
+  {
+    "id": 1256,
+    "nama": "Emir",
+    "arab": "أمير",
+    "arti": "Pangeran, Pemimpin",
+    "asalBahasa": "Turki",
+    "gender": "U"
+  },
+  {
+    "id": 1257,
+    "nama": "Gunes",
+    "arab": "گونش",
+    "arti": "Matahari, Bercahaya",
+    "asalBahasa": "Turki",
+    "gender": "U"
+  },
+  {
+    "id": 1258,
+    "nama": "Irem",
+    "arab": "إرم",
+    "arti": "Taman Surga",
+    "asalBahasa": "Turki",
+    "gender": "U"
+  },
+  {
+    "id": 1259,
+    "nama": "Kaya",
+    "arab": "كايا",
+    "arti": "Batu Karang, Teguh Kokoh",
+    "asalBahasa": "Turki",
+    "gender": "U"
+  },
+  {
+    "id": 1260,
+    "nama": "Melis",
+    "arab": "مليس",
+    "arti": "Madu, Manis Menyenangkan",
+    "asalBahasa": "Turki",
+    "gender": "U"
+  },
+  {
+    "id": 1261,
+    "nama": "Onur",
+    "arab": "أونور",
+    "arti": "Kehormatan, Harga Diri",
+    "asalBahasa": "Turki",
+    "gender": "U"
+  },
+  {
+    "id": 1262,
+    "nama": "Rüzgar",
+    "arab": "رزگار",
+    "arti": "Angin, Bebas Bergerak",
+    "asalBahasa": "Turki",
+    "gender": "U"
+  },
+  {
+    "id": 1263,
+    "nama": "Tan",
+    "arab": "طان",
+    "arti": "Fajar, Cahaya Pagi",
+    "asalBahasa": "Turki",
+    "gender": "U"
+  }
+]
