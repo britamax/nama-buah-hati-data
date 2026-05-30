@@ -1,0 +1,978 @@
+[
+  {
+    "id": 1050,
+    "nama": "Cyrus",
+    "arab": "كوروش",
+    "arti": "Matahari atau Tahta",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1051,
+    "nama": "Darius",
+    "arab": "داريوش",
+    "arti": "Yang Mempertahankan Kebaikan",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1052,
+    "nama": "Nader",
+    "arab": "نادر",
+    "arti": "Langka, Berharga",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1053,
+    "nama": "Parviz",
+    "arab": "پرويز",
+    "arti": "Beruntung, Jaya",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1054,
+    "nama": "Sohrab",
+    "arab": "سهراب",
+    "arti": "Wajah Merah Bersinar",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1055,
+    "nama": "Kian",
+    "arab": "كيان",
+    "arti": "Raja, Keberadaan Mulia",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1056,
+    "nama": "Arash",
+    "arab": "آرش",
+    "arti": "Pahlawan, Pemanah Agung",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1057,
+    "nama": "Bahram",
+    "arab": "بهرام",
+    "arti": "Kemenangan atas Planet Mars",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1058,
+    "nama": "Kamran",
+    "arab": "كامران",
+    "arti": "Sukses, Berhasil",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1059,
+    "nama": "Mehran",
+    "arab": "مهران",
+    "arti": "Matahari, Cahaya Penyayang",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1060,
+    "nama": "Navid",
+    "arab": "نويد",
+    "arti": "Kabar Gembira",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1061,
+    "nama": "Omid",
+    "arab": "اميد",
+    "arti": "Harapan",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1062,
+    "nama": "Payam",
+    "arab": "پيام",
+    "arti": "Pesan, Berita Baik",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1063,
+    "nama": "Rostam",
+    "arab": "رستم",
+    "arti": "Pahlawan Kuat, Teguh",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1064,
+    "nama": "Shapur",
+    "arab": "شاپور",
+    "arti": "Putra Raja",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1065,
+    "nama": "Tahmuras",
+    "arab": "طهمورث",
+    "arti": "Kuat Seperti Besi",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1066,
+    "nama": "Vahid",
+    "arab": "وحيد",
+    "arti": "Yang Esa, Unik",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1067,
+    "nama": "Xerxes",
+    "arab": "خشايارشا",
+    "arti": "Raja Para Raja",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1068,
+    "nama": "Ardeshir",
+    "arab": "اردشير",
+    "arti": "Kebenaran Suci, Api Keadilan",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1069,
+    "nama": "Behruz",
+    "arab": "بهروز",
+    "arti": "Hari Baik, Nasib Mujur",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1070,
+    "nama": "Dariush",
+    "arab": "داريوش",
+    "arti": "Penjaga Kebaikan",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1071,
+    "nama": "Erfan",
+    "arab": "عرفان",
+    "arti": "Pengetahuan, Kebijaksanaan",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1072,
+    "nama": "Firuz",
+    "arab": "فيروز",
+    "arti": "Turquoise, Kemenangan",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1073,
+    "nama": "Gushtasp",
+    "arab": "گشتاسپ",
+    "arti": "Kuda Bebas Lepas",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1074,
+    "nama": "Hormoz",
+    "arab": "هرمز",
+    "arti": "Bijaksana, Matahari Agung",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1075,
+    "nama": "Iraj",
+    "arab": "ايرج",
+    "arti": "Putra Persia, Mulia",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1076,
+    "nama": "Jamshed",
+    "arab": "جمشيد",
+    "arti": "Matahari Bersinar Cerah",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1077,
+    "nama": "Kaveh",
+    "arab": "كاوه",
+    "arti": "Pahlawan, Pembela Keadilan",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1078,
+    "nama": "Lohrasp",
+    "arab": "لهراسپ",
+    "arti": "Memiliki Kuda Cepat",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1079,
+    "nama": "Marduk",
+    "arab": "مردوك",
+    "arti": "Tuan Yang Perkasa",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1080,
+    "nama": "Nowruz",
+    "arab": "نوروز",
+    "arti": "Hari Baru, Tahun Baru",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1081,
+    "nama": "Farhad",
+    "arab": "فرهاد",
+    "arti": "Dikaruniai Kegembiraan",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1082,
+    "nama": "Khosrow",
+    "arab": "خسرو",
+    "arti": "Raja yang Baik",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1083,
+    "nama": "Manouch",
+    "arab": "منوچهر",
+    "arti": "Wajah Para Dewa Mulia",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1084,
+    "nama": "Piruz",
+    "arab": "پيروز",
+    "arti": "Pemenang, Jaya",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1085,
+    "nama": "Siavash",
+    "arab": "سياوش",
+    "arti": "Kuda Hitam, Pemberani",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1086,
+    "nama": "Valeh",
+    "arab": "واله",
+    "arti": "Bingung Karena Cinta Ilahi",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1087,
+    "nama": "Yazdan",
+    "arab": "يزدان",
+    "arti": "Tuhan, Yang Maha Mulia",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1088,
+    "nama": "Zand",
+    "arab": "زند",
+    "arti": "Ilmu Pengetahuan, Cerdas",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1089,
+    "nama": "Arman",
+    "arab": "آرمان",
+    "arti": "Cita-cita, Impian Mulia",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1090,
+    "nama": "Bijan",
+    "arab": "بيژن",
+    "arti": "Pahlawan, Pemberani",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1091,
+    "nama": "Darya",
+    "arab": "دريا",
+    "arti": "Lautan, Luas Berwibawa",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1092,
+    "nama": "Elshan",
+    "arab": "ايلشان",
+    "arti": "Cahaya Suku, Kebanggaan",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1093,
+    "nama": "Farzan",
+    "arab": "فرزان",
+    "arti": "Bijaksana, Berilmu Tinggi",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1094,
+    "nama": "Goshtasb",
+    "arab": "گشتاسب",
+    "arti": "Penunggang Kuda Perkasa",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1095,
+    "nama": "Hushang",
+    "arab": "هوشنگ",
+    "arti": "Pemimpin Bijak",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1096,
+    "nama": "Isfandiyar",
+    "arab": "اسفنديار",
+    "arti": "Ciptaan Suci, Murni",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1097,
+    "nama": "Jamshid",
+    "arab": "جمشيد",
+    "arti": "Matahari Bercahaya Indah",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1098,
+    "nama": "Kasra",
+    "arab": "كسرى",
+    "arti": "Kaisar, Penguasa Agung",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1099,
+    "nama": "Mazdak",
+    "arab": "مزدك",
+    "arti": "Api Suci, Terang Benderang",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1100,
+    "nama": "Noshad",
+    "arab": "نوشاد",
+    "arti": "Gembira, Penuh Kebahagiaan",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1101,
+    "nama": "Ormuzd",
+    "arab": "اهورامزدا",
+    "arti": "Penguasa Bijaksana, Agung",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1102,
+    "nama": "Peyman",
+    "arab": "پيمان",
+    "arti": "Janji, Perjanjian Setia",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1103,
+    "nama": "Qubad",
+    "arab": "قباد",
+    "arti": "Pemimpin Suku Perkasa",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1104,
+    "nama": "Ramtin",
+    "arab": "رامتين",
+    "arti": "Penuh Kedamaian",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1105,
+    "nama": "Shahin",
+    "arab": "شاهين",
+    "arti": "Elang Raja, Gagah Perkasa",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1106,
+    "nama": "Tir",
+    "arab": "تير",
+    "arti": "Bintang, Mercuri",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1107,
+    "nama": "Vafa",
+    "arab": "وفا",
+    "arti": "Kesetiaan, Loyalitas",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1108,
+    "nama": "Wahed",
+    "arab": "واحد",
+    "arti": "Yang Satu, Tunggal",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1109,
+    "nama": "Yalda",
+    "arab": "يلدا",
+    "arti": "Malam Panjang Penuh Harapan",
+    "asalBahasa": "Persia",
+    "gender": "L"
+  },
+  {
+    "id": 1110,
+    "nama": "Shireen",
+    "arab": "شيرين",
+    "arti": "Manis, Menawan",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1111,
+    "nama": "Laleh",
+    "arab": "لاله",
+    "arti": "Bunga Tulip Merah",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1112,
+    "nama": "Nazanin",
+    "arab": "نازنين",
+    "arti": "Cantik Jelita, Manis",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1113,
+    "nama": "Parisa",
+    "arab": "پريسا",
+    "arti": "Seperti Peri, Cantik",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1114,
+    "nama": "Golnaz",
+    "arab": "گلناز",
+    "arti": "Bunga yang Bermanja",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1115,
+    "nama": "Bahar",
+    "arab": "بهار",
+    "arti": "Musim Semi, Keindahan",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1116,
+    "nama": "Mahsa",
+    "arab": "مهسا",
+    "arti": "Seperti Bulan, Cantik",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1117,
+    "nama": "Setareh",
+    "arab": "ستاره",
+    "arti": "Bintang, Bercahaya",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1118,
+    "nama": "Pari",
+    "arab": "پري",
+    "arti": "Peri, Bidadari Cantik",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1119,
+    "nama": "Roxana",
+    "arab": "روكسانا",
+    "arti": "Fajar, Cahaya Bercahaya",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1120,
+    "nama": "Mandana",
+    "arab": "ماندانا",
+    "arti": "Abadi Seperti Bulan",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1121,
+    "nama": "Niloofar",
+    "arab": "نيلوفر",
+    "arti": "Bunga Teratai Biru",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1122,
+    "nama": "Golestan",
+    "arab": "گلستان",
+    "arti": "Taman Bunga Indah",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1123,
+    "nama": "Shirin",
+    "arab": "شيرين",
+    "arti": "Manis, Lemah Lembut",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1124,
+    "nama": "Anahita",
+    "arab": "اناهيتا",
+    "arti": "Dewi Air, Bersih Murni",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1125,
+    "nama": "Behnaz",
+    "arab": "بهناز",
+    "arti": "Kecantikan Terbaik",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1126,
+    "nama": "Chehreh",
+    "arab": "چهره",
+    "arti": "Wajah Cantik Berseri",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1127,
+    "nama": "Elnaz",
+    "arab": "الناز",
+    "arti": "Bermanja dengan Iman",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1128,
+    "nama": "Fereshte",
+    "arab": "فرشته",
+    "arti": "Malaikat, Bidadari Suci",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1129,
+    "nama": "Gulasal",
+    "arab": "گلعسل",
+    "arti": "Bunga Madu, Manis",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1130,
+    "nama": "Hengameh",
+    "arab": "هنگامه",
+    "arti": "Kekaguman, Menakjubkan",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1131,
+    "nama": "Jasmin",
+    "arab": "ياسمين",
+    "arti": "Bunga Melati Harum",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1132,
+    "nama": "Katayoun",
+    "arab": "كتايون",
+    "arti": "Ratu dari Suku Mulia",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1133,
+    "nama": "Leila",
+    "arab": "ليلى",
+    "arti": "Malam Gelap Penuh Bintang",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1134,
+    "nama": "Nasrin",
+    "arab": "نسرين",
+    "arti": "Bunga Mawar Liar",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1135,
+    "nama": "Ozra",
+    "arab": "عذرا",
+    "arti": "Perawan, Bersih Suci",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1136,
+    "nama": "Parvaneh",
+    "arab": "پروانه",
+    "arti": "Kupu-Kupu, Bebas Indah",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1137,
+    "nama": "Qodsia",
+    "arab": "قدسيه",
+    "arti": "Suci, Berasal dari Surga",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1138,
+    "nama": "Rangin",
+    "arab": "رنگين",
+    "arti": "Penuh Warna, Bercahaya",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1139,
+    "nama": "Sadaf",
+    "arab": "صدف",
+    "arti": "Kerang Mutiara, Berharga",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1140,
+    "nama": "Tahmineh",
+    "arab": "تهمينه",
+    "arti": "Kuat dan Berani",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1141,
+    "nama": "Uranus",
+    "arab": "اورانوس",
+    "arti": "Langit, Angkasa Luas",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1142,
+    "nama": "Vida",
+    "arab": "ويدا",
+    "arti": "Terlihat Jelas, Nyata",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1143,
+    "nama": "Yekta",
+    "arab": "يكتا",
+    "arti": "Tunggal, Tak Tertandingi",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1144,
+    "nama": "Ziba",
+    "arab": "زيبا",
+    "arti": "Cantik, Indah Berseri",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1145,
+    "nama": "Azadeh",
+    "arab": "آزاده",
+    "arti": "Merdeka, Bebas Mulia",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1146,
+    "nama": "Baran",
+    "arab": "باران",
+    "arti": "Hujan, Rahmat Turun",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1147,
+    "nama": "Delaram",
+    "arab": "دلآرام",
+    "arti": "Penenang Hati",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1148,
+    "nama": "Elham",
+    "arab": "الهام",
+    "arti": "Inspirasi Ilahi",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1149,
+    "nama": "Farzaneh",
+    "arab": "فرزانه",
+    "arti": "Bijaksana, Berilmu",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1150,
+    "nama": "Golnar",
+    "arab": "گلنار",
+    "arti": "Bunga Delima Merah",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1151,
+    "nama": "Homa",
+    "arab": "هما",
+    "arti": "Burung Keberuntungan",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1152,
+    "nama": "Iran",
+    "arab": "ايران",
+    "arti": "Tanah Arya, Mulia",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1153,
+    "nama": "Julnar",
+    "arab": "جُلنار",
+    "arti": "Bunga Delima, Bersemi",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1154,
+    "nama": "Keyhan",
+    "arab": "كيهان",
+    "arti": "Alam Semesta, Luas",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1155,
+    "nama": "Ladan",
+    "arab": "لادن",
+    "arti": "Bunga Cyclamen",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1156,
+    "nama": "Mahlag",
+    "arab": "ماهلقا",
+    "arti": "Wajah Seperti Bulan",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1157,
+    "nama": "Neda",
+    "arab": "ندا",
+    "arti": "Panggilan Hati, Suara",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1158,
+    "nama": "Pantea",
+    "arab": "پانتآ",
+    "arti": "Pelindung Negeri",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1159,
+    "nama": "Roya",
+    "arab": "رؤيا",
+    "arti": "Mimpi, Impian Indah",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1160,
+    "nama": "Simin",
+    "arab": "سيمين",
+    "arti": "Perak, Bercahaya",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1161,
+    "nama": "Taraneh",
+    "arab": "ترانه",
+    "arti": "Melodi, Nyanyian Indah",
+    "asalBahasa": "Persia",
+    "gender": "P"
+  },
+  {
+    "id": 1162,
+    "nama": "Mehr",
+    "arab": "مهر",
+    "arti": "Kasih Sayang, Matahari",
+    "asalBahasa": "Persia",
+    "gender": "U"
+  },
+  {
+    "id": 1163,
+    "nama": "Parsa",
+    "arab": "پارسا",
+    "arti": "Suci, Bertakwa",
+    "asalBahasa": "Persia",
+    "gender": "U"
+  },
+  {
+    "id": 1164,
+    "nama": "Shad",
+    "arab": "شاد",
+    "arti": "Gembira, Bahagia",
+    "asalBahasa": "Persia",
+    "gender": "U"
+  },
+  {
+    "id": 1165,
+    "nama": "Dil",
+    "arab": "دل",
+    "arti": "Hati, Penuh Perasaan",
+    "asalBahasa": "Persia",
+    "gender": "U"
+  },
+  {
+    "id": 1166,
+    "nama": "Farr",
+    "arab": "فر",
+    "arti": "Kemuliaan, Pancaran Ilahi",
+    "asalBahasa": "Persia",
+    "gender": "U"
+  },
+  {
+    "id": 1167,
+    "nama": "Gohar",
+    "arab": "گوهر",
+    "arti": "Permata, Berharga",
+    "asalBahasa": "Persia",
+    "gender": "U"
+  },
+  {
+    "id": 1168,
+    "nama": "Jaan",
+    "arab": "جان",
+    "arti": "Jiwa, Roh Berharga",
+    "asalBahasa": "Persia",
+    "gender": "U"
+  },
+  {
+    "id": 1169,
+    "nama": "Kherad",
+    "arab": "خرد",
+    "arti": "Akal, Kebijaksanaan",
+    "asalBahasa": "Persia",
+    "gender": "U"
+  },
+  {
+    "id": 1170,
+    "nama": "Raz",
+    "arab": "راز",
+    "arti": "Rahasia, Misteri Indah",
+    "asalBahasa": "Persia",
+    "gender": "U"
+  },
+  {
+    "id": 1171,
+    "nama": "Sepehr",
+    "arab": "سپهر",
+    "arti": "Langit, Angkasa Raya",
+    "asalBahasa": "Persia",
+    "gender": "U"
+  }
+]
