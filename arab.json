@@ -1,0 +1,3602 @@
+[
+  {
+    "id": 1,
+    "nama": "Ahmad",
+    "arab": "أَحْمَد",
+    "arti": "Yang paling terpuji",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 2,
+    "nama": "Muhammad",
+    "arab": "مُحَمَّد",
+    "arti": "Yang terpuji",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 3,
+    "nama": "Ali",
+    "arab": "عَلِيّ",
+    "arti": "Yang tinggi, mulia",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 4,
+    "nama": "Umar",
+    "arab": "عُمَر",
+    "arti": "Kehidupan yang panjang, makmur",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 5,
+    "nama": "Hassan",
+    "arab": "حَسَن",
+    "arti": "Tampan, baik",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 6,
+    "nama": "Husein",
+    "arab": "حُسَيْن",
+    "arti": "Yang tampan kecil, baik hati",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 7,
+    "nama": "Ibrahim",
+    "arab": "إِبْرَاهِيم",
+    "arti": "Bapak banyak bangsa",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 8,
+    "nama": "Ismail",
+    "arab": "إِسْمَاعِيل",
+    "arti": "Allah mendengar",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 9,
+    "nama": "Yusuf",
+    "arab": "يُوسُف",
+    "arti": "Allah menambahkan, tampan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 10,
+    "nama": "Yahya",
+    "arab": "يَحْيَى",
+    "arti": "Hidup, bersemangat",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 11,
+    "nama": "Idris",
+    "arab": "إِدْرِيس",
+    "arti": "Yang rajin belajar",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 12,
+    "nama": "Musa",
+    "arab": "مُوسَى",
+    "arti": "Air dan pohon",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 13,
+    "nama": "Isa",
+    "arab": "عِيسَى",
+    "arti": "Allah menyelamatkan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 14,
+    "nama": "Dawud",
+    "arab": "دَاوُد",
+    "arti": "Yang dicintai, sahabat",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 15,
+    "nama": "Sulaiman",
+    "arab": "سُلَيْمَان",
+    "arti": "Damai, sejahtera",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 16,
+    "nama": "Harun",
+    "arab": "هَارُون",
+    "arti": "Gunung kekuatan, penolong",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 17,
+    "nama": "Nuh",
+    "arab": "نُوح",
+    "arti": "Istirahat, pelipur hati",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 18,
+    "nama": "Ayyub",
+    "arab": "أَيُّوب",
+    "arti": "Yang kembali kepada Allah, sabar",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 19,
+    "nama": "Zakariya",
+    "arab": "زَكَرِيَّا",
+    "arti": "Allah ingat, murni",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 20,
+    "nama": "Luqman",
+    "arab": "لُقْمَان",
+    "arti": "Bijaksana, pemikir",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 21,
+    "nama": "Salman",
+    "arab": "سَلْمَان",
+    "arti": "Selamat, aman",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 22,
+    "nama": "Bilal",
+    "arab": "بِلَال",
+    "arti": "Air segar, kelembaban",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 23,
+    "nama": "Khalid",
+    "arab": "خَالِد",
+    "arti": "Abadi, kekal",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 24,
+    "nama": "Zaid",
+    "arab": "زَيْد",
+    "arti": "Pertumbuhan, kemajuan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 25,
+    "nama": "Hamzah",
+    "arab": "حَمْزَة",
+    "arti": "Singa, kuat",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 26,
+    "nama": "Anas",
+    "arab": "أَنَس",
+    "arti": "Ramah, senang bergaul",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 27,
+    "nama": "Nabil",
+    "arab": "نَبِيل",
+    "arti": "Mulia, terhormat",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 28,
+    "nama": "Faiz",
+    "arab": "فَائِز",
+    "arti": "Yang berhasil, menang",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 29,
+    "nama": "Faris",
+    "arab": "فَارِس",
+    "arti": "Penunggang kuda, ksatria",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 30,
+    "nama": "Ghazi",
+    "arab": "غَازِي",
+    "arti": "Pejuang di jalan Allah",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 31,
+    "nama": "Hadi",
+    "arab": "هَادِي",
+    "arti": "Pemberi petunjuk",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 32,
+    "nama": "Jabir",
+    "arab": "جَابِر",
+    "arti": "Penghibur, penyembuh",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 33,
+    "nama": "Kamil",
+    "arab": "كَامِل",
+    "arti": "Sempurna, lengkap",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 34,
+    "nama": "Luthfi",
+    "arab": "لُطْفِي",
+    "arti": "Penuh kelembutan, ramah",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 35,
+    "nama": "Mahir",
+    "arab": "مَاهِر",
+    "arti": "Terampil, cekatan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 36,
+    "nama": "Nadir",
+    "arab": "نَادِر",
+    "arti": "Langka, unik",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 37,
+    "nama": "Omar",
+    "arab": "عُمَر",
+    "arti": "Panjang umur, makmur",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 38,
+    "nama": "Qasim",
+    "arab": "قَاسِم",
+    "arti": "Yang membagi, adil",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 39,
+    "nama": "Rafi",
+    "arab": "رَافِع",
+    "arti": "Yang mengangkat, tinggi derajat",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 40,
+    "nama": "Sami",
+    "arab": "سَامِي",
+    "arti": "Tinggi, mulia",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 41,
+    "nama": "Tariq",
+    "arab": "طَارِق",
+    "arti": "Bintang pagi, pengetuk pintu",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 42,
+    "nama": "Wafi",
+    "arab": "وَافِي",
+    "arti": "Setia, dapat dipercaya",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 43,
+    "nama": "Zahir",
+    "arab": "زَاهِر",
+    "arti": "Bersinar, tampak jelas",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 44,
+    "nama": "Adnan",
+    "arab": "عَدْنَان",
+    "arti": "Yang menetap, berkedudukan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 45,
+    "nama": "Badr",
+    "arab": "بَدْر",
+    "arti": "Bulan purnama",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 46,
+    "nama": "Daud",
+    "arab": "دَاوُد",
+    "arti": "Yang dicintai",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 47,
+    "nama": "Fadli",
+    "arab": "فَضْلِي",
+    "arti": "Keutamaan, anugerah",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 48,
+    "nama": "Rayyan",
+    "arab": "رَيَّان",
+    "arti": "Penuh kesegaran, pintu surga",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 49,
+    "nama": "Ziyad",
+    "arab": "زِيَاد",
+    "arti": "Bertambah, berkembang",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 50,
+    "nama": "Aisyah",
+    "arab": "عَائِشَة",
+    "arti": "Yang hidup, bersemangat",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 51,
+    "nama": "Fatimah",
+    "arab": "فَاطِمَة",
+    "arti": "Yang menyapih, terjaga",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 52,
+    "nama": "Khadijah",
+    "arab": "خَدِيجَة",
+    "arti": "Bayi prematur, terhormat",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 53,
+    "nama": "Maryam",
+    "arab": "مَرْيَم",
+    "arti": "Yang dicintai, pelayan Tuhan",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 54,
+    "nama": "Zahra",
+    "arab": "زَهْرَاء",
+    "arti": "Bunga, bersinar, bercahaya",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 55,
+    "nama": "Safiyah",
+    "arab": "صَفِيَّة",
+    "arti": "Murni, bersih, terpilih",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 56,
+    "nama": "Ruqayyah",
+    "arab": "رُقَيَّة",
+    "arti": "Naik, meningkat, doa",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 57,
+    "nama": "Ummu Kultsum",
+    "arab": "أُمُّ كُلْثُوم",
+    "arti": "Ibu yang berwajah bulat, mulia",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 58,
+    "nama": "Asma",
+    "arab": "أَسْمَاء",
+    "arti": "Nama-nama, tinggi kedudukan",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 59,
+    "nama": "Hafshah",
+    "arab": "حَفْصَة",
+    "arti": "Singa betina, pemberani",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 60,
+    "nama": "Juwairiyah",
+    "arab": "جُوَيْرِيَّة",
+    "arti": "Kecil cantik, sayang",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 61,
+    "nama": "Maimunah",
+    "arab": "مَيْمُونَة",
+    "arti": "Penuh berkah, bahagia",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 62,
+    "nama": "Saudah",
+    "arab": "سَوْدَة",
+    "arti": "Penuh keberanian, hitam indah",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 63,
+    "nama": "Nadia",
+    "arab": "نَادِيَة",
+    "arti": "Pemanggil, embun pagi",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 64,
+    "nama": "Laila",
+    "arab": "لَيْلَى",
+    "arti": "Malam yang indah, anggur",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 65,
+    "nama": "Nurul Ain",
+    "arab": "نُورُ الْعَيْن",
+    "arti": "Cahaya mata, permata hati",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 66,
+    "nama": "Hasna",
+    "arab": "حَسْنَاء",
+    "arti": "Cantik, indah",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 67,
+    "nama": "Amirah",
+    "arab": "أَمِيرَة",
+    "arti": "Putri, pemimpin",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 68,
+    "nama": "Izzah",
+    "arab": "عِزَّة",
+    "arti": "Kemuliaan, kehormatan",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 69,
+    "nama": "Khansa",
+    "arab": "خَنْسَاء",
+    "arti": "Rusa betina, hidung mungil",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 70,
+    "nama": "Rania",
+    "arab": "رَانِيَة",
+    "arti": "Yang memandang dengan kagum",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 71,
+    "nama": "Salwa",
+    "arab": "سَلْوَى",
+    "arti": "Hiburan, madu lebah",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 72,
+    "nama": "Thalia",
+    "arab": "ثَالِيَا",
+    "arti": "Berkembang, indah",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 73,
+    "nama": "Wardah",
+    "arab": "وَرْدَة",
+    "arti": "Bunga mawar, segar",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 74,
+    "nama": "Yasmin",
+    "arab": "يَاسَمِين",
+    "arti": "Bunga melati, harum",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 75,
+    "nama": "Zainab",
+    "arab": "زَيْنَب",
+    "arti": "Pohon yang harum, indah",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 76,
+    "nama": "Afifah",
+    "arab": "عَفِيفَة",
+    "arti": "Suci, menjaga kehormatan",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 77,
+    "nama": "Balqis",
+    "arab": "بَلْقِيس",
+    "arti": "Ratu Saba, bijaksana mulia",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 78,
+    "nama": "Durrah",
+    "arab": "دُرَّة",
+    "arti": "Mutiara, berharga",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 79,
+    "nama": "Fatiha",
+    "arab": "فَاتِحَة",
+    "arti": "Pembuka, permulaan baik",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 80,
+    "nama": "Ghina",
+    "arab": "غِنَاء",
+    "arti": "Kekayaan, lagu merdu",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 81,
+    "nama": "Humairah",
+    "arab": "حُمَيْرَاء",
+    "arti": "Yang kemerah-merahan, cantik",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 82,
+    "nama": "Inayah",
+    "arab": "عِنَايَة",
+    "arti": "Perhatian, kasih sayang",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 83,
+    "nama": "Najwa",
+    "arab": "نَجْوَى",
+    "arti": "Bisikan rahasia, percakapan indah",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 84,
+    "nama": "Qonita",
+    "arab": "قَانِتَة",
+    "arti": "Taat, khusyuk beribadah",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 85,
+    "nama": "Raihana",
+    "arab": "رَيْحَانَة",
+    "arti": "Bunga kemangi, harum semerbak",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 86,
+    "nama": "Sumayyah",
+    "arab": "سُمَيَّة",
+    "arti": "Yang tinggi, syahidah pertama",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 87,
+    "nama": "Tasneem",
+    "arab": "تَسْنِيم",
+    "arti": "Mata air surga, tinggi",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 88,
+    "nama": "Umaimah",
+    "arab": "أُمَيْمَة",
+    "arti": "Ibunda kecil yang disayangi",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 89,
+    "nama": "Warda",
+    "arab": "وَرْدَة",
+    "arti": "Mawar merekah, indah",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 90,
+    "nama": "Naura",
+    "arab": "نَوْرَة",
+    "arti": "Bunga yang bercahaya",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 91,
+    "nama": "Muhammad Farhan",
+    "arab": "مُحَمَّد فَرْحَان",
+    "arti": "Yang terpuji dan gembira",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 92,
+    "nama": "Muhammad Rayhan",
+    "arab": "مُحَمَّد رَيْحَان",
+    "arti": "Yang terpuji dan harum",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 93,
+    "nama": "Ahmad Zaki",
+    "arab": "أَحْمَد زَكِي",
+    "arti": "Terpuji dan cerdas bersih",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 94,
+    "nama": "Nur Aini",
+    "arab": "نُورُ عَيْنِي",
+    "arti": "Cahaya mataku",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 95,
+    "nama": "Siti Fatimah",
+    "arab": "سِتِّي فَاطِمَة",
+    "arti": "Nyonya yang terjaga",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 96,
+    "nama": "Nur Aisyah",
+    "arab": "نُور عَائِشَة",
+    "arti": "Cahaya yang hidup bersemangat",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 97,
+    "nama": "Abdul Rahman",
+    "arab": "عَبْدُ الرَّحْمَن",
+    "arti": "Hamba Yang Maha Pengasih",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 98,
+    "nama": "Abdul Aziz",
+    "arab": "عَبْدُ الْعَزِيز",
+    "arti": "Hamba Yang Maha Perkasa",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 99,
+    "nama": "Nurul Huda",
+    "arab": "نُورُ الْهُدَى",
+    "arti": "Cahaya petunjuk",
+    "asalBahasa": "Arab",
+    "gender": "U"
+  },
+  {
+    "id": 100,
+    "nama": "Azzahra Putri",
+    "arab": "الزَّهْرَاء",
+    "arti": "Putri yang bersinar bagai bunga",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 252,
+    "nama": "Abbas",
+    "arab": "عَبَّاس",
+    "arti": "Singa, pemberani",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 253,
+    "nama": "Abdulaziz",
+    "arab": "عَبْدُ الْعَزِيز",
+    "arti": "Hamba Allah Yang Maha Perkasa",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 254,
+    "nama": "Abdulfattah",
+    "arab": "عَبْدُ الْفَتَّاح",
+    "arti": "Hamba Allah Yang Maha Membuka",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 255,
+    "nama": "Abdulghani",
+    "arab": "عَبْدُ الْغَنِيّ",
+    "arti": "Hamba Allah Yang Maha Kaya",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 256,
+    "nama": "Abdulhadi",
+    "arab": "عَبْدُ الْهَادِي",
+    "arti": "Hamba Allah Yang Maha Memberi Petunjuk",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 257,
+    "nama": "Abdulhakim",
+    "arab": "عَبْدُ الْحَكِيم",
+    "arti": "Hamba Allah Yang Maha Bijaksana",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 258,
+    "nama": "Abdulhamid",
+    "arab": "عَبْدُ الْحَمِيد",
+    "arti": "Hamba Allah Yang Maha Terpuji",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 259,
+    "nama": "Abdulkarim",
+    "arab": "عَبْدُ الْكَرِيم",
+    "arti": "Hamba Allah Yang Maha Dermawan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 260,
+    "nama": "Abdullatif",
+    "arab": "عَبْدُ اللَّطِيف",
+    "arti": "Hamba Allah Yang Maha Lembut",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 261,
+    "nama": "Abdulmajid",
+    "arab": "عَبْدُ الْمَجِيد",
+    "arti": "Hamba Allah Yang Maha Mulia",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 262,
+    "nama": "Abdulmalik",
+    "arab": "عَبْدُ الْمَلِك",
+    "arti": "Hamba Allah Raja diraja",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 263,
+    "nama": "Abdulqadir",
+    "arab": "عَبْدُ الْقَادِر",
+    "arti": "Hamba Allah Yang Maha Kuasa",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 264,
+    "nama": "Abdulrahim",
+    "arab": "عَبْدُ الرَّحِيم",
+    "arti": "Hamba Allah Yang Maha Penyayang",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 265,
+    "nama": "Abdulrashid",
+    "arab": "عَبْدُ الرَّشِيد",
+    "arti": "Hamba Allah Yang Maha Pemberi Petunjuk",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 266,
+    "nama": "Abdulsalam",
+    "arab": "عَبْدُ السَّلَام",
+    "arti": "Hamba Allah Yang Maha Damai",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 267,
+    "nama": "Abid",
+    "arab": "عَابِد",
+    "arti": "Ahli ibadah, orang yang selalu beribadah",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 268,
+    "nama": "Abrar",
+    "arab": "أَبْرَار",
+    "arti": "Orang-orang yang saleh dan berbakti",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 269,
+    "nama": "Adam",
+    "arab": "آدَم",
+    "arti": "Manusia pertama, bumi",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 270,
+    "nama": "Adib",
+    "arab": "أَدِيب",
+    "arti": "Terpelajar, berbudaya tinggi",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 271,
+    "nama": "Adil",
+    "arab": "عَادِل",
+    "arti": "Yang adil, lurus",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 272,
+    "nama": "Akhtar",
+    "arab": "أَخْتَر",
+    "arti": "Bintang, nasib baik",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 273,
+    "nama": "Akbar",
+    "arab": "أَكْبَر",
+    "arti": "Yang terbesar, paling agung",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 274,
+    "nama": "Alamin",
+    "arab": "الْأَمِين",
+    "arti": "Yang terpercaya, amanah",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 275,
+    "nama": "Alauddin",
+    "arab": "عَلَاءُ الدِّين",
+    "arti": "Kejayaan agama",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 276,
+    "nama": "Amir",
+    "arab": "أَمِير",
+    "arti": "Pemimpin, pangeran",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 277,
+    "nama": "Amjad",
+    "arab": "أَمْجَد",
+    "arti": "Paling mulia, paling agung",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 278,
+    "nama": "Anwar",
+    "arab": "أَنْوَار",
+    "arti": "Cahaya-cahaya, bersinar",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 279,
+    "nama": "Arif",
+    "arab": "عَارِف",
+    "arti": "Bijaksana, yang mengenal Allah",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 280,
+    "nama": "Asad",
+    "arab": "أَسَد",
+    "arti": "Singa, pemberani",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 281,
+    "nama": "Asil",
+    "arab": "أَصِيل",
+    "arti": "Waktu sore, murni berdarah biru",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 282,
+    "nama": "Asim",
+    "arab": "عَاصِم",
+    "arti": "Pelindung, penjaga",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 283,
+    "nama": "Athar",
+    "arab": "أَطْهَر",
+    "arti": "Paling suci, paling bersih",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 284,
+    "nama": "Athif",
+    "arab": "عَاطِف",
+    "arti": "Penuh kasih sayang, penyayang",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 285,
+    "nama": "Atiq",
+    "arab": "عَتِيق",
+    "arti": "Bebas, merdeka, mulia",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 286,
+    "nama": "Awad",
+    "arab": "عَوَض",
+    "arti": "Pengganti, ganti rugi",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 287,
+    "nama": "Aws",
+    "arab": "أَوْس",
+    "arti": "Pemberian, hadiah",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 288,
+    "nama": "Aydin",
+    "arab": "آيْدِين",
+    "arti": "Bercahaya, terang",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 289,
+    "nama": "Ayman",
+    "arab": "أَيْمَن",
+    "arti": "Penuh berkah, yang di kanan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 290,
+    "nama": "Ayyas",
+    "arab": "أَيَّاس",
+    "arti": "Berani, pantang menyerah",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 291,
+    "nama": "Azhar",
+    "arab": "أَزْهَر",
+    "arti": "Bersinar, cerah, bunga-bunga",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 292,
+    "nama": "Azim",
+    "arab": "عَظِيم",
+    "arti": "Yang agung, besar",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 293,
+    "nama": "Aziz",
+    "arab": "عَزِيز",
+    "arti": "Yang mulia, kuat, perkasa",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 294,
+    "nama": "Azzam",
+    "arab": "عَزَّام",
+    "arti": "Tekad bulat, bersemangat",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 295,
+    "nama": "Bahauddin",
+    "arab": "بَهَاءُ الدِّين",
+    "arti": "Keindahan agama",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 296,
+    "nama": "Bahij",
+    "arab": "بَهِيج",
+    "arti": "Bersuka cita, bahagia",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 297,
+    "nama": "Bahir",
+    "arab": "بَاهِر",
+    "arti": "Cemerlang, bersinar",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 298,
+    "nama": "Bakhit",
+    "arab": "بَخِيت",
+    "arti": "Beruntung, penuh keberuntungan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 299,
+    "nama": "Bakr",
+    "arab": "بَكْر",
+    "arti": "Unta muda, yang pertama",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 300,
+    "nama": "Baqir",
+    "arab": "بَاقِر",
+    "arti": "Yang membelah ilmu, ulama besar",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 301,
+    "nama": "Basyir",
+    "arab": "بَشِير",
+    "arti": "Pembawa kabar gembira",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 302,
+    "nama": "Burhan",
+    "arab": "بُرْهَان",
+    "arti": "Bukti, dalil yang nyata",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 303,
+    "nama": "Dhiyauddin",
+    "arab": "ضِيَاءُ الدِّين",
+    "arti": "Cahaya agama",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 304,
+    "nama": "Diya",
+    "arab": "ضِيَاء",
+    "arti": "Cahaya, sinar",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 305,
+    "nama": "Emad",
+    "arab": "عِمَاد",
+    "arti": "Tiang, pilar, sandaran",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 306,
+    "nama": "Fadhl",
+    "arab": "فَضْل",
+    "arti": "Keutamaan, karunia",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 307,
+    "nama": "Fahd",
+    "arab": "فَهْد",
+    "arti": "Macan tutul, cepat dan kuat",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 308,
+    "nama": "Fahim",
+    "arab": "فَهِيم",
+    "arti": "Yang cerdas, memahami",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 309,
+    "nama": "Faisal",
+    "arab": "فَيْصَل",
+    "arti": "Hakim yang adil, pemisah",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 310,
+    "nama": "Fakhri",
+    "arab": "فَخْرِي",
+    "arti": "Kebanggaan, kehormatan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 311,
+    "nama": "Farhan",
+    "arab": "فَرْحَان",
+    "arti": "Bahagia, gembira",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 312,
+    "nama": "Farid",
+    "arab": "فَرِيد",
+    "arti": "Unik, tiada duanya",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 313,
+    "nama": "Farouk",
+    "arab": "فَارُوق",
+    "arti": "Yang membedakan benar dan salah",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 314,
+    "nama": "Fathi",
+    "arab": "فَتْحِي",
+    "arti": "Kemenanganku, pembuka",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 315,
+    "nama": "Fawzi",
+    "arab": "فَوْزِي",
+    "arti": "Kemenangan, sukses",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 316,
+    "nama": "Fayez",
+    "arab": "فَايِز",
+    "arti": "Yang berhasil, pemenang",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 317,
+    "nama": "Firas",
+    "arab": "فِرَاس",
+    "arti": "Singa, cerdik dan berani",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 318,
+    "nama": "Fuad",
+    "arab": "فُؤَاد",
+    "arti": "Hati, jiwa",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 319,
+    "nama": "Ghaith",
+    "arab": "غَيْث",
+    "arti": "Hujan, pertolongan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 320,
+    "nama": "Ghifari",
+    "arab": "الْغِفَارِي",
+    "arti": "Nasab dari Bani Ghifar, pemaaf",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 321,
+    "nama": "Hafidh",
+    "arab": "حَافِظ",
+    "arti": "Penjaga, penghafal Al-Quran",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 322,
+    "nama": "Haidar",
+    "arab": "حَيْدَر",
+    "arti": "Singa, nama julukan Ali bin Abi Thalib",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 323,
+    "nama": "Hakim",
+    "arab": "حَكِيم",
+    "arti": "Yang bijaksana, dokter",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 324,
+    "nama": "Halim",
+    "arab": "حَلِيم",
+    "arti": "Yang sabar, penyantun",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 325,
+    "nama": "Hamid",
+    "arab": "حَامِد",
+    "arti": "Yang memuji, bersyukur",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 326,
+    "nama": "Hanif",
+    "arab": "حَنِيف",
+    "arti": "Yang lurus, beragama dengan tulus",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 327,
+    "nama": "Harith",
+    "arab": "حَارِث",
+    "arti": "Petani, yang membajak",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 328,
+    "nama": "Hasan",
+    "arab": "حَسَن",
+    "arti": "Kebaikan, ketampanan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 329,
+    "nama": "Hashim",
+    "arab": "هَاشِم",
+    "arti": "Yang menghancurkan, penuh kebaikan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 330,
+    "nama": "Hatim",
+    "arab": "حَاتِم",
+    "arti": "Yang dermawan, keputusan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 331,
+    "nama": "Hilal",
+    "arab": "هِلَال",
+    "arti": "Bulan sabit, cahaya baru",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 332,
+    "nama": "Hisyam",
+    "arab": "هِشَام",
+    "arti": "Dermawan, murah hati",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 333,
+    "nama": "Husam",
+    "arab": "حُسَام",
+    "arti": "Pedang tajam",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 334,
+    "nama": "Ikram",
+    "arab": "إِكْرَام",
+    "arti": "Penghormatan, kemuliaan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 335,
+    "nama": "Imad",
+    "arab": "عِمَاد",
+    "arti": "Pilar, tiang penyangga",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 336,
+    "nama": "Imran",
+    "arab": "عِمْرَان",
+    "arti": "Kemakmuran, nama ayah Maryam",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 337,
+    "nama": "Irfan",
+    "arab": "عِرْفَان",
+    "arti": "Pengetahuan mendalam, kebijaksanaan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 338,
+    "nama": "Isam",
+    "arab": "عِصَام",
+    "arti": "Penjaga, pelindung",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 339,
+    "nama": "Izzat",
+    "arab": "عِزَّت",
+    "arti": "Kemuliaan, kehormatan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 340,
+    "nama": "Izzuddin",
+    "arab": "عِزُّ الدِّين",
+    "arti": "Kemuliaan agama",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 341,
+    "nama": "Jalal",
+    "arab": "جَلَال",
+    "arti": "Keagungan, kemegahan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 342,
+    "nama": "Jalil",
+    "arab": "جَلِيل",
+    "arti": "Yang agung, mulia",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 343,
+    "nama": "Jamal",
+    "arab": "جَمَال",
+    "arti": "Keindahan, ketampanan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 344,
+    "nama": "Jamil",
+    "arab": "جَمِيل",
+    "arti": "Tampan, indah",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 345,
+    "nama": "Jasim",
+    "arab": "جَاسِم",
+    "arti": "Besar, bertubuh tegap",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 346,
+    "nama": "Jawad",
+    "arab": "جَوَاد",
+    "arti": "Dermawan, murah hati",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 347,
+    "nama": "Jibril",
+    "arab": "جِبْرِيل",
+    "arti": "Malaikat Jibril, hamba Allah",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 348,
+    "nama": "Jihad",
+    "arab": "جِهَاد",
+    "arti": "Perjuangan di jalan Allah",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 349,
+    "nama": "Junaid",
+    "arab": "جُنَيْد",
+    "arti": "Prajurit kecil, pejuang muda",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 350,
+    "nama": "Kabir",
+    "arab": "كَبِير",
+    "arti": "Yang besar, agung",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 351,
+    "nama": "Kamal",
+    "arab": "كَمَال",
+    "arti": "Kesempurnaan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 352,
+    "nama": "Karam",
+    "arab": "كَرَم",
+    "arti": "Kedermawanan, kemuliaan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 353,
+    "nama": "Karim",
+    "arab": "كَرِيم",
+    "arti": "Dermawan, mulia",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 354,
+    "nama": "Khalifa",
+    "arab": "خَلِيفَة",
+    "arti": "Khalifah, pemimpin, penerus",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 355,
+    "nama": "Khalil",
+    "arab": "خَلِيل",
+    "arti": "Sahabat karib, kekasih",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 356,
+    "nama": "Khayr",
+    "arab": "خَيْر",
+    "arti": "Kebaikan, kebajikan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 357,
+    "nama": "Laith",
+    "arab": "لَيْث",
+    "arti": "Singa, gagah berani",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 358,
+    "nama": "Latif",
+    "arab": "لَطِيف",
+    "arti": "Lembut, baik hati",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 359,
+    "nama": "Luay",
+    "arab": "لُؤَيّ",
+    "arti": "Ular berbisa, leluhur Nabi",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 360,
+    "nama": "Lukman",
+    "arab": "لُقْمَان",
+    "arti": "Nabi Lukman, yang bijaksana",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 361,
+    "nama": "Lutfi",
+    "arab": "لُطْفِي",
+    "arti": "Kelembutanku, kebaikanku",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 362,
+    "nama": "Mahdi",
+    "arab": "مَهْدِي",
+    "arti": "Yang mendapat petunjuk",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 363,
+    "nama": "Mahmud",
+    "arab": "مَحْمُود",
+    "arti": "Yang dipuji, terpuji",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 364,
+    "nama": "Majd",
+    "arab": "مَجْد",
+    "arti": "Kemuliaan, kejayaan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 365,
+    "nama": "Majid",
+    "arab": "مَاجِد",
+    "arti": "Yang mulia, agung",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 366,
+    "nama": "Mansur",
+    "arab": "مَنْصُور",
+    "arti": "Yang dimenangkan Allah",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 367,
+    "nama": "Maruf",
+    "arab": "مَعْرُوف",
+    "arti": "Yang dikenal baik, kebajikan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 368,
+    "nama": "Masud",
+    "arab": "مَسْعُود",
+    "arti": "Yang bahagia, beruntung",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 369,
+    "nama": "Miftah",
+    "arab": "مِفْتَاح",
+    "arti": "Kunci, pembuka",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 370,
+    "nama": "Muadz",
+    "arab": "مُعَاذ",
+    "arti": "Yang berlindung kepada Allah",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 371,
+    "nama": "Mubin",
+    "arab": "مُبِين",
+    "arti": "Yang nyata, jelas",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 372,
+    "nama": "Mufid",
+    "arab": "مُفِيد",
+    "arti": "Bermanfaat, berguna",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 373,
+    "nama": "Muflih",
+    "arab": "مُفْلِح",
+    "arti": "Yang berhasil, beruntung",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 374,
+    "nama": "Muhsin",
+    "arab": "مُحْسِن",
+    "arti": "Yang berbuat baik",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 375,
+    "nama": "Mukhtar",
+    "arab": "مُخْتَار",
+    "arti": "Yang terpilih, unggul",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 376,
+    "nama": "Munir",
+    "arab": "مُنِير",
+    "arti": "Bercahaya, menerangi",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 377,
+    "nama": "Murad",
+    "arab": "مُرَاد",
+    "arti": "Yang diinginkan, dicita-citakan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 378,
+    "nama": "Murtadha",
+    "arab": "مُرْتَضَى",
+    "arti": "Yang diridhai, disenangi",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 379,
+    "nama": "Musab",
+    "arab": "مُصْعَب",
+    "arti": "Keras, kuat, sukar ditaklukkan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 380,
+    "nama": "Muslim",
+    "arab": "مُسْلِم",
+    "arti": "Yang berserah diri kepada Allah",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 381,
+    "nama": "Mustafa",
+    "arab": "مُصْطَفَى",
+    "arti": "Yang terpilih, nama Nabi Muhammad",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 382,
+    "nama": "Mutasim",
+    "arab": "مُعْتَصِم",
+    "arti": "Yang berpegang teguh, kokoh",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 383,
+    "nama": "Muttaqi",
+    "arab": "مُتَّقِي",
+    "arti": "Orang yang bertakwa",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 384,
+    "nama": "Nabhan",
+    "arab": "نَبْهَان",
+    "arti": "Mulia, terkenal",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 385,
+    "nama": "Nadim",
+    "arab": "نَدِيم",
+    "arti": "Sahabat setia, teman karib",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 386,
+    "nama": "Naim",
+    "arab": "نَعِيم",
+    "arti": "Kenikmatan, kebahagiaan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 387,
+    "nama": "Najib",
+    "arab": "نَجِيب",
+    "arti": "Berdarah mulia, cerdas",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 388,
+    "nama": "Najih",
+    "arab": "نَاجِح",
+    "arti": "Yang berhasil, sukses",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 389,
+    "nama": "Nasim",
+    "arab": "نَسِيم",
+    "arti": "Angin sepoi, udara segar",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 390,
+    "nama": "Nasir",
+    "arab": "نَاصِر",
+    "arti": "Penolong, pembela",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 391,
+    "nama": "Nidal",
+    "arab": "نِضَال",
+    "arti": "Perjuangan, usaha keras",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 392,
+    "nama": "Nizar",
+    "arab": "نِزَار",
+    "arti": "Sedikit air, leluhur bangsa Arab",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 393,
+    "nama": "Numan",
+    "arab": "نُعْمَان",
+    "arti": "Darah, nikmat, kebaikan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 394,
+    "nama": "Osama",
+    "arab": "أُسَامَة",
+    "arti": "Singa, nama pahlawan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 395,
+    "nama": "Qays",
+    "arab": "قَيْس",
+    "arti": "Kokoh, kuat",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 396,
+    "nama": "Rabih",
+    "arab": "رَابِح",
+    "arti": "Yang mendapat keuntungan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 397,
+    "nama": "Raed",
+    "arab": "رَائِد",
+    "arti": "Pelopor, pemimpin muda",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 398,
+    "nama": "Rafiq",
+    "arab": "رَفِيق",
+    "arti": "Teman, sahabat yang setia",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 399,
+    "nama": "Raghib",
+    "arab": "رَاغِب",
+    "arti": "Yang menginginkan kebaikan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 400,
+    "nama": "Raid",
+    "arab": "رَائِد",
+    "arti": "Pelopor, pengembara",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 401,
+    "nama": "Rajab",
+    "arab": "رَجَب",
+    "arti": "Bulan Rajab, penghormatan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 402,
+    "nama": "Rami",
+    "arab": "رَامِي",
+    "arti": "Pemanah, yang menembak tepat",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 403,
+    "nama": "Ramzi",
+    "arab": "رَمْزِي",
+    "arti": "Simbolik, isyarat",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 404,
+    "nama": "Rashad",
+    "arab": "رَشَاد",
+    "arti": "Kematangan pikiran, kebenaran",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 405,
+    "nama": "Rashid",
+    "arab": "رَشِيد",
+    "arti": "Yang mendapat petunjuk, bijak",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 406,
+    "nama": "Rauf",
+    "arab": "رَؤُوف",
+    "arti": "Yang penuh kasih sayang",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 407,
+    "nama": "Rayhan",
+    "arab": "رَيْحَان",
+    "arti": "Tumbuhan wangi, harum",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 408,
+    "nama": "Rida",
+    "arab": "رِضَا",
+    "arti": "Ridha, kepuasan, kerelaan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 409,
+    "nama": "Riyad",
+    "arab": "رِيَاض",
+    "arti": "Taman-taman, padang hijau",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 410,
+    "nama": "Rizq",
+    "arab": "رِزْق",
+    "arti": "Rezeki, karunia Allah",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 411,
+    "nama": "Sabir",
+    "arab": "صَابِر",
+    "arti": "Yang sabar, tabah",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 412,
+    "nama": "Saif",
+    "arab": "سَيْف",
+    "arti": "Pedang, tajam dan kuat",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 413,
+    "nama": "Saifuddin",
+    "arab": "سَيْفُ الدِّين",
+    "arti": "Pedang agama",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 414,
+    "nama": "Sajid",
+    "arab": "سَاجِد",
+    "arti": "Yang bersujud, taat beribadah",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 415,
+    "nama": "Salahuddin",
+    "arab": "صَلَاحُ الدِّين",
+    "arti": "Kebaikan agama",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 416,
+    "nama": "Salih",
+    "arab": "صَالِح",
+    "arti": "Yang saleh, baik",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 417,
+    "nama": "Salim",
+    "arab": "سَالِم",
+    "arti": "Selamat, bebas dari cacat",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 418,
+    "nama": "Samih",
+    "arab": "سَامِح",
+    "arti": "Yang pemaaf, dermawan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 419,
+    "nama": "Samir",
+    "arab": "سَامِر",
+    "arti": "Teman bicara malam, penghibur",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 420,
+    "nama": "Saqr",
+    "arab": "صَقْر",
+    "arti": "Rajawali, elang, kuat dan cepat",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 421,
+    "nama": "Shafiq",
+    "arab": "شَفِيق",
+    "arti": "Yang belas kasihan, penyayang",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 422,
+    "nama": "Shahid",
+    "arab": "شَاهِد",
+    "arti": "Saksi, syahid",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 423,
+    "nama": "Shakil",
+    "arab": "شَكِيل",
+    "arti": "Tampan, berparas baik",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 424,
+    "nama": "Shakir",
+    "arab": "شَاكِر",
+    "arti": "Yang bersyukur, berterima kasih",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 425,
+    "nama": "Shamil",
+    "arab": "شَامِل",
+    "arti": "Menyeluruh, lengkap",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 426,
+    "nama": "Shihab",
+    "arab": "شِهَاب",
+    "arti": "Bintang jatuh, cahaya terang",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 427,
+    "nama": "Shuayb",
+    "arab": "شُعَيْب",
+    "arti": "Nabi Syuaib, jalan kecil",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 428,
+    "nama": "Shukri",
+    "arab": "شُكْرِي",
+    "arti": "Rasa syukurku",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 429,
+    "nama": "Siddiq",
+    "arab": "صِدِّيق",
+    "arti": "Orang yang jujur dan benar",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 430,
+    "nama": "Sinan",
+    "arab": "سِنَان",
+    "arti": "Ujung tombak, tajam dan kuat",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 431,
+    "nama": "Subhan",
+    "arab": "سُبْحَان",
+    "arti": "Maha Suci Allah",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 432,
+    "nama": "Subhi",
+    "arab": "صُبْحِي",
+    "arti": "Pagi hari, fajar",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 433,
+    "nama": "Sufyan",
+    "arab": "سُفْيَان",
+    "arti": "Cepat bergerak seperti angin",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 434,
+    "nama": "Sultan",
+    "arab": "سُلْطَان",
+    "arti": "Penguasa, raja",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 435,
+    "nama": "Taha",
+    "arab": "طه",
+    "arti": "Nama surat Al-Quran, nama Nabi",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 436,
+    "nama": "Tahir",
+    "arab": "طَاهِر",
+    "arti": "Suci, bersih, murni",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 437,
+    "nama": "Talib",
+    "arab": "طَالِب",
+    "arti": "Pencari ilmu, pelajar",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 438,
+    "nama": "Tamir",
+    "arab": "تَامِر",
+    "arti": "Yang kaya akan kurma, dermawan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 439,
+    "nama": "Taufiq",
+    "arab": "تَوْفِيق",
+    "arti": "Petunjuk Allah, kesuksesan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 440,
+    "nama": "Tayyib",
+    "arab": "طَيِّب",
+    "arti": "Yang baik, suci, halal",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 441,
+    "nama": "Thamir",
+    "arab": "ثَامِر",
+    "arti": "Yang berbuah, subur",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 442,
+    "nama": "Turki",
+    "arab": "تُرْكِي",
+    "arti": "Dari suku Turki, gagah",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 443,
+    "nama": "Ubay",
+    "arab": "أُبَيّ",
+    "arti": "Yang gagah, sahabat Nabi yang alim",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 444,
+    "nama": "Umair",
+    "arab": "عُمَيْر",
+    "arti": "Hidup, umur",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 445,
+    "nama": "Uqbah",
+    "arab": "عُقْبَة",
+    "arti": "Yang menjaga belakang, penerus",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 446,
+    "nama": "Usaid",
+    "arab": "أُسَيْد",
+    "arti": "Anak singa kecil, pemberani",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 447,
+    "nama": "Uzair",
+    "arab": "عُزَيْر",
+    "arti": "Nabi Uzair, kekuatan kecil",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 448,
+    "nama": "Wajdi",
+    "arab": "وَجْدِي",
+    "arti": "Perasaan cintaku, penuh semangat",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 449,
+    "nama": "Walid",
+    "arab": "وَلِيد",
+    "arti": "Anak yang baru lahir, muda",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 450,
+    "nama": "Wali",
+    "arab": "وَلِيّ",
+    "arti": "Wali, pelindung, sahabat Allah",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 451,
+    "nama": "Wasim",
+    "arab": "وَسِيم",
+    "arti": "Tampan, berwajah rupawan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 452,
+    "nama": "Wissam",
+    "arab": "وِسَام",
+    "arti": "Tanda penghargaan, medali",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 453,
+    "nama": "Yasin",
+    "arab": "يَاسِين",
+    "arti": "Nama surat Al-Quran, jantung Quran",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 454,
+    "nama": "Yusri",
+    "arab": "يُسْرِي",
+    "arti": "Kemudahan, yang berjalan di malam hari",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 455,
+    "nama": "Zafar",
+    "arab": "ظَفَر",
+    "arti": "Kemenangan, kejayaan",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 456,
+    "nama": "Zahid",
+    "arab": "زَاهِد",
+    "arti": "Yang zuhud, tidak cinta dunia",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 457,
+    "nama": "Zaki",
+    "arab": "زَكِيّ",
+    "arti": "Cerdas, suci, murni",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 458,
+    "nama": "Zakwan",
+    "arab": "ذَكْوَان",
+    "arti": "Sangat cerdas, wangi",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 459,
+    "nama": "Abeer",
+    "arab": "عَبِير",
+    "arti": "Wewangian, aroma harum",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 460,
+    "nama": "Abir",
+    "arab": "عَبِير",
+    "arti": "Harum semerbak",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 461,
+    "nama": "Abla",
+    "arab": "عَبْلَة",
+    "arti": "Wanita bertubuh penuh, cantik",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 462,
+    "nama": "Afra",
+    "arab": "أَفْرَاء",
+    "arti": "Berwarna putih, cantik",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 463,
+    "nama": "Ahlam",
+    "arab": "أَحْلَام",
+    "arti": "Mimpi indah, khayalan",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 464,
+    "nama": "Aida",
+    "arab": "عَائِدَة",
+    "arti": "Yang kembali, mengunjungi",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 465,
+    "nama": "Aliyah",
+    "arab": "عَالِيَة",
+    "arti": "Yang tinggi, luhur",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 466,
+    "nama": "Amal",
+    "arab": "أَمَل",
+    "arti": "Harapan, cita-cita",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 467,
+    "nama": "Amani",
+    "arab": "أَمَانِي",
+    "arti": "Harapan-harapan, cita-cita",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 468,
+    "nama": "Amira",
+    "arab": "أَمِيرَة",
+    "arti": "Putri, pemimpin wanita",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 469,
+    "nama": "Arwa",
+    "arab": "أَرْوَى",
+    "arti": "Ibex betina gunung, segar",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 470,
+    "nama": "Atika",
+    "arab": "عَاتِكَة",
+    "arti": "Murni, wangi, bersih",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 471,
+    "nama": "Azizah",
+    "arab": "عَزِيزَة",
+    "arti": "Yang mulia, terkasih",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 472,
+    "nama": "Bahijah",
+    "arab": "بَهِيجَة",
+    "arti": "Yang gembira, bersuka cita",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 473,
+    "nama": "Bahira",
+    "arab": "بَاهِرَة",
+    "arti": "Yang bercahaya, menakjubkan",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 474,
+    "nama": "Banan",
+    "arab": "بَنَان",
+    "arti": "Ujung jari, gemulai",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 475,
+    "nama": "Basma",
+    "arab": "بَسْمَة",
+    "arti": "Senyuman",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 476,
+    "nama": "Batool",
+    "arab": "بَتُول",
+    "arti": "Perawan suci, wanita yang mendekatkan diri kepada Allah",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 477,
+    "nama": "Dina",
+    "arab": "دِينَا",
+    "arti": "Agama, taat beragama",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 478,
+    "nama": "Duha",
+    "arab": "ضُحَى",
+    "arti": "Sinar matahari pagi, waktu dhuha",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 479,
+    "nama": "Fadwa",
+    "arab": "فَدْوَى",
+    "arti": "Pengorbanan diri, bela diri",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 480,
+    "nama": "Faiza",
+    "arab": "فَائِزَة",
+    "arti": "Yang menang, berhasil",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 481,
+    "nama": "Farah",
+    "arab": "فَرَح",
+    "arti": "Kebahagiaan, kegembiraan",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 482,
+    "nama": "Farida",
+    "arab": "فَرِيدَة",
+    "arti": "Permata unik, tiada duanya",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 483,
+    "nama": "Fathin",
+    "arab": "فَاتِن",
+    "arti": "Memukau, mempesona",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 484,
+    "nama": "Fawziyah",
+    "arab": "فَوْزِيَّة",
+    "arti": "Kemenangan, keberhasilan",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 485,
+    "nama": "Fayrouz",
+    "arab": "فَيْرُوز",
+    "arti": "Batu permata hijau, turquoise",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 486,
+    "nama": "Ghada",
+    "arab": "غَادَة",
+    "arti": "Wanita anggun dan gemulai",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 487,
+    "nama": "Ghalia",
+    "arab": "غَالِيَة",
+    "arti": "Berharga, mahal, wangi",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 488,
+    "nama": "Hanin",
+    "arab": "حَنِين",
+    "arti": "Kerinduan, rasa rindu yang dalam",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 489,
+    "nama": "Hawwa",
+    "arab": "حَوَّاء",
+    "arti": "Hawa, ibu semua manusia",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 490,
+    "nama": "Hayat",
+    "arab": "حَيَاة",
+    "arti": "Kehidupan",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 491,
+    "nama": "Hibah",
+    "arab": "هِبَة",
+    "arti": "Hadiah, pemberian",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 492,
+    "nama": "Huda",
+    "arab": "هُدَى",
+    "arti": "Petunjuk, hidayah",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 493,
+    "nama": "Husna",
+    "arab": "حُسْنَى",
+    "arti": "Yang terbaik, paling indah",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 494,
+    "nama": "Inas",
+    "arab": "إِينَاس",
+    "arti": "Keramahan, keakraban",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 495,
+    "nama": "Iqbal",
+    "arab": "إِقْبَال",
+    "arti": "Kemajuan, kemakmuran",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 496,
+    "nama": "Isra",
+    "arab": "إِسْرَاء",
+    "arti": "Perjalanan malam, Isra Miraj",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 497,
+    "nama": "Janan",
+    "arab": "جَنَان",
+    "arti": "Surga, hati yang lembut",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 498,
+    "nama": "Jannah",
+    "arab": "جَنَّة",
+    "arti": "Surga, taman firdaus",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 499,
+    "nama": "Jihan",
+    "arab": "جِيهَان",
+    "arti": "Dunia, alam semesta",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 500,
+    "nama": "Jumana",
+    "arab": "جُمَانَة",
+    "arti": "Mutiara perak",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 501,
+    "nama": "Kanza",
+    "arab": "كَنْزَة",
+    "arti": "Harta karun tersembunyi",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 502,
+    "nama": "Karima",
+    "arab": "كَرِيمَة",
+    "arti": "Dermawan, mulia, wanita berbudi",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 503,
+    "nama": "Kawthar",
+    "arab": "كَوْثَر",
+    "arti": "Sungai di surga, berlimpah",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 504,
+    "nama": "Khalida",
+    "arab": "خَالِدَة",
+    "arti": "Yang abadi, kekal",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 505,
+    "nama": "Khawla",
+    "arab": "خَوْلَة",
+    "arti": "Rusa betina, sahabiyah Nabi",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 506,
+    "nama": "Khulud",
+    "arab": "خُلُود",
+    "arti": "Keabadian, kekal selamanya",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 507,
+    "nama": "Lamia",
+    "arab": "لَامِيَة",
+    "arti": "Bersinar, berkilau",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 508,
+    "nama": "Lamis",
+    "arab": "لَمِيس",
+    "arti": "Lembut saat disentuh",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 509,
+    "nama": "Layan",
+    "arab": "لَيَان",
+    "arti": "Kelembutan, kemudahan",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 510,
+    "nama": "Lina",
+    "arab": "لِينَة",
+    "arti": "Lembut, pohon kurma muda",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 511,
+    "nama": "Lubna",
+    "arab": "لُبْنَى",
+    "arti": "Pohon yang menghasilkan resin wangi",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 512,
+    "nama": "Lujayn",
+    "arab": "لُجَيْن",
+    "arti": "Perak, air yang dalam",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 513,
+    "nama": "Madiha",
+    "arab": "مَدِيحَة",
+    "arti": "Yang dipuji, terpuji",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 514,
+    "nama": "Maha",
+    "arab": "مَهَا",
+    "arti": "Sapi liar bermata indah, cantik",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 515,
+    "nama": "Mahira",
+    "arab": "مَاهِرَة",
+    "arti": "Terampil, cekatan",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 516,
+    "nama": "Malak",
+    "arab": "مَلَاك",
+    "arti": "Malaikat, bidadari",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 517,
+    "nama": "Maysa",
+    "arab": "مَيْسَاء",
+    "arti": "Yang berjalan dengan anggun",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 518,
+    "nama": "Muna",
+    "arab": "مُنَى",
+    "arti": "Harapan, keinginan",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 519,
+    "nama": "Munira",
+    "arab": "مُنِيرَة",
+    "arti": "Bercahaya, menerangi",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 520,
+    "nama": "Nabila",
+    "arab": "نَبِيلَة",
+    "arti": "Berdarah mulia, cerdas",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 521,
+    "nama": "Nadira",
+    "arab": "نَادِرَة",
+    "arti": "Yang langka, berharga",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 522,
+    "nama": "Najla",
+    "arab": "نَجْلَاء",
+    "arti": "Bermata lebar dan indah",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 523,
+    "nama": "Najma",
+    "arab": "نَجْمَة",
+    "arti": "Bintang, bercahaya",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 524,
+    "nama": "Nashwa",
+    "arab": "نَشْوَى",
+    "arti": "Kebahagiaan, kenikmatan",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 525,
+    "nama": "Nawal",
+    "arab": "نَوَال",
+    "arti": "Hadiah, pemberian, anugerah",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 526,
+    "nama": "Nawra",
+    "arab": "نَوْرَة",
+    "arti": "Bunga, mekar",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 527,
+    "nama": "Nayla",
+    "arab": "نَيْلَة",
+    "arti": "Yang memperoleh, mendapat kebaikan",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 528,
+    "nama": "Naziha",
+    "arab": "نَزِيهَة",
+    "arti": "Yang jujur, bersih hati",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 529,
+    "nama": "Nesrin",
+    "arab": "نِسْرِين",
+    "arti": "Bunga mawar liar",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 530,
+    "nama": "Nida",
+    "arab": "نِدَاء",
+    "arti": "Panggilan, seruan",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 531,
+    "nama": "Nihal",
+    "arab": "نِهَال",
+    "arti": "Puas setelah minum, bahagia",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 532,
+    "nama": "Nimat",
+    "arab": "نِعْمَت",
+    "arti": "Nikmat, karunia Allah",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 533,
+    "nama": "Noha",
+    "arab": "نُهَى",
+    "arti": "Akal, kecerdasan",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 534,
+    "nama": "Nouf",
+    "arab": "نُوف",
+    "arti": "Yang tertinggi dari bukit",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 535,
+    "nama": "Nour",
+    "arab": "نُور",
+    "arti": "Cahaya, sinar",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 536,
+    "nama": "Noura",
+    "arab": "نُورَة",
+    "arti": "Bercahaya, cahaya yang terang",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 537,
+    "nama": "Nura",
+    "arab": "نُورَاء",
+    "arti": "Bercahaya, penuh sinar",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 538,
+    "nama": "Qamar",
+    "arab": "قَمَر",
+    "arti": "Bulan, cahaya bulan",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 539,
+    "nama": "Rabab",
+    "arab": "رَبَاب",
+    "arti": "Awan putih, alat musik",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 540,
+    "nama": "Raghad",
+    "arab": "رَغَد",
+    "arti": "Nyaman, hidup senang",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 541,
+    "nama": "Rahaf",
+    "arab": "رَهَف",
+    "arti": "Tipis dan lembut, sensitif",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 542,
+    "nama": "Rahma",
+    "arab": "رَحْمَة",
+    "arti": "Kasih sayang, rahmat",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 543,
+    "nama": "Raja",
+    "arab": "رَجَاء",
+    "arti": "Harapan, optimisme",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 544,
+    "nama": "Rana",
+    "arab": "رَنَا",
+    "arti": "Memandang dengan penuh keajaiban",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 545,
+    "nama": "Randa",
+    "arab": "رَنْدَة",
+    "arti": "Pohon yang wangi",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 546,
+    "nama": "Rasha",
+    "arab": "رَشَا",
+    "arti": "Anak rusa, lincah dan cantik",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 547,
+    "nama": "Reem",
+    "arab": "رِيم",
+    "arti": "Rusa putih, cantik",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 548,
+    "nama": "Rima",
+    "arab": "رِيمَة",
+    "arti": "Rusa putih, murni",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 549,
+    "nama": "Sabrina",
+    "arab": "صَابِرِينَة",
+    "arti": "Yang sabar, penuh kesabaran",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 550,
+    "nama": "Safa",
+    "arab": "صَفَاء",
+    "arti": "Kemurnian, kejernihan",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 551,
+    "nama": "Sahla",
+    "arab": "سَهْلَة",
+    "arti": "Mudah, mulus, lemah lembut",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 552,
+    "nama": "Samia",
+    "arab": "سَامِيَة",
+    "arti": "Yang tinggi derajatnya, luhur",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 553,
+    "nama": "Samira",
+    "arab": "سَامِرَة",
+    "arti": "Teman ngobrol malam, penghibur",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 554,
+    "nama": "Shaima",
+    "arab": "شَيْمَاء",
+    "arti": "Penuh akhlak baik",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 555,
+    "nama": "Shakira",
+    "arab": "شَاكِرَة",
+    "arti": "Yang bersyukur",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 556,
+    "nama": "Sirin",
+    "arab": "شِيرِين",
+    "arti": "Manis, nama istri Nabi Yusuf",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 557,
+    "nama": "Soraya",
+    "arab": "ثُرَيَّا",
+    "arti": "Bintang Pleiades, bintang tujuh",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 558,
+    "nama": "Suad",
+    "arab": "سُعَاد",
+    "arti": "Kebahagiaan, sumber kegembiraan",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 559,
+    "nama": "Sultana",
+    "arab": "سُلْطَانَة",
+    "arti": "Ratu, permaisuri",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 560,
+    "nama": "Sumayya",
+    "arab": "سُمَيَّة",
+    "arti": "Yang tinggi, luhur, syahidah pertama",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 561,
+    "nama": "Suraya",
+    "arab": "ثُرَيَّا",
+    "arti": "Bintang Pleiades, bersinar",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 562,
+    "nama": "Tabassum",
+    "arab": "تَبَسُّم",
+    "arti": "Senyuman, wajah yang cerah",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 563,
+    "nama": "Taghreed",
+    "arab": "تَغْرِيد",
+    "arti": "Nyanyian burung, kicauan merdu",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 564,
+    "nama": "Tahani",
+    "arab": "تَهَانِي",
+    "arti": "Ucapan selamat, kebahagiaan",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 565,
+    "nama": "Tahira",
+    "arab": "طَاهِرَة",
+    "arti": "Suci, murni, bersih",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 566,
+    "nama": "Tayyiba",
+    "arab": "طَيِّبَة",
+    "arti": "Yang baik, suci, menyenangkan",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 567,
+    "nama": "Thana",
+    "arab": "ثَنَاء",
+    "arti": "Pujian, sanjungan",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 568,
+    "nama": "Tuba",
+    "arab": "طُوبَى",
+    "arti": "Pohon di surga, kebahagiaan",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 569,
+    "nama": "Ulfah",
+    "arab": "أُلْفَة",
+    "arti": "Keakraban, kasih sayang",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 570,
+    "nama": "Uzma",
+    "arab": "عُظْمَى",
+    "arti": "Yang teragung, paling mulia",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 571,
+    "nama": "Wafa",
+    "arab": "وَفَاء",
+    "arti": "Kesetiaan, kejujuran",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 572,
+    "nama": "Widad",
+    "arab": "وِدَاد",
+    "arti": "Cinta, kasih sayang",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 573,
+    "nama": "Yusra",
+    "arab": "يُسْرَى",
+    "arti": "Kemudahan, yang beruntung",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 574,
+    "nama": "Zahia",
+    "arab": "زَاهِيَة",
+    "arti": "Bersinar, berbunga",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 575,
+    "nama": "Zahira",
+    "arab": "زَاهِرَة",
+    "arti": "Bersinar, mekar, bunga",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 576,
+    "nama": "Zakiyya",
+    "arab": "زَكِيَّة",
+    "arti": "Cerdas dan suci",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 577,
+    "nama": "Zarifah",
+    "arab": "ظَرِيفَة",
+    "arti": "Anggun, elegan, cerdas",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 578,
+    "nama": "Zikra",
+    "arab": "ذِكْرَى",
+    "arti": "Kenangan, ingatan",
+    "asalBahasa": "Arab",
+    "gender": "P"
+  },
+  {
+    "id": 579,
+    "nama": "Fayruz",
+    "arab": "فَيْرُوز",
+    "arti": "Batu mulia berwarna hijau",
+    "asalBahasa": "Arab",
+    "gender": "U"
+  },
+  {
+    "id": 580,
+    "nama": "Fida",
+    "arab": "فِدَاء",
+    "arti": "Pengorbanan",
+    "asalBahasa": "Arab",
+    "gender": "U"
+  },
+  {
+    "id": 581,
+    "nama": "Hiba",
+    "arab": "هِبَة",
+    "arti": "Hadiah, karunia",
+    "asalBahasa": "Arab",
+    "gender": "U"
+  },
+  {
+    "id": 582,
+    "nama": "Iman",
+    "arab": "إِيمَان",
+    "arti": "Keimanan, kepercayaan kepada Allah",
+    "asalBahasa": "Arab",
+    "gender": "U"
+  },
+  {
+    "id": 583,
+    "nama": "Islam",
+    "arab": "إِسْلَام",
+    "arti": "Agama Islam, penyerahan diri",
+    "asalBahasa": "Arab",
+    "gender": "U"
+  },
+  {
+    "id": 584,
+    "nama": "Jinan",
+    "arab": "جِنَان",
+    "arti": "Surga-surga, taman firdaus",
+    "asalBahasa": "Arab",
+    "gender": "U"
+  },
+  {
+    "id": 585,
+    "nama": "Manar",
+    "arab": "مَنَار",
+    "arti": "Mercusuar, cahaya penuntun",
+    "asalBahasa": "Arab",
+    "gender": "U"
+  },
+  {
+    "id": 586,
+    "nama": "Nashit",
+    "arab": "نَشِيط",
+    "arti": "Aktif, energik, bersemangat",
+    "asalBahasa": "Arab",
+    "gender": "U"
+  },
+  {
+    "id": 587,
+    "nama": "Noor",
+    "arab": "نُور",
+    "arti": "Cahaya, sinar",
+    "asalBahasa": "Arab",
+    "gender": "U"
+  },
+  {
+    "id": 588,
+    "nama": "Nur",
+    "arab": "نُور",
+    "arti": "Cahaya, penerang",
+    "asalBahasa": "Arab",
+    "gender": "U"
+  },
+  {
+    "id": 589,
+    "nama": "Qismat",
+    "arab": "قِسْمَت",
+    "arti": "Takdir, nasib dari Allah",
+    "asalBahasa": "Arab",
+    "gender": "U"
+  },
+  {
+    "id": 590,
+    "nama": "Rabi",
+    "arab": "رَبِيع",
+    "arti": "Musim semi, yang menyegarkan",
+    "asalBahasa": "Arab",
+    "gender": "U"
+  },
+  {
+    "id": 591,
+    "nama": "Salam",
+    "arab": "سَلَام",
+    "arti": "Kedamaian, keselamatan",
+    "asalBahasa": "Arab",
+    "gender": "U"
+  },
+  {
+    "id": 592,
+    "nama": "Shams",
+    "arab": "شَمْس",
+    "arti": "Matahari, bersinar terang",
+    "asalBahasa": "Arab",
+    "gender": "U"
+  },
+  {
+    "id": 593,
+    "nama": "Siraj",
+    "arab": "سِرَاج",
+    "arti": "Pelita, lampu penerang",
+    "asalBahasa": "Arab",
+    "gender": "U"
+  },
+  {
+    "id": 594,
+    "nama": "Suha",
+    "arab": "سُهَى",
+    "arti": "Bintang kecil, harapan kecil",
+    "asalBahasa": "Arab",
+    "gender": "U"
+  },
+  {
+    "id": 595,
+    "nama": "Zain",
+    "arab": "زَيْن",
+    "arti": "Keindahan, hiasan",
+    "asalBahasa": "Arab",
+    "gender": "U"
+  },
+  {
+    "id": 1412,
+    "nama": "Utsman",
+    "arab": "عُثْمَان",
+    "arti": "Nama khalifah ketiga Islam, bermakna mulia dan bijaksana",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 1413,
+    "nama": "Adham",
+    "arab": "أَدْهَم",
+    "arti": "Berambut hitam pekat, berpenampilan gagah dan kuat",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 1414,
+    "nama": "Jabbar",
+    "arab": "جَبَّار",
+    "arti": "Yang maha perkasa, berkuasa dan memiliki kekuatan besar",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 1415,
+    "nama": "Utsman",
+    "arab": "عُثْمَان",
+    "arti": "Nama khalifah ketiga Islam, bermakna mulia dan bijaksana",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 1416,
+    "nama": "Adham",
+    "arab": "أَدْهَم",
+    "arti": "Berambut hitam pekat, berpenampilan gagah dan kuat",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  },
+  {
+    "id": 1417,
+    "nama": "Jabbar",
+    "arab": "جَبَّار",
+    "arti": "Yang maha perkasa, berkuasa dan memiliki kekuatan besar",
+    "asalBahasa": "Arab",
+    "gender": "L"
+  }
+]
