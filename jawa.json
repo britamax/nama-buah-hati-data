@@ -1,0 +1,2298 @@
+[
+  {
+    "id": 101,
+    "nama": "Bagus",
+    "arab": "",
+    "arti": "Tampan, baik rupa",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 102,
+    "nama": "Bima",
+    "arab": "",
+    "arti": "Hebat, menakutkan musuh, kuat",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 103,
+    "nama": "Arjuna",
+    "arab": "",
+    "arti": "Tampan, bersih, cemerlang",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 104,
+    "nama": "Satria",
+    "arab": "",
+    "arti": "Ksatria, gagah berani",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 105,
+    "nama": "Wisnu",
+    "arab": "",
+    "arti": "Dewa penjaga, pelindung",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 106,
+    "nama": "Dimas",
+    "arab": "",
+    "arti": "Pemuda tampan",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 107,
+    "nama": "Galih",
+    "arab": "",
+    "arti": "Inti, teras kayu, kokoh",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 108,
+    "nama": "Hendra",
+    "arab": "",
+    "arti": "Raja yang baik",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 109,
+    "nama": "Joko",
+    "arab": "",
+    "arti": "Pemuda, orang muda",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 110,
+    "nama": "Krisna",
+    "arab": "",
+    "arti": "Hitam, gelap, dewa yang bijak",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 111,
+    "nama": "Lingga",
+    "arab": "",
+    "arti": "Lambang kekuatan",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 112,
+    "nama": "Mahendra",
+    "arab": "",
+    "arti": "Raja yang agung, Dewa Indra besar",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 113,
+    "nama": "Nanda",
+    "arab": "",
+    "arti": "Kebahagiaan, suka cita",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 114,
+    "nama": "Pandu",
+    "arab": "",
+    "arti": "Pemimpin, panduan",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 115,
+    "nama": "Rangga",
+    "arab": "",
+    "arti": "Tegap, gagah, perwira",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 116,
+    "nama": "Sigit",
+    "arab": "",
+    "arti": "Tampan, elok, bagus",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 117,
+    "nama": "Teguh",
+    "arab": "",
+    "arti": "Teguh, kuat pendirian",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 118,
+    "nama": "Wahyu",
+    "arab": "",
+    "arti": "Wahyu, petunjuk ilahi",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 119,
+    "nama": "Yudha",
+    "arab": "",
+    "arti": "Perang, perjuangan, keberanian",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 120,
+    "nama": "Zulfikar",
+    "arab": "",
+    "arti": "Pedang bermata dua, pemberani",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 121,
+    "nama": "Aditya",
+    "arab": "",
+    "arti": "Putra matahari, bersinar",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 122,
+    "nama": "Bayu",
+    "arab": "",
+    "arti": "Angin, udara segar",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 123,
+    "nama": "Cahyo",
+    "arab": "",
+    "arti": "Cahaya, sinar terang",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 124,
+    "nama": "Damar",
+    "arab": "",
+    "arti": "Obor, penerang, cahaya",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 125,
+    "nama": "Endra",
+    "arab": "",
+    "arti": "Raja, pemimpin agung",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 126,
+    "nama": "Fajar",
+    "arab": "",
+    "arti": "Fajar, subuh, awal cahaya",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 127,
+    "nama": "Ayu",
+    "arab": "",
+    "arti": "Cantik, indah",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 128,
+    "nama": "Dewi",
+    "arab": "",
+    "arti": "Bidadari, dewi",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 129,
+    "nama": "Endah",
+    "arab": "",
+    "arti": "Indah, elok, cantik",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 130,
+    "nama": "Galuh",
+    "arab": "",
+    "arti": "Putri keraton, permata",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 131,
+    "nama": "Kinanti",
+    "arab": "",
+    "arti": "Yang ditunggu-tunggu, diharap",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 132,
+    "nama": "Larasati",
+    "arab": "",
+    "arti": "Serasi, harmonis, indah",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 133,
+    "nama": "Melati",
+    "arab": "",
+    "arti": "Bunga melati, harum suci",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 134,
+    "nama": "Niken",
+    "arab": "",
+    "arti": "Gadis cantik, perawan",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 135,
+    "nama": "Ratih",
+    "arab": "",
+    "arti": "Dewi cinta, rembulan",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 136,
+    "nama": "Sekar",
+    "arab": "",
+    "arti": "Bunga, kembang",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 137,
+    "nama": "Tari",
+    "arab": "",
+    "arti": "Tarian, gerak indah",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 138,
+    "nama": "Wulan",
+    "arab": "",
+    "arti": "Bulan, rembulan",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 139,
+    "nama": "Yuni",
+    "arab": "",
+    "arti": "Juni, musim bunga",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 140,
+    "nama": "Cahyani",
+    "arab": "",
+    "arti": "Cahaya yang menerangi",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 141,
+    "nama": "Dyah",
+    "arab": "",
+    "arti": "Gadis bangsawan, mulia",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 142,
+    "nama": "Roro",
+    "arab": "",
+    "arti": "Gadis muda, putri cantik",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 143,
+    "nama": "Sari",
+    "arab": "",
+    "arti": "Inti sari, terbaik, murni",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 144,
+    "nama": "Sriwahyuni",
+    "arab": "",
+    "arti": "Dewi keberuntungan juni",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 145,
+    "nama": "Kusuma",
+    "arab": "",
+    "arti": "Kembang, bunga terbaik",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 146,
+    "nama": "Purnama",
+    "arab": "",
+    "arti": "Bulan purnama, sempurna",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 596,
+    "nama": "Prasetyo",
+    "arab": "",
+    "arti": "Tekad yang kuat, setia pada janji",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 597,
+    "nama": "Priyanto",
+    "arab": "",
+    "arti": "Yang dicintai, orang yang disayangi",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 598,
+    "nama": "Wicaksono",
+    "arab": "",
+    "arti": "Orang yang bijaksana dan cerdik",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 599,
+    "nama": "Pramudya",
+    "arab": "",
+    "arti": "Unggul, terpilih, terbaik",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 600,
+    "nama": "Suryo",
+    "arab": "",
+    "arti": "Matahari, sumber cahaya",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 601,
+    "nama": "Suryono",
+    "arab": "",
+    "arti": "Seperti matahari, bercahaya",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 602,
+    "nama": "Kuncoro",
+    "arab": "",
+    "arti": "Mulia, terhormat, berwibawa",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 603,
+    "nama": "Widodo",
+    "arab": "",
+    "arti": "Selamat, sejahtera, makmur",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 604,
+    "nama": "Sudirman",
+    "arab": "",
+    "arti": "Lurus jalannya, berbudi baik",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 605,
+    "nama": "Supriyadi",
+    "arab": "",
+    "arti": "Yang paling dicintai",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 606,
+    "nama": "Haryono",
+    "arab": "",
+    "arti": "Keturunan yang mulia",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 607,
+    "nama": "Harjono",
+    "arab": "",
+    "arti": "Kemuliaan, kemakmuran",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 608,
+    "nama": "Sudarno",
+    "arab": "",
+    "arti": "Hati yang tenang dan baik",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 609,
+    "nama": "Sunaryo",
+    "arab": "",
+    "arti": "Sinar yang terang benderang",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 610,
+    "nama": "Triyono",
+    "arab": "",
+    "arti": "Tiga kemuliaan, berasal dari keluarga mulia",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 611,
+    "nama": "Prayitno",
+    "arab": "",
+    "arti": "Lurus hati, berperilaku baik",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 612,
+    "nama": "Sugianto",
+    "arab": "",
+    "arti": "Berkecukupan, kaya rejeki",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 613,
+    "nama": "Warsito",
+    "arab": "",
+    "arti": "Pewaris ilmu, cendekiawan",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 614,
+    "nama": "Wiranto",
+    "arab": "",
+    "arti": "Kesatria pemberani",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 615,
+    "nama": "Pranoto",
+    "arab": "",
+    "arti": "Tata aturan yang baik, bijaksana",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 616,
+    "nama": "Priyono",
+    "arab": "",
+    "arti": "Yang menyenangkan, bersifat cinta",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 617,
+    "nama": "Wahyudi",
+    "arab": "",
+    "arti": "Mendapat wahyu, mendapat petunjuk Tuhan",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 618,
+    "nama": "Waluyo",
+    "arab": "",
+    "arti": "Sehat wal afiat, selamat sentosa",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 619,
+    "nama": "Sutrisno",
+    "arab": "",
+    "arti": "Baik hati, pemurah",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 620,
+    "nama": "Mulyono",
+    "arab": "",
+    "arti": "Mulia dan luhur",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 621,
+    "nama": "Mulyadi",
+    "arab": "",
+    "arti": "Kemuliaan yang sejati",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 622,
+    "nama": "Hartono",
+    "arab": "",
+    "arti": "Berharta, berkecukupan",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 623,
+    "nama": "Susilo",
+    "arab": "",
+    "arti": "Berbudi pekerti luhur, sopan santun",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 624,
+    "nama": "Wiyono",
+    "arab": "",
+    "arti": "Keberhasilan, kemenangan",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 625,
+    "nama": "Pamuji",
+    "arab": "",
+    "arti": "Pujian, yang dipuja",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 626,
+    "nama": "Raharjo",
+    "arab": "",
+    "arti": "Keselamatan, kemakmuran",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 627,
+    "nama": "Rahardjo",
+    "arab": "",
+    "arti": "Keselamatan dan kemakmuran",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 628,
+    "nama": "Guno",
+    "arab": "",
+    "arti": "Berguna, bermanfaat bagi banyak orang",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 629,
+    "nama": "Jatmiko",
+    "arab": "",
+    "arti": "Sopan, halus budi pekerti",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 630,
+    "nama": "Krisno",
+    "arab": "",
+    "arti": "Hitam mulia, bentuk Jawa dari Krishna",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 631,
+    "nama": "Leksono",
+    "arab": "",
+    "arti": "Sempurna, indah, bagus",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 632,
+    "nama": "Marsono",
+    "arab": "",
+    "arti": "Bijaksana, pandai, cerdik",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 633,
+    "nama": "Naryono",
+    "arab": "",
+    "arti": "Orang yang bermartabat dan berwibawa",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 634,
+    "nama": "Paryono",
+    "arab": "",
+    "arti": "Tata aturan yang baik, teratur",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 635,
+    "nama": "Sarwono",
+    "arab": "",
+    "arti": "Sempurna, lengkap, menyeluruh",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 636,
+    "nama": "Suwarno",
+    "arab": "",
+    "arti": "Emas, kemuliaan seperti emas",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 637,
+    "nama": "Suharno",
+    "arab": "",
+    "arti": "Baik dan luhur",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 638,
+    "nama": "Suwandi",
+    "arab": "",
+    "arti": "Bertabiat baik, berbudi luhur",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 639,
+    "nama": "Triono",
+    "arab": "",
+    "arti": "Tiga sifat mulia",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 640,
+    "nama": "Utomo",
+    "arab": "",
+    "arti": "Utama, terbaik, paling unggul",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 641,
+    "nama": "Waskito",
+    "arab": "",
+    "arti": "Bijak, tajam perasaan, peka",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 642,
+    "nama": "Yuwono",
+    "arab": "",
+    "arti": "Muda, bersemangat, penuh harapan",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 643,
+    "nama": "Prapto",
+    "arab": "",
+    "arti": "Mencapai tujuan, berhasil",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 644,
+    "nama": "Subekti",
+    "arab": "",
+    "arti": "Berbakti, setia kepada yang benar",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 645,
+    "nama": "Darmawan",
+    "arab": "",
+    "arti": "Dermawan, suka memberi",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 646,
+    "nama": "Darmanto",
+    "arab": "",
+    "arti": "Yang berdharma, berbuat kebaikan",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 647,
+    "nama": "Diponegoro",
+    "arab": "",
+    "arti": "Cahaya negeri, pemimpin yang bercahaya",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 648,
+    "nama": "Mangkubumi",
+    "arab": "",
+    "arti": "Yang menguasai bumi, pemimpin agung",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 649,
+    "nama": "Senopati",
+    "arab": "",
+    "arti": "Panglima perang, pemimpin prajurit",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 650,
+    "nama": "Jayabaya",
+    "arab": "",
+    "arti": "Kejayaan abadi, kemenangan yang kekal",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 651,
+    "nama": "Jayanegara",
+    "arab": "",
+    "arti": "Kemenangan negeri",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 652,
+    "nama": "Hayam",
+    "arab": "",
+    "arti": "Ayam jago, jantan perkasa",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 653,
+    "nama": "Gajah",
+    "arab": "",
+    "arti": "Gajah, kuat perkasa",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 654,
+    "nama": "Wijayakusuma",
+    "arab": "",
+    "arti": "Bunga kemenangan, mekar dalam kejayaan",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 655,
+    "nama": "Aryo",
+    "arab": "",
+    "arti": "Mulia, bangsawan, terpandang",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 656,
+    "nama": "Adipati",
+    "arab": "",
+    "arti": "Pemimpin daerah, bangsawan tinggi",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 657,
+    "nama": "Brawijaya",
+    "arab": "",
+    "arti": "Kemuliaan yang agung dan abadi",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 658,
+    "nama": "Senoaji",
+    "arab": "",
+    "arti": "Panglima yang unggul",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 659,
+    "nama": "Kertawijaya",
+    "arab": "",
+    "arti": "Kemenangan yang gemilang",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 660,
+    "nama": "Ranawijaya",
+    "arab": "",
+    "arti": "Menang dalam pertempuran",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 661,
+    "nama": "Wibisono",
+    "arab": "",
+    "arti": "Berwibawa, karismatik",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 662,
+    "nama": "Widyanto",
+    "arab": "",
+    "arti": "Penuh ilmu pengetahuan",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 663,
+    "nama": "Prambudi",
+    "arab": "",
+    "arti": "Budi pekerti yang luhur",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 664,
+    "nama": "Prabowo",
+    "arab": "",
+    "arti": "Yang menjadi pegangan, pemimpin",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 665,
+    "nama": "Pangestu",
+    "arab": "",
+    "arti": "Restu, mendapat berkah dan doa",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 666,
+    "nama": "Satrio",
+    "arab": "",
+    "arti": "Satria, kesatria pemberani",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 667,
+    "nama": "Sabdo",
+    "arab": "",
+    "arti": "Kata, ucapan yang bermakna",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 668,
+    "nama": "Sadono",
+    "arab": "",
+    "arti": "Baik, bermartabat tinggi",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 669,
+    "nama": "Sarono",
+    "arab": "",
+    "arti": "Segala sesuatu yang sempurna",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 670,
+    "nama": "Soekoco",
+    "arab": "",
+    "arti": "Hati yang gembira dan bahagia",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 671,
+    "nama": "Sukarno",
+    "arab": "",
+    "arti": "Suka emas, berjiwa mulia",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 672,
+    "nama": "Sukoco",
+    "arab": "",
+    "arti": "Kebahagiaan sejati",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 673,
+    "nama": "Sukardi",
+    "arab": "",
+    "arti": "Senang hati, bergembira",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 674,
+    "nama": "Supardi",
+    "arab": "",
+    "arti": "Keberhasilan yang sempurna",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 675,
+    "nama": "Suratman",
+    "arab": "",
+    "arti": "Bertabiat baik dan setia",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 676,
+    "nama": "Sutoyo",
+    "arab": "",
+    "arti": "Keselamatan yang abadi",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 677,
+    "nama": "Timbul",
+    "arab": "",
+    "arti": "Muncul, terbit, bersinar",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 678,
+    "nama": "Toto",
+    "arab": "",
+    "arti": "Teratur, rapi, berdisiplin",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 679,
+    "nama": "Tugiman",
+    "arab": "",
+    "arti": "Amanah, dapat dipercaya",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 680,
+    "nama": "Wijoyo",
+    "arab": "",
+    "arti": "Kemenangan yang gemilang",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 681,
+    "nama": "Pujiyanto",
+    "arab": "",
+    "arti": "Yang dipuji, terpuji",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 682,
+    "nama": "Gunawan",
+    "arab": "",
+    "arti": "Berguna bagi banyak orang",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 683,
+    "nama": "Hendro",
+    "arab": "",
+    "arti": "Indera, mahkota, pemimpin",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 684,
+    "nama": "Agung",
+    "arab": "",
+    "arti": "Besar, mulia, agung",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 685,
+    "nama": "Andika",
+    "arab": "",
+    "arti": "Pahlawan, kesatria muda",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 686,
+    "nama": "Anggoro",
+    "arab": "",
+    "arti": "Selasa, lahir bertepatan keberuntungan",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 687,
+    "nama": "Bagas",
+    "arab": "",
+    "arti": "Sehat dan kuat",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 688,
+    "nama": "Bintara",
+    "arab": "",
+    "arti": "Abdi negara, pengabdi yang setia",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 689,
+    "nama": "Citro",
+    "arab": "",
+    "arti": "Sinar, cahaya terang",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 690,
+    "nama": "Darmo",
+    "arab": "",
+    "arti": "Dharma, kebajikan",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 691,
+    "nama": "Jarot",
+    "arab": "",
+    "arti": "Akar yang kuat, kokoh",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 692,
+    "nama": "Kusno",
+    "arab": "",
+    "arti": "Bijaksana, pandai",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 693,
+    "nama": "Lantip",
+    "arab": "",
+    "arti": "Cerdas, tajam pikiran",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 694,
+    "nama": "Pradipta",
+    "arab": "",
+    "arti": "Bercahaya, bersinar terang",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 695,
+    "nama": "Raksa",
+    "arab": "",
+    "arti": "Penjaga, pelindung",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 696,
+    "nama": "Setiawan",
+    "arab": "",
+    "arti": "Orang yang setia dan berbudi",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 697,
+    "nama": "Seto",
+    "arab": "",
+    "arti": "Putih, suci, bersih hati",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 698,
+    "nama": "Wahyono",
+    "arab": "",
+    "arti": "Mendapatkan wahyu Tuhan",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 699,
+    "nama": "Retno",
+    "arab": "",
+    "arti": "Intan permata, wanita berharga",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 700,
+    "nama": "Retnowati",
+    "arab": "",
+    "arti": "Wanita permata, berharga",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 701,
+    "nama": "Endang",
+    "arab": "",
+    "arti": "Wanita cantik yang memesona",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 702,
+    "nama": "Wulandari",
+    "arab": "",
+    "arti": "Bulan yang indah bersinar",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 703,
+    "nama": "Suryaningsih",
+    "arab": "",
+    "arti": "Putri matahari, bercahaya",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 704,
+    "nama": "Suryanti",
+    "arab": "",
+    "arti": "Putri matahari, penuh cahaya",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 705,
+    "nama": "Candrakirana",
+    "arab": "",
+    "arti": "Sinar bulan yang cantik jelita",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 706,
+    "nama": "Candra",
+    "arab": "",
+    "arti": "Bulan, terang benderang",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 707,
+    "nama": "Gitanjali",
+    "arab": "",
+    "arti": "Persembahan nyanyian, seni yang indah",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 708,
+    "nama": "Laras",
+    "arab": "",
+    "arti": "Harmonis, selaras, serasi",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 709,
+    "nama": "Srikandi",
+    "arab": "",
+    "arti": "Wanita perkasa, kesatria perempuan",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 710,
+    "nama": "Sembadra",
+    "arab": "",
+    "arti": "Wanita yang mulia dan setia",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 711,
+    "nama": "Kunti",
+    "arab": "",
+    "arti": "Ibu yang bijaksana, penuh kasih",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 712,
+    "nama": "Drupadi",
+    "arab": "",
+    "arti": "Wanita bangsawan yang kuat",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 713,
+    "nama": "Setyowati",
+    "arab": "",
+    "arti": "Wanita yang setia dan berbakti",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 714,
+    "nama": "Setyani",
+    "arab": "",
+    "arti": "Setia, berbakti, terpercaya",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 715,
+    "nama": "Hartini",
+    "arab": "",
+    "arti": "Berhati mulia, pemurah",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 716,
+    "nama": "Hartiningsih",
+    "arab": "",
+    "arti": "Putri yang berhati mulia",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 717,
+    "nama": "Mulyati",
+    "arab": "",
+    "arti": "Wanita yang mulia dan luhur",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 718,
+    "nama": "Mulyaningsih",
+    "arab": "",
+    "arti": "Putri yang penuh kemuliaan",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 719,
+    "nama": "Sulastri",
+    "arab": "",
+    "arti": "Wanita cantik yang bersinar",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 720,
+    "nama": "Sulistyowati",
+    "arab": "",
+    "arti": "Wanita yang elok dan cantik",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 721,
+    "nama": "Sulistyaning",
+    "arab": "",
+    "arti": "Elok cantik jelita",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 722,
+    "nama": "Rukmini",
+    "arab": "",
+    "arti": "Emas, wanita berkilau seperti emas",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 723,
+    "nama": "Nawangsari",
+    "arab": "",
+    "arti": "Angin yang harum, lembut bersari",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 724,
+    "nama": "Nawangsih",
+    "arab": "",
+    "arti": "Putri angin, lemah lembut",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 725,
+    "nama": "Nawang",
+    "arab": "",
+    "arti": "Langit, tinggi dan suci",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 726,
+    "nama": "Pertiwi",
+    "arab": "",
+    "arti": "Bumi, ibu pertiwi",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 727,
+    "nama": "Purbowati",
+    "arab": "",
+    "arti": "Wanita timur yang mulia",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 728,
+    "nama": "Purwanti",
+    "arab": "",
+    "arti": "Wanita yang terdepan, utama",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 729,
+    "nama": "Rahayu",
+    "arab": "",
+    "arti": "Selamat, bahagia, sejahtera",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 730,
+    "nama": "Rahayuningsih",
+    "arab": "",
+    "arti": "Putri yang selalu dalam keselamatan",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 731,
+    "nama": "Rini",
+    "arab": "",
+    "arti": "Gadis remaja yang segar",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 732,
+    "nama": "Riyanti",
+    "arab": "",
+    "arti": "Yang menyenangkan hati",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 733,
+    "nama": "Rumiyati",
+    "arab": "",
+    "arti": "Yang menggembirakan, menyenangkan",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 734,
+    "nama": "Sarini",
+    "arab": "",
+    "arti": "Sari kehidupan, berharga",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 735,
+    "nama": "Sarwanti",
+    "arab": "",
+    "arti": "Segalanya indah dan sempurna",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 736,
+    "nama": "Siwi",
+    "arab": "",
+    "arti": "Anak, buah hati kesayangan",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 737,
+    "nama": "Sriyati",
+    "arab": "",
+    "arti": "Sri yang cantik, putri kemuliaan",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 738,
+    "nama": "Sriyono",
+    "arab": "",
+    "arti": "Putri yang mulia dan indah",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 739,
+    "nama": "Sukarsih",
+    "arab": "",
+    "arti": "Yang menyenangkan dan menggembirakan",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 740,
+    "nama": "Sumiati",
+    "arab": "",
+    "arti": "Yang semulia bunga, harum namanya",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 741,
+    "nama": "Sumirah",
+    "arab": "",
+    "arti": "Harum mewangi, berkesan baik",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 742,
+    "nama": "Sumiyati",
+    "arab": "",
+    "arti": "Putri yang harum dan mulia",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 743,
+    "nama": "Sunarsih",
+    "arab": "",
+    "arti": "Putri sinar terang",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 744,
+    "nama": "Sunarti",
+    "arab": "",
+    "arti": "Putri yang bercahaya bersinar",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 745,
+    "nama": "Supiyati",
+    "arab": "",
+    "arti": "Yang baik dan menyenangkan",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 746,
+    "nama": "Surati",
+    "arab": "",
+    "arti": "Suka hati, gembira selalu",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 747,
+    "nama": "Suratiningsih",
+    "arab": "",
+    "arti": "Putri yang selalu bersuka hati",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 748,
+    "nama": "Suryawati",
+    "arab": "",
+    "arti": "Putri matahari yang bercahaya",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 749,
+    "nama": "Susanti",
+    "arab": "",
+    "arti": "Wanita yang menyenangkan hati",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 750,
+    "nama": "Susmiati",
+    "arab": "",
+    "arti": "Wanita berperasaan halus",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 751,
+    "nama": "Sutami",
+    "arab": "",
+    "arti": "Baik dan utama",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 752,
+    "nama": "Sutarti",
+    "arab": "",
+    "arti": "Keselamatan yang menyenangkan",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 753,
+    "nama": "Suyatmi",
+    "arab": "",
+    "arti": "Nyawa yang baik, jiwa yang tenang",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 754,
+    "nama": "Suyatni",
+    "arab": "",
+    "arti": "Jiwa yang baik dan tenteram",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 755,
+    "nama": "Tantri",
+    "arab": "",
+    "arti": "Putri yang cerdas, pandai bercerita",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 756,
+    "nama": "Titi",
+    "arab": "",
+    "arti": "Teliti, cermat, berhati-hati",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 757,
+    "nama": "Triningsih",
+    "arab": "",
+    "arti": "Putri dengan tiga kemuliaan",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 758,
+    "nama": "Triwulandari",
+    "arab": "",
+    "arti": "Tiga bulan bersinar indah",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 759,
+    "nama": "Tumini",
+    "arab": "",
+    "arti": "Yang diharapkan, idaman",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 760,
+    "nama": "Wahyuningsih",
+    "arab": "",
+    "arti": "Putri yang mendapat wahyu",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 761,
+    "nama": "Wahyuni",
+    "arab": "",
+    "arti": "Putri wahyu, mendapat petunjuk",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 762,
+    "nama": "Widayati",
+    "arab": "",
+    "arti": "Wanita berpengetahuan luas",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 763,
+    "nama": "Widaningsih",
+    "arab": "",
+    "arti": "Putri yang bijak dan berpengetahuan",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 764,
+    "nama": "Widari",
+    "arab": "",
+    "arti": "Wanita yang cerdas dan tangkas",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 765,
+    "nama": "Wirastuti",
+    "arab": "",
+    "arti": "Kesatria wanita yang gagah",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 766,
+    "nama": "Wiranti",
+    "arab": "",
+    "arti": "Wanita pemberani",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 767,
+    "nama": "Yayuk",
+    "arab": "",
+    "arti": "Kakak perempuan, kasih sayang",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 768,
+    "nama": "Yuliani",
+    "arab": "",
+    "arti": "Putri Juli, bersemangat",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 769,
+    "nama": "Yulianti",
+    "arab": "",
+    "arti": "Putri yang penuh semangat",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 770,
+    "nama": "Yuniati",
+    "arab": "",
+    "arti": "Putri yang satu, istimewa",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 771,
+    "nama": "Yustina",
+    "arab": "",
+    "arti": "Keadilan, yang adil dan bijak",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 772,
+    "nama": "Sekarwangi",
+    "arab": "",
+    "arti": "Bunga yang harum semerbak",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 773,
+    "nama": "Sekarsari",
+    "arab": "",
+    "arti": "Sari bunga yang harum",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 774,
+    "nama": "Sekarjati",
+    "arab": "",
+    "arti": "Bunga yang sejati dan tulus",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 775,
+    "nama": "Kusumawati",
+    "arab": "",
+    "arti": "Wanita bunga yang indah",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 776,
+    "nama": "Kusumawardhani",
+    "arab": "",
+    "arti": "Putri bunga yang berkembang",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 777,
+    "nama": "Tribuana",
+    "arab": "",
+    "arti": "Tiga dunia, pemimpin tiga alam",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 778,
+    "nama": "Suhita",
+    "arab": "",
+    "arti": "Yang baik, berbudi luhur",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 779,
+    "nama": "Hayuning",
+    "arab": "",
+    "arti": "Kecantikan, elok dan rupawan",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 780,
+    "nama": "Ayudya",
+    "arab": "",
+    "arti": "Cantik berseri, indah jelita",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 781,
+    "nama": "Ayuningsih",
+    "arab": "",
+    "arti": "Putri cantik yang menawan",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 782,
+    "nama": "Kinasih",
+    "arab": "",
+    "arti": "Yang disayangi, yang dikasihi",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 783,
+    "nama": "Gendis",
+    "arab": "",
+    "arti": "Manis seperti gula, lembut hati",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 784,
+    "nama": "Banowati",
+    "arab": "",
+    "arti": "Putri hutan, lembut dan alami",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 785,
+    "nama": "Anggraini",
+    "arab": "",
+    "arti": "Bunga yang mekar pada hari Selasa",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 786,
+    "nama": "Anggiani",
+    "arab": "",
+    "arti": "Putri yang penuh semangat",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 787,
+    "nama": "Puspita",
+    "arab": "",
+    "arti": "Bunga yang mekar indah",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 788,
+    "nama": "Puspitasari",
+    "arab": "",
+    "arti": "Sari bunga yang mekar harum",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 789,
+    "nama": "Puspitorini",
+    "arab": "",
+    "arti": "Permata bunga yang indah",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 790,
+    "nama": "Nuraini",
+    "arab": "",
+    "arti": "Cahaya yang bersih dan murni",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 791,
+    "nama": "Nugraheni",
+    "arab": "",
+    "arti": "Putri pembawa anugerah",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 792,
+    "nama": "Lestarini",
+    "arab": "",
+    "arti": "Putri yang abadi dan terjaga",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 793,
+    "nama": "Kartini",
+    "arab": "",
+    "arti": "Bersinar, wanita mulia bercahaya",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 794,
+    "nama": "Harini",
+    "arab": "",
+    "arti": "Rusa betina, lemah lembut",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 795,
+    "nama": "Handayani",
+    "arab": "",
+    "arti": "Pemberi semangat, penuh motivasi",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 796,
+    "nama": "Indrawati",
+    "arab": "",
+    "arti": "Putri cemerlang seperti Indra",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 797,
+    "nama": "Ismawati",
+    "arab": "",
+    "arti": "Putri langit yang tinggi",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 798,
+    "nama": "Setya",
+    "arab": "",
+    "arti": "Setia, terpercaya, jujur",
+    "asalBahasa": "Jawa",
+    "gender": "U"
+  },
+  {
+    "id": 799,
+    "nama": "Satya",
+    "arab": "",
+    "arti": "Kesetiaan dan kejujuran",
+    "asalBahasa": "Jawa",
+    "gender": "U"
+  },
+  {
+    "id": 800,
+    "nama": "Wening",
+    "arab": "",
+    "arti": "Jernih, bening, suci hati",
+    "asalBahasa": "Jawa",
+    "gender": "U"
+  },
+  {
+    "id": 801,
+    "nama": "Bening",
+    "arab": "",
+    "arti": "Jernih, bersih, hati yang suci",
+    "asalBahasa": "Jawa",
+    "gender": "U"
+  },
+  {
+    "id": 802,
+    "nama": "Tirto",
+    "arab": "",
+    "arti": "Air, sumber kehidupan",
+    "asalBahasa": "Jawa",
+    "gender": "U"
+  },
+  {
+    "id": 803,
+    "nama": "Wrekso",
+    "arab": "",
+    "arti": "Pohon, tegak kuat berakar",
+    "asalBahasa": "Jawa",
+    "gender": "U"
+  },
+  {
+    "id": 804,
+    "nama": "Tejo",
+    "arab": "",
+    "arti": "Cahaya sinar terang",
+    "asalBahasa": "Jawa",
+    "gender": "U"
+  },
+  {
+    "id": 805,
+    "nama": "Hasta",
+    "arab": "",
+    "arti": "Tangan, karya nyata",
+    "asalBahasa": "Jawa",
+    "gender": "U"
+  },
+  {
+    "id": 806,
+    "nama": "Cakra",
+    "arab": "",
+    "arti": "Roda, senjata kebenaran, kekuasaan",
+    "asalBahasa": "Jawa",
+    "gender": "U"
+  },
+  {
+    "id": 807,
+    "nama": "Karya",
+    "arab": "",
+    "arti": "Karya, hasil kerja nyata",
+    "asalBahasa": "Jawa",
+    "gender": "U"
+  },
+  {
+    "id": 808,
+    "nama": "Mukti",
+    "arab": "",
+    "arti": "Mulia, makmur, sejahtera",
+    "asalBahasa": "Jawa",
+    "gender": "U"
+  },
+  {
+    "id": 809,
+    "nama": "Langit",
+    "arab": "",
+    "arti": "Langit tinggi, luas tanpa batas",
+    "asalBahasa": "Jawa",
+    "gender": "U"
+  },
+  {
+    "id": 810,
+    "nama": "Bumi",
+    "arab": "",
+    "arti": "Bumi, kokoh dan memberi kehidupan",
+    "asalBahasa": "Jawa",
+    "gender": "U"
+  },
+  {
+    "id": 811,
+    "nama": "Daru",
+    "arab": "",
+    "arti": "Wahyu, anugerah langit",
+    "asalBahasa": "Jawa",
+    "gender": "U"
+  },
+  {
+    "id": 812,
+    "nama": "Wahyusari",
+    "arab": "",
+    "arti": "Anugerah wahyu yang berharga",
+    "asalBahasa": "Jawa",
+    "gender": "U"
+  },
+  {
+    "id": 813,
+    "nama": "Wisma",
+    "arab": "",
+    "arti": "Rumah, tempat berlindung",
+    "asalBahasa": "Jawa",
+    "gender": "U"
+  },
+  {
+    "id": 814,
+    "nama": "Hapsari",
+    "arab": "",
+    "arti": "Fajar, cahaya pertama hari",
+    "asalBahasa": "Jawa",
+    "gender": "U"
+  },
+  {
+    "id": 815,
+    "nama": "Prana",
+    "arab": "",
+    "arti": "Jiwa, nafas kehidupan",
+    "asalBahasa": "Jawa",
+    "gender": "U"
+  },
+  {
+    "id": 816,
+    "nama": "Anggara",
+    "arab": "",
+    "arti": "Api, semangat membara",
+    "asalBahasa": "Jawa",
+    "gender": "U"
+  },
+  {
+    "id": 817,
+    "nama": "Wisesa",
+    "arab": "",
+    "arti": "Kekuasaan, kewibawaan tertinggi",
+    "asalBahasa": "Jawa",
+    "gender": "U"
+  },
+  {
+    "id": 818,
+    "nama": "Cipta",
+    "arab": "",
+    "arti": "Cipta, kreasi, daya pikir",
+    "asalBahasa": "Jawa",
+    "gender": "U"
+  },
+  {
+    "id": 819,
+    "nama": "Rasa",
+    "arab": "",
+    "arti": "Perasaan yang dalam, peka hati",
+    "asalBahasa": "Jawa",
+    "gender": "U"
+  },
+  {
+    "id": 820,
+    "nama": "Pradhana",
+    "arab": "",
+    "arti": "Utama, paling unggul dan mulia",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 821,
+    "nama": "Prabanta",
+    "arab": "",
+    "arti": "Cahaya yang berkilau di depan",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 822,
+    "nama": "Widhiantoro",
+    "arab": "",
+    "arti": "Penuh ilmu dan wawasan luas",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 823,
+    "nama": "Adisuryo",
+    "arab": "",
+    "arti": "Matahari yang utama dan agung",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 824,
+    "nama": "Karyono",
+    "arab": "",
+    "arti": "Penuh karya dan kebaikan",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 825,
+    "nama": "Darmono",
+    "arab": "",
+    "arti": "Yang berbuat dharma, amal kebaikan",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 826,
+    "nama": "Sembodo",
+    "arab": "",
+    "arti": "Kesatria, berjiwa ksatria sejati",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 827,
+    "nama": "Baskoro",
+    "arab": "",
+    "arti": "Matahari, sumber sinar kehidupan",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 828,
+    "nama": "Purnawan",
+    "arab": "",
+    "arti": "Purnama, sempurna dalam segala hal",
+    "asalBahasa": "Jawa",
+    "gender": "L"
+  },
+  {
+    "id": 829,
+    "nama": "Rengganing",
+    "arab": "",
+    "arti": "Gadis yang anggun dan cantik",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 830,
+    "nama": "Mayangsari",
+    "arab": "",
+    "arti": "Sari bunga mayang yang harum",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 831,
+    "nama": "Mayang",
+    "arab": "",
+    "arti": "Bunga pinang, indah dan menawan",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 832,
+    "nama": "Padmasari",
+    "arab": "",
+    "arti": "Sari teratai, bersih dan suci",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 833,
+    "nama": "Nilawati",
+    "arab": "",
+    "arti": "Wanita biru langit, anggun luhur",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 834,
+    "nama": "Restiningsih",
+    "arab": "",
+    "arti": "Putri yang tenang dan damai",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 835,
+    "nama": "Dewanti",
+    "arab": "",
+    "arti": "Putri yang bersifat dewi, mulia",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  },
+  {
+    "id": 836,
+    "nama": "Primasti",
+    "arab": "",
+    "arti": "Pertama dan utama, terbaik",
+    "asalBahasa": "Jawa",
+    "gender": "P"
+  }
+]
