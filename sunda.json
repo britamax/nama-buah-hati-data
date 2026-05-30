@@ -1,0 +1,938 @@
+[
+  {
+    "id": 147,
+    "nama": "Asep",
+    "arab": "",
+    "arti": "Yang baik, tampan",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 148,
+    "nama": "Iwan",
+    "arab": "",
+    "arti": "Kuat, teguh",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 149,
+    "nama": "Ujang",
+    "arab": "",
+    "arti": "Pemuda, anak lelaki",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 150,
+    "nama": "Dede",
+    "arab": "",
+    "arti": "Adik laki-laki, pemuda",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 151,
+    "nama": "Agus",
+    "arab": "",
+    "arti": "Mulia, agung",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 152,
+    "nama": "Heri",
+    "arab": "",
+    "arti": "Raja, pemimpin",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 153,
+    "nama": "Raden",
+    "arab": "",
+    "arti": "Bangsawan, priyayi",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 154,
+    "nama": "Tatang",
+    "arab": "",
+    "arti": "Yang mengayomi, melindungi",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 155,
+    "nama": "Wawan",
+    "arab": "",
+    "arti": "Kokoh, kuat",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 156,
+    "nama": "Yayan",
+    "arab": "",
+    "arti": "Menjaga, merawat",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 157,
+    "nama": "Euis",
+    "arab": "",
+    "arti": "Cantik, molek",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 158,
+    "nama": "Neng",
+    "arab": "",
+    "arti": "Gadis muda, sayang",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 159,
+    "nama": "Teh Wati",
+    "arab": "",
+    "arti": "Kakak perempuan penyayang",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 160,
+    "nama": "Komalasari",
+    "arab": "",
+    "arti": "Putri yang lembut bagai bunga",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 161,
+    "nama": "Lestari",
+    "arab": "",
+    "arti": "Abadi, lestari, tetap indah",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 162,
+    "nama": "Mawar",
+    "arab": "",
+    "arti": "Bunga mawar, indah berduri",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 163,
+    "nama": "Nenden",
+    "arab": "",
+    "arti": "Gadis bangsawan, cantik",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 164,
+    "nama": "Popon",
+    "arab": "",
+    "arti": "Yang dirawat, dimanjakan",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 165,
+    "nama": "Rohimah",
+    "arab": "",
+    "arti": "Penuh kasih, penyayang",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 837,
+    "nama": "Deden",
+    "arab": "",
+    "arti": "Anak laki-laki yang disayangi",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 838,
+    "nama": "Ending",
+    "arab": "",
+    "arti": "Pemimpin yang bijak",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 839,
+    "nama": "Encep",
+    "arab": "",
+    "arti": "Putra bangsawan yang mulia",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 840,
+    "nama": "Nanang",
+    "arab": "",
+    "arti": "Anak laki-laki kebanggaan keluarga",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 841,
+    "nama": "Cecep",
+    "arab": "",
+    "arti": "Putra yang cerdas dan bijaksana",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 842,
+    "nama": "Dadang",
+    "arab": "",
+    "arti": "Pemuda yang gagah dan kuat",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 843,
+    "nama": "Entang",
+    "arab": "",
+    "arti": "Putra yang terhormat dan mulia",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 844,
+    "nama": "Ganjar",
+    "arab": "",
+    "arti": "Ganjaran dan rezeki yang berlimpah",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 845,
+    "nama": "Iing",
+    "arab": "",
+    "arti": "Panggilan sayang untuk anak laki-laki",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 846,
+    "nama": "Jajang",
+    "arab": "",
+    "arti": "Penjaga yang setia dan teguh",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 847,
+    "nama": "Kang",
+    "arab": "",
+    "arti": "Kakak laki-laki yang dihormati",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 848,
+    "nama": "Mamang",
+    "arab": "",
+    "arti": "Paman, pria yang bijak dan disegani",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 849,
+    "nama": "Nana",
+    "arab": "",
+    "arti": "Pemuda yang lembut hati",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 850,
+    "nama": "Oded",
+    "arab": "",
+    "arti": "Pria yang teguh dan bertanggung jawab",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 851,
+    "nama": "Pepep",
+    "arab": "",
+    "arti": "Putra yang penuh semangat",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 852,
+    "nama": "Restu",
+    "arab": "",
+    "arti": "Restu dan doa dari orang tua",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 853,
+    "nama": "Riva",
+    "arab": "",
+    "arti": "Pemuda yang bersemangat dan dinamis",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 854,
+    "nama": "Ucup",
+    "arab": "",
+    "arti": "Panggilan sayang untuk anak laki-laki Sunda",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 855,
+    "nama": "Zaenal",
+    "arab": "",
+    "arti": "Perhiasan yang indah dan bernilai",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 856,
+    "nama": "Dani",
+    "arab": "",
+    "arti": "Pemuda yang tangguh dan bersemangat",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 857,
+    "nama": "Egi",
+    "arab": "",
+    "arti": "Pemuda yang energik dan bersemangat",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 858,
+    "nama": "Gilang",
+    "arab": "",
+    "arti": "Cahaya yang berkilau dan gemilang",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 859,
+    "nama": "Jaka",
+    "arab": "",
+    "arti": "Pemuda yang gagah berani",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 860,
+    "nama": "Karna",
+    "arab": "",
+    "arti": "Pria pemberani seperti pahlawan",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 861,
+    "nama": "Mamat",
+    "arab": "",
+    "arti": "Panggilan akrab laki-laki Sunda yang terhormat",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 862,
+    "nama": "Nazar",
+    "arab": "",
+    "arti": "Nazar dan janji suci yang dipenuhi",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 863,
+    "nama": "Opik",
+    "arab": "",
+    "arti": "Pemuda yang cekatan dan pandai",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 864,
+    "nama": "Panji",
+    "arab": "",
+    "arti": "Panji kemuliaan yang berkibar",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 865,
+    "nama": "Sandi",
+    "arab": "",
+    "arti": "Pemuda yang cerdas dan cermat",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 866,
+    "nama": "Yusef",
+    "arab": "",
+    "arti": "Pria tampan dan penuh kebaikan",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 867,
+    "nama": "Erlan",
+    "arab": "",
+    "arti": "Pemuda yang berjiwa besar dan berani",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 868,
+    "nama": "Fauzi",
+    "arab": "",
+    "arti": "Kemenangan dan keberhasilan yang gemilang",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 869,
+    "nama": "Gani",
+    "arab": "",
+    "arti": "Kaya hati dan dermawan",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 870,
+    "nama": "Jalu",
+    "arab": "",
+    "arti": "Anak laki-laki yang gagah perkasa",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 871,
+    "nama": "Kurnia",
+    "arab": "",
+    "arti": "Anugerah dan karunia dari Tuhan",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 872,
+    "nama": "Mirza",
+    "arab": "",
+    "arti": "Pangeran yang mulia dan terhormat",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 873,
+    "nama": "Rizal",
+    "arab": "",
+    "arti": "Pria sejati yang tangguh dan mulia",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 874,
+    "nama": "Taufik",
+    "arab": "",
+    "arti": "Petunjuk dan taufik dari Allah",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 875,
+    "nama": "Udin",
+    "arab": "",
+    "arti": "Panggilan akrab laki-laki Sunda yang bijak",
+    "asalBahasa": "Sunda",
+    "gender": "L"
+  },
+  {
+    "id": 876,
+    "nama": "Nani",
+    "arab": "",
+    "arti": "Gadis yang lembut dan penuh kasih",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 877,
+    "nama": "Wati",
+    "arab": "",
+    "arti": "Perempuan yang setia dan berbakti",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 878,
+    "nama": "Iis",
+    "arab": "",
+    "arti": "Gadis manis dan menyenangkan",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 879,
+    "nama": "Ade",
+    "arab": "",
+    "arti": "Adik perempuan yang dicintai dan disayang",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 880,
+    "nama": "Titin",
+    "arab": "",
+    "arti": "Gadis yang teliti dan cermat",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 881,
+    "nama": "Yuyun",
+    "arab": "",
+    "arti": "Perempuan yang ramah dan menyenangkan",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 882,
+    "nama": "Pipit",
+    "arab": "",
+    "arti": "Seperti burung pipit yang lincah dan riang",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 883,
+    "nama": "Cucu",
+    "arab": "",
+    "arti": "Perempuan yang disayang seperti cucu",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 884,
+    "nama": "Dedeh",
+    "arab": "",
+    "arti": "Gadis Sunda yang lembut dan baik hati",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 885,
+    "nama": "Eneng",
+    "arab": "",
+    "arti": "Panggilan mesra gadis Sunda yang manis",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 886,
+    "nama": "Gina",
+    "arab": "",
+    "arti": "Gadis yang cantik dan bersemangat",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 887,
+    "nama": "Heni",
+    "arab": "",
+    "arti": "Perempuan yang menyenangkan dan bahagia",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 888,
+    "nama": "Imas",
+    "arab": "",
+    "arti": "Emas yang berharga, perempuan bernilai tinggi",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 889,
+    "nama": "Juju",
+    "arab": "",
+    "arti": "Gadis yang jujur dan polos hatinya",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 890,
+    "nama": "Kokom",
+    "arab": "",
+    "arti": "Gadis Sunda yang menggemaskan dan dicintai",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 891,
+    "nama": "Leni",
+    "arab": "",
+    "arti": "Perempuan yang lemah lembut dan ramah",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 892,
+    "nama": "Mimi",
+    "arab": "",
+    "arti": "Gadis yang manis dan menggemaskan",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 893,
+    "nama": "Nining",
+    "arab": "",
+    "arti": "Gadis yang cantik dan penuh pesona",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 894,
+    "nama": "Oom",
+    "arab": "",
+    "arti": "Perempuan yang dihormati dan bijaksana",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 895,
+    "nama": "Popoh",
+    "arab": "",
+    "arti": "Perempuan penyayang yang hangat hatinya",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 896,
+    "nama": "Reni",
+    "arab": "",
+    "arti": "Gadis yang riang dan penuh keceriaan",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 897,
+    "nama": "Siti",
+    "arab": "",
+    "arti": "Wanita mulia dan terhormat",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 898,
+    "nama": "Teti",
+    "arab": "",
+    "arti": "Gadis yang teguh dan penuh semangat",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 899,
+    "nama": "Uun",
+    "arab": "",
+    "arti": "Perempuan yang baik hati dan penurut",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 900,
+    "nama": "Vita",
+    "arab": "",
+    "arti": "Penuh kehidupan dan semangat membara",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 901,
+    "nama": "Wiwin",
+    "arab": "",
+    "arti": "Perempuan yang lembut dan berwibawa",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 902,
+    "nama": "Yeni",
+    "arab": "",
+    "arti": "Gadis yang cerah dan membawa kebahagiaan",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 903,
+    "nama": "Bunga",
+    "arab": "",
+    "arti": "Seperti bunga yang mekar indah dan harum",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 904,
+    "nama": "Cici",
+    "arab": "",
+    "arti": "Gadis manis yang penuh semangat",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 905,
+    "nama": "Elsa",
+    "arab": "",
+    "arti": "Gadis modern yang anggun dan percaya diri",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 906,
+    "nama": "Intan",
+    "arab": "",
+    "arti": "Intan berlian yang bersinar dan berharga",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 907,
+    "nama": "Kania",
+    "arab": "",
+    "arti": "Gadis yang bersih dan bercahaya",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 908,
+    "nama": "Lilis",
+    "arab": "",
+    "arti": "Bunga lili yang cantik dan mempesona",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 909,
+    "nama": "Mega",
+    "arab": "",
+    "arti": "Awan yang indah menghiasi langit biru",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 910,
+    "nama": "Nurul",
+    "arab": "نور",
+    "arti": "Cahaya yang menerangi kegelapan",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 911,
+    "nama": "Okta",
+    "arab": "",
+    "arti": "Anak kedelapan yang membawa keberuntungan",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 912,
+    "nama": "Tika",
+    "arab": "",
+    "arti": "Gadis yang teguh pendirian dan mandiri",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 913,
+    "nama": "Vera",
+    "arab": "",
+    "arti": "Gadis modern yang benar dan jujur",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 914,
+    "nama": "Winda",
+    "arab": "",
+    "arti": "Gadis yang cantik bak angina semilir",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 915,
+    "nama": "Xena",
+    "arab": "",
+    "arti": "Gadis pemberani dan penuh semangat",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 916,
+    "nama": "Yulia",
+    "arab": "",
+    "arti": "Gadis yang cemerlang dan penuh cahaya",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 917,
+    "nama": "Zulfah",
+    "arab": "",
+    "arti": "Kedekatan dengan kemuliaan yang abadi",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 918,
+    "nama": "Beti",
+    "arab": "",
+    "arti": "Gadis Sunda yang setia dan penuh bakti",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 919,
+    "nama": "Cicih",
+    "arab": "",
+    "arti": "Gadis cantik khas Sunda yang mempesona",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 920,
+    "nama": "Diah",
+    "arab": "",
+    "arti": "Putri cantik yang bercahaya dan anggun",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 921,
+    "nama": "Erna",
+    "arab": "",
+    "arti": "Gadis yang serius dan bertanggung jawab",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 922,
+    "nama": "Feni",
+    "arab": "",
+    "arti": "Gadis yang menawan dan berpenampilan menarik",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 923,
+    "nama": "Lastri",
+    "arab": "",
+    "arti": "Perempuan yang sabar dan tulus hatinya",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 924,
+    "nama": "Mimin",
+    "arab": "",
+    "arti": "Perempuan yang bersemangat dan penuh kreativitas",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 925,
+    "nama": "Nisa",
+    "arab": "نساء",
+    "arti": "Wanita yang mulia dan terhormat",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 926,
+    "nama": "Rosmini",
+    "arab": "",
+    "arti": "Gadis harum seperti bunga mawar yang mekar",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 927,
+    "nama": "Suci",
+    "arab": "",
+    "arti": "Bersih suci hati dan jiwa yang murni",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 928,
+    "nama": "Triani",
+    "arab": "",
+    "arti": "Gadis ketiga yang membawa kebahagiaan",
+    "asalBahasa": "Sunda",
+    "gender": "P"
+  },
+  {
+    "id": 929,
+    "nama": "Rian",
+    "arab": "",
+    "arti": "Cerah dan bersemangat dalam kehidupan",
+    "asalBahasa": "Sunda",
+    "gender": "U"
+  },
+  {
+    "id": 930,
+    "nama": "Reza",
+    "arab": "",
+    "arti": "Ridha dan kepuasan yang membawa keberkahan",
+    "asalBahasa": "Sunda",
+    "gender": "U"
+  },
+  {
+    "id": 931,
+    "nama": "Dian",
+    "arab": "",
+    "arti": "Cahaya lilin yang menerangi dan hangat",
+    "asalBahasa": "Sunda",
+    "gender": "U"
+  },
+  {
+    "id": 932,
+    "nama": "Ari",
+    "arab": "",
+    "arti": "Singa pemberani atau pemuda mulia",
+    "asalBahasa": "Sunda",
+    "gender": "U"
+  },
+  {
+    "id": 933,
+    "nama": "Fira",
+    "arab": "",
+    "arti": "Pemuda atau gadis yang cerdas dan tangkas",
+    "asalBahasa": "Sunda",
+    "gender": "U"
+  },
+  {
+    "id": 934,
+    "nama": "Yuda",
+    "arab": "",
+    "arti": "Prajurit pemberani yang teguh",
+    "asalBahasa": "Sunda",
+    "gender": "U"
+  }
+]
