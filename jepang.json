@@ -1,0 +1,695 @@
+[
+  {
+    "nama": "Haruki",
+    "arab": "",
+    "arti": "cahaya musim semi, bersinar terang",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Akari",
+    "arab": "",
+    "arti": "cahaya, sinar terang",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Hikaru",
+    "arab": "",
+    "arti": "bercahaya, bersinar",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Hana",
+    "arab": "",
+    "arti": "bunga, kebahagiaan",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Ren",
+    "arab": "",
+    "arti": "teratai, cinta, kebaikan",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Sora",
+    "arab": "",
+    "arti": "langit",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Nami",
+    "arab": "",
+    "arti": "gelombang, ombak laut",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Kaito",
+    "arab": "",
+    "arti": "lautan luas, samudra yang indah",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Yuki",
+    "arab": "",
+    "arti": "keberuntungan, salju yang murni",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Riku",
+    "arab": "",
+    "arti": "daratan, tanah yang kuat",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Koharu",
+    "arab": "",
+    "arti": "musim semi kecil, hangat dan cerah",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Taiga",
+    "arab": "",
+    "arti": "sungai besar, arus yang kuat",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Mizuki",
+    "arab": "",
+    "arti": "keindahan air yang bersih",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Hayato",
+    "arab": "",
+    "arti": "orang yang cepat dan penuh semangat",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Sakura",
+    "arab": "",
+    "arti": "bunga sakura, keindahan yang mempesona",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Kento",
+    "arab": "",
+    "arti": "jalan yang lurus dan baik",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Yuna",
+    "arab": "",
+    "arti": "lembut, penuh kasih sayang",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Hiroto",
+    "arab": "",
+    "arti": "terbang tinggi, besar dan mulia",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Aoi",
+    "arab": "",
+    "arti": "biru cerah seperti langit dan laut",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Souta",
+    "arab": "",
+    "arti": "angin segar yang kencang",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Kana",
+    "arab": "",
+    "arti": "indah, elegan dan berbudi",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Haruto",
+    "arab": "",
+    "arti": "cahaya matahari, terbang tinggi",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Noa",
+    "arab": "",
+    "arti": "kasih sayang, kelembutan hati",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Ryota",
+    "arab": "",
+    "arti": "segar, kuat dan menyegarkan",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Saki",
+    "arab": "",
+    "arti": "mekar, harapan yang tumbuh",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Takumi",
+    "arab": "",
+    "arti": "pengrajin berbakat, ahli yang terampil",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Haru",
+    "arab": "",
+    "arti": "musim semi, cahaya, kegembiraan",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Mio",
+    "arab": "",
+    "arti": "aliran air yang indah",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Shun",
+    "arab": "",
+    "arti": "cepat, tangkas dan berbakat",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Kotone",
+    "arab": "",
+    "arti": "suara koto yang merdu dan indah",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Koki",
+    "arab": "",
+    "arti": "bersinar dengan penuh kemuliaan",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Yua",
+    "arab": "",
+    "arti": "terikat kasih, penuh rasa cinta",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Ryusei",
+    "arab": "",
+    "arti": "bintang jatuh, bercahaya seperti meteor",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Kohana",
+    "arab": "",
+    "arti": "bunga kecil yang indah dan harum",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Naoki",
+    "arab": "",
+    "arti": "pohon yang lurus dan jujur",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Hinata",
+    "arab": "",
+    "arti": "menghadap sinar matahari, tempat yang cerah",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Yoshiki",
+    "arab": "",
+    "arti": "pohon kebaikan, semangat yang baik",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Riko",
+    "arab": "",
+    "arti": "anak yang cantik penuh kasih sayang",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Kenji",
+    "arab": "",
+    "arti": "putra yang kuat dan sehat",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Yori",
+    "arab": "",
+    "arti": "dapat dipercaya, teguh dan setia",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Isamu",
+    "arab": "",
+    "arti": "pemberani, penuh semangat dan kuat",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Amane",
+    "arab": "",
+    "arti": "suara langit, pemberian dari atas",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Taiyo",
+    "arab": "",
+    "arti": "matahari, sumber cahaya dan kehangatan",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Kirara",
+    "arab": "",
+    "arti": "berkilauan, bersinar terang seperti bintang",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Minato",
+    "arab": "",
+    "arti": "pelabuhan yang aman dan damai",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Sumire",
+    "arab": "",
+    "arti": "bunga violet, elegan dan anggun",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Tsuki",
+    "arab": "",
+    "arti": "bulan, cahaya malam yang lembut",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Sosuke",
+    "arab": "",
+    "arti": "membantu orang lain dengan tulus",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Kokomi",
+    "arab": "",
+    "arti": "hati yang indah dan penuh kebaikan",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Itsuki",
+    "arab": "",
+    "arti": "pohon yang kokoh dan tegak berdiri",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Nanami",
+    "arab": "",
+    "arti": "tujuh lautan, keindahan yang luas",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Kazuki",
+    "arab": "",
+    "arti": "harapan yang bersinar dengan harmoni",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Asahi",
+    "arab": "",
+    "arti": "sinar matahari pagi yang pertama",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Hotaru",
+    "arab": "",
+    "arti": "kunang-kunang, cahaya kecil yang indah",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Makoto",
+    "arab": "",
+    "arti": "tulus, jujur dan bersungguh-sungguh",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Shiori",
+    "arab": "",
+    "arti": "penanda, panduan menuju keindahan",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Noritaka",
+    "arab": "",
+    "arti": "mulia dan teguh dalam kebenaran",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Kimi",
+    "arab": "",
+    "arti": "engkau yang berharga, mulia dan disayangi",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Soseki",
+    "arab": "",
+    "arti": "batu di atas aliran air yang jernih",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Yukino",
+    "arab": "",
+    "arti": "lapangan salju yang murni dan bersih",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Raito",
+    "arab": "",
+    "arti": "cahaya, penerang jalan kehidupan",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Kohaku",
+    "arab": "",
+    "arti": "kuning keemasan seperti amber, berharga",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Natsumi",
+    "arab": "",
+    "arti": "keindahan musim panas yang cerah",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Tsubasa",
+    "arab": "",
+    "arti": "sayap, kebebasan dan harapan tinggi",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Ayame",
+    "arab": "",
+    "arti": "bunga iris ungu yang cantik dan anggun",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Yuto",
+    "arab": "",
+    "arti": "orang yang mulia dan berwibawa",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Hikari",
+    "arab": "",
+    "arti": "cahaya, sinar yang menerangi kegelapan",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Kaname",
+    "arab": "",
+    "arti": "inti, pusat dan yang paling penting",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Momoka",
+    "arab": "",
+    "arti": "bunga persik yang harum dan cantik",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Rinto",
+    "arab": "",
+    "arti": "teguh seperti batu, penuh kedamaian",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Haruna",
+    "arab": "",
+    "arti": "bunga musim semi yang mekar indah",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Yusei",
+    "arab": "",
+    "arti": "bintang planet yang bersinar jauh",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Kokoro",
+    "arab": "",
+    "arti": "hati, perasaan yang tulus dan dalam",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Takeru",
+    "arab": "",
+    "arti": "gagah berani, kuat dan penuh semangat",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Ayaka",
+    "arab": "",
+    "arti": "bunga yang berwarna-warni dan semerbak",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Seiichi",
+    "arab": "",
+    "arti": "satu kejujuran, tulus dan berintegritas",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Tomoka",
+    "arab": "",
+    "arti": "bunga persahabatan yang hangat dan indah",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Noboru",
+    "arab": "",
+    "arti": "naik tinggi, berkembang dan maju",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Suzuna",
+    "arab": "",
+    "arti": "bunga lonceng kecil yang merdu",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Hayashi",
+    "arab": "",
+    "arti": "hutan kecil yang subur dan hijau",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Wakana",
+    "arab": "",
+    "arti": "lagu yang penuh keharmonisan dan damai",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Seiryu",
+    "arab": "",
+    "arti": "naga biru langit yang mulia dan kuat",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Miharu",
+    "arab": "",
+    "arti": "cahaya musim semi yang indah dan lembut",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Akito",
+    "arab": "",
+    "arti": "cahaya yang terang dan bersemangat",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Satsuki",
+    "arab": "",
+    "arti": "bulan kelima, musim yang segar dan hidup",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Masato",
+    "arab": "",
+    "arti": "benar dan lurus, orang yang bermartabat",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Yuriko",
+    "arab": "",
+    "arti": "anak dari bunga lily yang cantik",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Takahiro",
+    "arab": "",
+    "arti": "mulia dan tinggi, berwibawa dan agung",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Kanon",
+    "arab": "",
+    "arti": "bunga yang berbunyi merdu dan harmonis",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Fumito",
+    "arab": "",
+    "arti": "orang yang penuh ilmu dan kebijaksanaan",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Kurumi",
+    "arab": "",
+    "arti": "kenari kecil, berharga dan manis",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Hiroshi",
+    "arab": "",
+    "arti": "luas, dermawan dan berjiwa besar",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Akemi",
+    "arab": "",
+    "arti": "keindahan yang bersinar seperti fajar",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Shota",
+    "arab": "",
+    "arti": "terbang tinggi, luas dan berwawasan lebar",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Tomomi",
+    "arab": "",
+    "arti": "kecantikan persahabatan yang tulus",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Yuichi",
+    "arab": "",
+    "arti": "satu kemuliaan, orang yang istimewa",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Sena",
+    "arab": "",
+    "arti": "sayap kecil yang ringan dan bebas",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  },
+  {
+    "nama": "Kiyoshi",
+    "arab": "",
+    "arti": "bersih, murni dan jernih hatinya",
+    "asalBahasa": "Jepang",
+    "gender": "L"
+  },
+  {
+    "nama": "Ichika",
+    "arab": "",
+    "arti": "satu keindahan yang istimewa dan berharga",
+    "asalBahasa": "Jepang",
+    "gender": "P"
+  }
+]

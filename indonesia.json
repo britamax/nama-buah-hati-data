@@ -582,5 +582,439 @@
     "arti": "Ratu muda yang cantik mulia",
     "asalBahasa": "Indonesia",
     "gender": "U"
+  },
+  {
+    "nama": "Fajar",
+    "arab": "",
+    "arti": "Waktu terbitnya matahari, simbol harapan baru",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Bagas",
+    "arab": "",
+    "arti": "Sehat, segar dan penuh semangat",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Langit",
+    "arab": "",
+    "arti": "Hamparan luas di atas bumi, simbol keagungan",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Surya",
+    "arab": "",
+    "arti": "Matahari yang menyinari dan memberi kehidupan",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Gemilang",
+    "arab": "",
+    "arti": "Bersinar terang, penuh kejayaan dan kemuliaan",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Bayu",
+    "arab": "",
+    "arti": "Angin sepoi yang menyejukkan",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Cakra",
+    "arab": "",
+    "arti": "Roda kehidupan yang terus berputar dan maju",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Elang",
+    "arab": "",
+    "arti": "Burung gagah yang terbang tinggi, simbol kebebasan",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Galih",
+    "arab": "",
+    "arti": "Inti yang kuat, bagian terdalam yang kokoh",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Harum",
+    "arab": "",
+    "arti": "Wangi semerbak, dikenal dengan kebaikan",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Indra",
+    "arab": "",
+    "arti": "Penguasa yang agung dan berwibawa",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Karya",
+    "arab": "",
+    "arti": "Hasil usaha yang bermakna dan bermanfaat",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Nirwana",
+    "arab": "",
+    "arti": "Ketenangan sempurna dan kedamaian abadi",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Panji",
+    "arab": "",
+    "arti": "Pemuda pemberani, panji-panji kemuliaan",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Satria",
+    "arab": "",
+    "arti": "Kesatria yang berani, jujur dan berjiwa mulia",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Terang",
+    "arab": "",
+    "arti": "Bercahaya dan memberi pencerahan kepada sesama",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Wira",
+    "arab": "",
+    "arti": "Pahlawan yang gagah berani dan pantang menyerah",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Yudha",
+    "arab": "",
+    "arti": "Pejuang tangguh yang penuh keberanian",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Zenit",
+    "arab": "",
+    "arti": "Puncak tertinggi, titik kejayaan yang sempurna",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Alam",
+    "arab": "",
+    "arti": "Semesta kehidupan yang luas dan penuh keajaiban",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Bintang",
+    "arab": "",
+    "arti": "Bintang yang bercahaya di langit malam",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Ceria",
+    "arab": "",
+    "arti": "Penuh keceriaan dan kegembiraan dalam hidup",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Damai",
+    "arab": "",
+    "arti": "Membawa kedamaian dan ketentraman bagi sesama",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Emas",
+    "arab": "",
+    "arti": "Berharga seperti emas, bernilai tinggi",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Mentari",
+    "arab": "",
+    "arti": "Matahari pagi yang hangat dan menerangi dunia",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Cahaya",
+    "arab": "",
+    "arti": "Sinar terang yang menerangi kegelapan",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Bunga",
+    "arab": "",
+    "arti": "Bunga yang indah harum dan menyenangkan",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Embun",
+    "arab": "",
+    "arti": "Titik air pagi hari yang menyegarkan dan murni",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Gemintang",
+    "arab": "",
+    "arti": "Kumpulan bintang yang indah di langit malam",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Jelita",
+    "arab": "",
+    "arti": "Cantik jelita dan mempesona dalam segala hal",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Karunia",
+    "arab": "",
+    "arti": "Anugerah Tuhan yang sangat berharga",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Lestari",
+    "arab": "",
+    "arti": "Abadi, terus bertahan dan selalu terjaga",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Mutiara",
+    "arab": "",
+    "arti": "Permata berharga dari laut yang sangat indah",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Nilam",
+    "arab": "",
+    "arti": "Batu permata biru yang berharga dan indah",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Pagi",
+    "arab": "",
+    "arti": "Waktu awal hari yang penuh harapan segar",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Ratna",
+    "arab": "",
+    "arti": "Permata yang indah dan sangat bernilai tinggi",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Tania",
+    "arab": "",
+    "arti": "Putri yang lembut, indah dan penuh kasih",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Untari",
+    "arab": "",
+    "arti": "Sumber air jernih yang menyegarkan dan memberi kehidupan",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Velia",
+    "arab": "",
+    "arti": "Gadis yang anggun berhati lembut dan penyayang",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Wulan",
+    "arab": "",
+    "arti": "Bulan yang bersinar terang menerangi malam",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Yasmin",
+    "arab": "",
+    "arti": "Bunga melati yang harum semerbak dan indah",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Zahra",
+    "arab": "",
+    "arti": "Bunga yang mekar indah penuh pesona",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Arum",
+    "arab": "",
+    "arti": "Harum semerbak mewangi dan menyenangkan",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Berlian",
+    "arab": "",
+    "arti": "Permata paling berharga yang tak tertandingi",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Endah",
+    "arab": "",
+    "arti": "Sangat indah dan memesona semua yang memandang",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Fajar Indah",
+    "arab": "",
+    "arti": "Keindahan pagi hari yang membawa harapan baru",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Girindra",
+    "arab": "",
+    "arti": "Gunung yang kokoh, kuat dan menjulang tinggi",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Hasta",
+    "arab": "",
+    "arti": "Delapan, melambangkan keberuntungan berlipat ganda",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Iswara",
+    "arab": "",
+    "arti": "Penguasa yang adil dan bijaksana",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Jati",
+    "arab": "",
+    "arti": "Asli, sejati, tulus dan tidak pernah berubah",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Kukuh",
+    "arab": "",
+    "arti": "Kokoh kuat dan teguh pendirian tak tergoyahkan",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Latri",
+    "arab": "",
+    "arti": "Cahaya malam yang lembut dan menenangkan hati",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Mega",
+    "arab": "",
+    "arti": "Awan putih yang lembut membawa rahmat hujan",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Nirmala",
+    "arab": "",
+    "arti": "Suci bersih tanpa noda dan selalu murni",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Purnama",
+    "arab": "",
+    "arti": "Bulan purnama yang bersinar penuh dan indah",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Qorina",
+    "arab": "",
+    "arti": "Teman setia yang selalu menemani dan mendukung",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Rinjani",
+    "arab": "",
+    "arti": "Megah seperti gunung Rinjani yang agung",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
+  },
+  {
+    "nama": "Semesta",
+    "arab": "",
+    "arti": "Seluruh alam raya yang luas penuh keajaiban",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Tirta",
+    "arab": "",
+    "arti": "Air jernih yang menyucikan dan memberi kehidupan",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Unggul",
+    "arab": "",
+    "arti": "Terbaik, melampaui yang lain dalam segala bidang",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Vastara",
+    "arab": "",
+    "arti": "Luas tak terbatas seperti samudra dan langit",
+    "asalBahasa": "Indonesia",
+    "gender": "L"
+  },
+  {
+    "nama": "Wening",
+    "arab": "",
+    "arti": "Jernih bening seperti air yang tak tercemar",
+    "asalBahasa": "Indonesia",
+    "gender": "P"
   }
 ]

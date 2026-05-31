@@ -1,11 +1,11 @@
 {
-  "version": 1,
+  "version": 2,
   "databases": [
     {
       "id": "arab",
       "label": "Arab",
-      "version": 1,
-      "count": 450,
+      "version": 2,
+      "count": 514,
       "filename": "arab.json",
       "url": "https://raw.githubusercontent.com/britamax/nama-buah-hati-data/main/arab.json"
     },
@@ -28,16 +28,16 @@
     {
       "id": "sunda",
       "label": "Sunda",
-      "version": 1,
-      "count": 117,
+      "version": 2,
+      "count": 188,
       "filename": "sunda.json",
       "url": "https://raw.githubusercontent.com/britamax/nama-buah-hati-data/main/sunda.json"
     },
     {
       "id": "melayu",
       "label": "Melayu",
-      "version": 1,
-      "count": 115,
+      "version": 2,
+      "count": 187,
       "filename": "melayu.json",
       "url": "https://raw.githubusercontent.com/britamax/nama-buah-hati-data/main/melayu.json"
     },
@@ -60,8 +60,8 @@
     {
       "id": "indonesia",
       "label": "Indonesia",
-      "version": 1,
-      "count": 73,
+      "version": 2,
+      "count": 135,
       "filename": "indonesia.json",
       "url": "https://raw.githubusercontent.com/britamax/nama-buah-hati-data/main/indonesia.json"
     },
@@ -76,8 +76,8 @@
     {
       "id": "modern",
       "label": "Modern",
-      "version": 1,
-      "count": 28,
+      "version": 2,
+      "count": 109,
       "filename": "modern.json",
       "url": "https://raw.githubusercontent.com/britamax/nama-buah-hati-data/main/modern.json"
     },
@@ -88,6 +88,14 @@
       "count": 18,
       "filename": "sanskerta.json",
       "url": "https://raw.githubusercontent.com/britamax/nama-buah-hati-data/main/sanskerta.json"
+    },
+    {
+      "id": "jepang",
+      "label": "Jepang",
+      "version": 1,
+      "count": 99,
+      "filename": "jepang.json",
+      "url": "https://raw.githubusercontent.com/britamax/nama-buah-hati-data/main/jepang.json"
     }
   ]
 }
