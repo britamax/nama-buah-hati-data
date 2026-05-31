@@ -7,7 +7,7 @@
       "version": 2,
       "count": 514,
       "filename": "arab.json",
-      "url": "https://raw.githubusercontent.com/britamax/nama-buah-hati-data/main/arab.json"
+      "url": "https://cdn.jsdelivr.net/gh/britamax/nama-buah-hati-data@main/arab.json"
     },
     {
       "id": "jawa",
@@ -15,7 +15,7 @@
       "version": 1,
       "count": 287,
       "filename": "jawa.json",
-      "url": "https://raw.githubusercontent.com/britamax/nama-buah-hati-data/main/jawa.json"
+      "url": "https://cdn.jsdelivr.net/gh/britamax/nama-buah-hati-data@main/jawa.json"
     },
     {
       "id": "persia",
@@ -23,7 +23,7 @@
       "version": 1,
       "count": 122,
       "filename": "persia.json",
-      "url": "https://raw.githubusercontent.com/britamax/nama-buah-hati-data/main/persia.json"
+      "url": "https://cdn.jsdelivr.net/gh/britamax/nama-buah-hati-data@main/persia.json"
     },
     {
       "id": "sunda",
@@ -31,7 +31,7 @@
       "version": 2,
       "count": 188,
       "filename": "sunda.json",
-      "url": "https://raw.githubusercontent.com/britamax/nama-buah-hati-data/main/sunda.json"
+      "url": "https://cdn.jsdelivr.net/gh/britamax/nama-buah-hati-data@main/sunda.json"
     },
     {
       "id": "melayu",
@@ -39,7 +39,7 @@
       "version": 2,
       "count": 187,
       "filename": "melayu.json",
-      "url": "https://raw.githubusercontent.com/britamax/nama-buah-hati-data/main/melayu.json"
+      "url": "https://cdn.jsdelivr.net/gh/britamax/nama-buah-hati-data@main/melayu.json"
     },
     {
       "id": "turki",
@@ -47,7 +47,7 @@
       "version": 1,
       "count": 92,
       "filename": "turki.json",
-      "url": "https://raw.githubusercontent.com/britamax/nama-buah-hati-data/main/turki.json"
+      "url": "https://cdn.jsdelivr.net/gh/britamax/nama-buah-hati-data@main/turki.json"
     },
     {
       "id": "arab-indonesia",
@@ -55,7 +55,7 @@
       "version": 1,
       "count": 80,
       "filename": "arab-indonesia.json",
-      "url": "https://raw.githubusercontent.com/britamax/nama-buah-hati-data/main/arab-indonesia.json"
+      "url": "https://cdn.jsdelivr.net/gh/britamax/nama-buah-hati-data@main/arab-indonesia.json"
     },
     {
       "id": "indonesia",
@@ -63,7 +63,7 @@
       "version": 2,
       "count": 135,
       "filename": "indonesia.json",
-      "url": "https://raw.githubusercontent.com/britamax/nama-buah-hati-data/main/indonesia.json"
+      "url": "https://cdn.jsdelivr.net/gh/britamax/nama-buah-hati-data@main/indonesia.json"
     },
     {
       "id": "sansekerta",
@@ -71,7 +71,7 @@
       "version": 1,
       "count": 35,
       "filename": "sansekerta.json",
-      "url": "https://raw.githubusercontent.com/britamax/nama-buah-hati-data/main/sansekerta.json"
+      "url": "https://cdn.jsdelivr.net/gh/britamax/nama-buah-hati-data@main/sansekerta.json"
     },
     {
       "id": "modern",
@@ -79,7 +79,7 @@
       "version": 2,
       "count": 109,
       "filename": "modern.json",
-      "url": "https://raw.githubusercontent.com/britamax/nama-buah-hati-data/main/modern.json"
+      "url": "https://cdn.jsdelivr.net/gh/britamax/nama-buah-hati-data@main/modern.json"
     },
     {
       "id": "sanskerta",
@@ -87,7 +87,7 @@
       "version": 1,
       "count": 18,
       "filename": "sanskerta.json",
-      "url": "https://raw.githubusercontent.com/britamax/nama-buah-hati-data/main/sanskerta.json"
+      "url": "https://cdn.jsdelivr.net/gh/britamax/nama-buah-hati-data@main/sanskerta.json"
     },
     {
       "id": "jepang",
@@ -95,7 +95,7 @@
       "version": 1,
       "count": 99,
       "filename": "jepang.json",
-      "url": "https://raw.githubusercontent.com/britamax/nama-buah-hati-data/main/jepang.json"
+      "url": "https://cdn.jsdelivr.net/gh/britamax/nama-buah-hati-data@main/jepang.json"
     }
   ]
 }
